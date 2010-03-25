@@ -1,0 +1,127 @@
+2009-03-27 06:45  nordfalk
+
+        * a Nepali noun noun used as verb in English (finish)
+	*    <rule comment="REGLA: on ARTICLE NOM - on the cat -> cat maa<vibhakti>
+	* to be verb
+	* genitive 
+	* In past tense, a  ले<vibhakti> is added to first noun
+
+2009-03-27 04:48  nordfalk
+
+        Reverted to English symbols and made partially functional
+
+
+2008-12-19 04:24  jimregan
+
+	* apertium-ne-en.ne.dix: fix the alphabet so that words tokenise --
+	  I think you'll find this will have the side effect of fixing bug
+	  78 (compare with bug 12), but I'm not going to check because
+	  life's too short to fix all of the brain damage in this module.
+	  Add a comment to hopefully discourage a repeat of the same
+	  mistake.
+
+2008-11-27 08:53  nordfalk
+
+2008-11-27 07:47  lkhatiwada
+
+	* apertium-ne-en.ne-en.dix, apertium-ne-en.ne.dix: added some verb
+
+2008-10-21 10:41  nordfalk
+
+	* apertium-ne-en.en.dix: fix num
+
+2008-10-21 10:15  nordfalk
+
+	* apertium-ne-en.ne.dix: Fixing monodix
+	* apertium-ne-en.ne-en.dix: Bidix fixed
+
+2008-10-03 13:53  ftyers
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne-en.t1x, apertium-ne-en.ne.dix: re-ordering tags
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: conjunction
+	* apertium-ne-en.en-ne.t1x, apertium-ne-en.en.dix,
+	  apertium-ne-en.ne-en.dix, apertium-ne-en.ne.dix: rule to remove
+	  article
+2008-10-03 08:23  ftyers
+
+	* apertium-ne-en.en-ne.t1x, apertium-ne-en.en-ne.t2x,
+	  apertium-ne-en.en-ne.t3x: trimming down transfer
+
+2008-10-03 07:49  ftyers
+
+	* apertium-ne-en.en-ne.t1x, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: fixing transfer rule and one item in the
+	  dictionaries
+
+2008-10-03 07:41  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: I have done some changes with paradigm
+
+2008-10-03 06:14  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: some paradigm in en monodix has been
+	  changed
+
+2008-10-02 09:16  lkhatiwada
+
+	* apertium-ne-en.ne-en.dix, apertium-ne-en.ne.dix: New dixes, not
+	  working yet
+
+2008-10-02 09:12  ftyers
+
+	* Makefile.am: Comment out validation
+
+2008-10-02 08:39  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: change of symbols
+
+2008-09-24 05:30  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: added some words and proper noun
+
+2008-09-18 09:14  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: added nouns and verbs!
+
+2008-09-18 07:28  lkhatiwada
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: Added some more nouns and knife paragigm
+	  with problems
+
+2008-09-18 07:23  nordfalk
+
+	* AUTHORS: test
+
+2008-09-18 06:16  nordfalk
+
+	* apertium-ne-en.en.dix, apertium-ne-en.ne-en.dix,
+	  apertium-ne-en.ne.dix: Added some nouns and some noun paradigms
+
+2008-09-14 08:49  ftyers
+
+	* AUTHORS, ChangeLog, Makefile.am, NEWS, README,
+	  apertium-ne-en.en-ne.t1x, apertium-ne-en.en-ne.t2x,
+	  apertium-ne-en.en-ne.t3x, apertium-ne-en.en.dix,
+	  apertium-ne-en.ne-en.dix, apertium-ne-en.ne.dix, autogen.sh,
+	  configure.ac, en-ne.prob, modes.xml: Add a whole lot of stuff
+
+2008-09-14 08:26  ftyers
+
+	* apertium-ne-en.ne.dix: Add
+
+2008-09-14 08:17  ftyers
+
+	* .: Change name
+
+2008-09-13 13:28  jimregan
+
+	* : add empty directory for English-Nepali
+

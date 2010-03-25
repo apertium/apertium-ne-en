@@ -1,0 +1,21 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-ne-en.en-ne.t1x -text
+/apertium-ne-en.en-ne.t2x -text
+/apertium-ne-en.en-ne.t3x -text
+/apertium-ne-en.en.dix -text
+/apertium-ne-en.ne-en.dix -text
+/apertium-ne-en.ne-en.t1x -text
+/apertium-ne-en.ne-en.t2x -text
+/apertium-ne-en.ne-en.t3x -text
+/apertium-ne-en.ne.dix -text
+/apertium-ne-en.ne.tsx -text
+/autogen.sh -text
+/configure.ac -text
+/en-ne.prob -text svneol=unset#unset
+/modes.xml -text
+/ne-en.prob -text svneol=unset#unset
