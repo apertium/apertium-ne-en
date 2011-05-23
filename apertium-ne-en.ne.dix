@@ -13,63 +13,6 @@
   'pretty' enough -->
 	<alphabet>ँं:अआइईउऊऋएऐओऔािुूेैोौकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसह्ी</alphabet>
 
-<!--
-Original symbol set, before Jacob reverted it to the English symbols:
-  <sdefs>
-    <sdef n="cat:n" c="Noun"/>
-    <sdef n="cat:num" c="Number"/>
-    <sdef n="cat:pro" c="Pronoun"/>
-    <sdef n="cat:pn" c="Propernoun"/>
-    <sdef n="cat:v" c="verb"/>
-    <sdef n="cat:adj" c="Adjective"/>
-    <sdef n="cat:cc" c="Conjunction co-ordinator"/>
-    <sdef n="gen:m" c="masculine"/>
-    <sdef n="gen:f" c="feminine"/>
-    <sdef n="gen:any" c="any"/>
-    <sdef n="case:d" c="direct"/>
-    <sdef n="case:o" c="oblique"/>
-    <sdef n="case:any" c="any"/>
-    <sdef n="vibhakti:0" c="0"/>
-    <sdef n="vibhakti:ले" c="ले"/>
-    <sdef n="vibhakti:लाई" c="लाई"/>
-    <sdef n="vibhakti:द्वारा" c="द्वारा"/>
-    <sdef n="num:s" c="singular"/>
-    <sdef n="num:p" c="plural"/>
-    <sdef n="num:any" c="any"/>
-    <sdef n="per:p1" c="first"/>
-    <sdef n="per:p2" c="second"/>
-    <sdef n="per:p3" c="third"/>
-    <sdef n="hon:lh" c="low_honorific"/>
-    <sdef n="hon:mh" c="mid_honorific"/>
-    <sdef n="hon:hh" c="high_honorific"/>
-    <sdef n="per:any" c="any"/>
-    <sdef n="tam:subj" c="subjunctive"/>
-    <sdef n="tam:छ" c="छ"/>
-    <sdef n="tam:छन्" c="छन्"/>
-    <sdef n="tam:न्छ" c="न्छ"/>
-    <sdef n="tam:नुहुन्छ" c="नुहुन्छ"/>
-    <sdef n="tam:न्छु" c="न्छु"/>
-    <sdef n="tam:न्छौ" c="न्छौ"/>
-    <sdef n="tam:न्छौँ" c="न्छौँ"/>
-    <sdef n="tam:इछ" c="इछ"/>
-    <sdef n="tam:नेछ" c="नेछ"/>
-    <sdef n="tam:नेछन्" c="नेछन्"/>
-    <sdef n="tam:न्छन्" c="न्छन्"/>
-    <sdef n="tam:छिन्" c="छिन्"/>
-    <sdef n="tam:न्छिन्" c="न्छिन्"/>
-    <sdef n="tam:ला" c="ला"/>
-    <sdef n="tam:लान्" c="लान्"/>
-    <sdef n="tam:लिन्" c="लिन्"/>
-    <sdef n="tam:लास्" c="लास्"/>
-    <sdef n="tam:ली" c="ली"/>
-    <sdef n="tam:यो" c="यो"/>
-    <sdef n="tam:ए" c="ए"/>
-    <sdef n="tam:ई" c="ई"/>
-    <sdef n="tam:नुभयो" c="नुभयो"/>
-    <sdef n="tam:0" c="0"/>
-    <sdef n="sent"/>
-  </sdefs>
--->
 	<sdefs>
 		<sdef n="prn" /> 
 		<sdef n="mf" /> 
@@ -86,7 +29,7 @@ Original symbol set, before Jacob reverted it to the English symbols:
 		<sdef n="pro" /> 
 		<sdef n="n" 	c="Noun"/> 
 		<sdef n="num" 	c="Number"/> 
-		<sdef n="cat:pro" 	c="Pronoun"/> 
+		<sdef n="prn" 	c="Pronoun"/> 
 		<sdef n="np" 	c="Propernoun"/> 
 		<sdef n="vblex" 	c="verb"/> 
 		<sdef n="pres"/> 
@@ -100,7 +43,7 @@ Original symbol set, before Jacob reverted it to the English symbols:
 		<sdef n="vibhakti" /> 
 
 
-		<sdef n="case:o" 	c="oblique"/> 
+		<sdef n="obl" 	c="oblique"/> 
 		<sdef n="case:any" 	c="any"/> 
 		<sdef n="vibhakti:0" 	c="0"/> 
 		<sdef n="vibhakti:ले" 	c="ले"/> 
@@ -315,48 +258,48 @@ Original symbol set, before Jacob reverted it to the English symbols:
 
     <!-- Pronouns -->
 
-<pardef n="य/ो__pro">
-<e>       <p><l>ो</l>                                  <r>ो<s n="cat:pro"/><s n="per:any"/><s n="sg"/></r></p></e>
-<e>       <p><l>ी</l>                                  <r>ो<s n="cat:pro"/><s n="per:any"/><s n="pl"/></r></p></e>
-<e>       <p><l>स्तो</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>स्ती</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="f"/><s n="sp"/></r></p></e>
-<e>       <p><l>स्ता</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="pl"/></r></p></e>
+<pardef n="य/ो__prn">
+<e>       <p><l>ो</l>                                  <r>ो<s n="prn"/><s n="per:any"/><s n="sg"/></r></p></e>
+<e>       <p><l>ी</l>                                  <r>ो<s n="prn"/><s n="per:any"/><s n="pl"/></r></p></e>
+<e>       <p><l>स्तो</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>स्ती</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>स्ता</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="pl"/></r></p></e>
 </pardef>
 
-<pardef n="त्य/ो__pro">
-<e>       <p><l>ो</l>                                  <r>ो<s n="cat:pro"/><s n="per:any"/><s n="sg"/></r></p></e>
-<e>       <p><l>ी</l>                                  <r>ो<s n="cat:pro"/><s n="per:any"/><s n="pl"/></r></p></e>
-<e>       <p><l>स्तो</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>स्ती</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="f"/><s n="sp"/></r></p></e>
-<e>       <p><l>स्ता</l>                               <r>ो<s n="cat:pro"/><s n="per:any"/><s n="pl"/></r></p></e>
+<pardef n="त्य/ो__prn">
+<e>       <p><l>ो</l>                                  <r>ो<s n="prn"/><s n="per:any"/><s n="sg"/></r></p></e>
+<e>       <p><l>ी</l>                                  <r>ो<s n="prn"/><s n="per:any"/><s n="pl"/></r></p></e>
+<e>       <p><l>स्तो</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>स्ती</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>स्ता</l>                               <r>ो<s n="prn"/><s n="per:any"/><s n="pl"/></r></p></e>
 </pardef>
 
-<pardef n="ऊ__pro">
-<e>       <p><l></l>                                   <r>ऊ<s n="cat:pro"/><s n="per:any"/><s n="sg"/></r></p></e>
+<pardef n="ऊ__prn">
+<e>       <p><l></l>                                   <r>ऊ<s n="prn"/><s n="per:any"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="उहाँ__pro">
-<e>       <p><l></l>                                   <r>हाँ<s n="cat:pro"/><s n="p3"/><s n="sg"/></r></p></e>
-<e>       <p><l>हरू</l>                                <r>हाँ<s n="cat:pro"/><s n="p3"/><s n="pl"/></r></p></e>
+<pardef n="उहाँ__prn">
+<e>       <p><l></l>                                   <r>हाँ<s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
+<e>       <p><l>हरू</l>                                <r>हाँ<s n="prn"/><s n="p3"/><s n="pl"/></r></p></e>
 </pardef>
 
-<pardef n="ई__pro">
-<e>       <p><l></l>                                   <r>ई<s n="cat:pro"/><s n="p3"/><s n="sp"/></r></p></e>
-<e>       <p><l></l>                                   <r>नी<s n="cat:pro"/><s n="p3"/><s n="f"/><s n="sp"/></r></p></e>
+<pardef n="ई__prn">
+<e>       <p><l></l>                                   <r>ई<s n="prn"/><s n="p3"/><s n="sp"/></r></p></e>
+<e>       <p><l></l>                                   <r>नी<s n="prn"/><s n="p3"/><s n="f"/><s n="sp"/></r></p></e>
 </pardef>
 
-<pardef n="क/ो__pro">
-<e>       <p><l></l>                                   <r>ो<s n="cat:pro"/><s n="p3"/><s n="sg"/></r></p></e>
-<e>       <p><l>्ुन</l>                                <r>ो<s n="cat:pro"/><s n="per:any"/><s n="sg"/></r></p></e>
+<pardef n="क/ो__prn">
+<e>       <p><l></l>                                   <r>ो<s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
+<e>       <p><l>्ुन</l>                                <r>ो<s n="prn"/><s n="per:any"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="त/__pro">
-<e>       <p><l>पाईँ</l>                               <r><s n="cat:pro"/><s n="p3"/><s n="sg"/></r></p></e>
-<e>       <p><l>िमी</l>                                <r><s n="cat:pro"/><s n="p2"/><s n="sg"/></r></p></e>
+<pardef n="त/__prn">
+<e>       <p><l>पाईँ</l>                               <r><s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
+<e>       <p><l>िमी</l>                                <r><s n="prn"/><s n="p2"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="हामी/__pro">
-<e>       <p><l></l>                                   <r><s n="cat:pro"/><s n="p3"/><s n="sg"/></r></p></e>
+<pardef n="हामी/__prn">
+<e>       <p><l></l>                                   <r><s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
 </pardef>
 	</pardefs>
 

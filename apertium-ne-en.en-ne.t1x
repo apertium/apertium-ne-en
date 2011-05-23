@@ -42,8 +42,8 @@
     <def-attr n="gen">
       <attr-item tags="m"/>
       <attr-item tags="f"/>
-      <attr-item tags="gen:nt"/>
-      <attr-item tags="gen:any"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
     </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
