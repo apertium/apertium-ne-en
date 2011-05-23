@@ -9,7 +9,6 @@
 <dictionary>
 	<alphabet></alphabet>
 	<sdefs>
-		<sdef n="prn" /> 
 		<sdef n="mf" /> 
 		<sdef n="m" /> 
 		<sdef n="f" /> 
@@ -27,18 +26,14 @@
 		<sdef n="cnjcoo" 	c="Co-ordinating conjunction"/> 
 		<sdef n="m" 	c="masculine"/> 
 		<sdef n="f" 	c="feminine"/> 
-		<sdef n="gen:any" 	c="any"/> 
-		<sdef n="vibhakti:0" 	c="0"/> 
-		<sdef n="vibhakti:ले" 	c="ले"/> 
-		<sdef n="vibhakti:लाई" 	c="लाई"/> 
-		<sdef n="vibhakti:द्वारा" 	c="द्वारा"/> 
+		<sdef n="mf" 	c="any"/> 
 		<sdef n="sg" 	c="singular"/> 
 		<sdef n="pl" 	c="plural"/> 
 		<sdef n="sp" 	c="any"/> 
 		<sdef n="p1" 	c="first"/> 
 		<sdef n="p2" 	c="second"/> 
 		<sdef n="p3" 	c="third"/> 
-		<sdef n="vibhakti" /> 
+		<sdef n="post" /> 
 		<sdef n="pr" /> 
 
 		<sdef n="hon:lh" 	c="low_honorific"/> 
@@ -218,9 +213,9 @@
 <e>       <p><l>उपभोक्ता<s n="n"/></l>             <r>consumer<s n="n"/></r></p></e>
     
     
-<e>       <p><l>मा<s n="vibhakti"/></l>             <r>on<s n="pr"/></r></p></e>
-<e>       <p><l>मा<s n="vibhakti"/></l>             <r>in<s n="pr"/></r></p></e>
-<e>       <p><l>को<s n="vibhakti"/></l>             <r>'s<s n="gen"/></r></p></e>
+<e>       <p><l>मा<s n="post"/></l>             <r>on<s n="pr"/></r></p></e>
+<e>       <p><l>मा<s n="post"/></l>             <r>in<s n="pr"/></r></p></e>
+<e>       <p><l>को<s n="post"/></l>             <r>'s<s n="gen"/></r></p></e>
     
      <!-- Verbs -->
 

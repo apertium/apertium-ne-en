@@ -40,24 +40,20 @@
 		<sdef n="cnjcoo" 	c="Conjunction co-ordinator"/> 
 		<sdef n="m" 	c="masculine"/> 
 		<sdef n="f" 	c="feminine"/> 
-		<sdef n="vibhakti" /> 
+		<sdef n="post" /> 
 
 
 		<sdef n="obl" 	c="oblique"/> 
 		<sdef n="case:any" 	c="any"/> 
-		<sdef n="vibhakti:0" 	c="0"/> 
-		<sdef n="vibhakti:ले" 	c="ले"/> 
-		<sdef n="vibhakti:लाई" 	c="लाई"/> 
-		<sdef n="vibhakti:द्वारा" 	c="द्वारा"/> 
 		<sdef n="sg" 	c="singular"/> 
 		<sdef n="pl" 	c="plural"/> 
 		<sdef n="sp" 	c="any"/> 
 		<sdef n="p1" 	c="first"/> 
 		<sdef n="p2" 	c="second"/> 
 		<sdef n="p3" 	c="third"/> 
-		<sdef n="hon:lh" 	c="low_honorific"/> 
-		<sdef n="hon:mh" 	c="mid_honorific"/> 
-		<sdef n="hon:hh" 	c="high_honorific"/> 
+		<sdef n="lh" 	c="low_honorific"/> 
+		<sdef n="mh" 	c="mid_honorific"/> 
+		<sdef n="hh" 	c="high_honorific"/> 
 		<sdef n="per:any" 	c="any"/> 
 		<sdef n="tam:subj" 	c="subjunctive"/> 
 		<sdef n="tam:छ" 	c="छ"/> 
@@ -125,8 +121,8 @@
 </pardef>
 
 
-<pardef n="vibhakti">
-<e>       <p><l></l>                                   <r><s n="vibhakti"/></r></p></e>
+<pardef n="post">
+<e>       <p><l></l>                                   <r><s n="post"/></r></p></e>
 </pardef>
 
 
@@ -134,21 +130,21 @@
     <!-- Verbs -->
 
 <pardef n="खा__v">
-<e>       <p><l>ऊँ</l>                                 <r><s n="vblex"/><s n="p1"/><s n="hon:mh"/><s n="sg"/><s n="tam:0"/></r></p></e>
-<e>       <p><l>यो</l>                                 <r><s n="vblex"/><s n="p3"/><s n="hon:lh"/><s n="sg"/><s n="tam:यो"/></r></p></e>
-<e>       <p><l>ए</l>                                  <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="sg"/><s n="tam:ए"/></r></p></e>
-<e>       <p><l>न्छ</l>                                <r><s n="vblex"/><s n="p3"/><s n="hon:lh"/><s n="sg"/><s n="m"/><s n="tam:न्छ"/></r></p></e>
-<e>       <p><l>न्छु</l>                               <r><s n="vblex"/><s n="p1"/><s n="hon:mh"/><s n="sg"/><s n="tam:न्छु"/></r></p></e>
-<e>       <p><l>न्छौ</l>                               <r><s n="vblex"/><s n="p2"/><s n="hon:mh"/><s n="sp"/><s n="tam:न्छौ"/></r></p></e>
-<e>       <p><l>न्छौँ</l>                              <r><s n="vblex"/><s n="p1"/><s n="hon:mh"/><s n="pl"/><s n="tam:न्छौ"/></r></p></e>
-<e>       <p><l>न्छन्</l>                              <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="pl"/><s n="tam:न्छन्"/></r></p></e>
-<e>       <p><l>नुहुन्छ</l>                            <r><s n="vblex"/><s n="p3"/><s n="hon:hh"/><s n="sg"/><s n="tam:नुहुन्छ"/></r></p></e>
-<e>       <p><l>न्छिन्</l>                             <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="sg"/><s n="f"/><s n="tam:न्छिन्"/></r></p></e>
-<e>       <p><l>नुभयो</l>                              <r><s n="vblex"/><s n="p3"/><s n="hon:hh"/><s n="sp"/><s n="tam:नुभयो"/></r></p></e>
-<e>       <p><l>ला</l>                                 <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="sg"/><s n="m"/><s n="tam:ला"/></r></p></e>
-<e>       <p><l>ली</l>                                 <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="sg"/><s n="f"/><s n="tam:ली"/></r></p></e>
-<e>       <p><l>नेछन्</l>                              <r><s n="vblex"/><s n="p3"/><s n="hon:mh"/><s n="pl"/><s n="tam:नेछन्"/></r></p></e>
-<e>       <p><l>ई</l>                                  <r><s n="vblex"/><s n="p3"/><s n="hon:lh"/><s n="sg"/><s n="f"/><s n="tam:ई"/></r></p></e>
+<e>       <p><l>ऊँ</l>                                 <r><s n="vblex"/><s n="p1"/><s n="mh"/><s n="sg"/><s n="tam:0"/></r></p></e>
+<e>       <p><l>यो</l>                                 <r><s n="vblex"/><s n="p3"/><s n="lh"/><s n="sg"/><s n="tam:यो"/></r></p></e>
+<e>       <p><l>ए</l>                                  <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="sg"/><s n="tam:ए"/></r></p></e>
+<e>       <p><l>न्छ</l>                                <r><s n="vblex"/><s n="p3"/><s n="lh"/><s n="sg"/><s n="m"/><s n="tam:न्छ"/></r></p></e>
+<e>       <p><l>न्छु</l>                               <r><s n="vblex"/><s n="p1"/><s n="mh"/><s n="sg"/><s n="tam:न्छु"/></r></p></e>
+<e>       <p><l>न्छौ</l>                               <r><s n="vblex"/><s n="p2"/><s n="mh"/><s n="sp"/><s n="tam:न्छौ"/></r></p></e>
+<e>       <p><l>न्छौँ</l>                              <r><s n="vblex"/><s n="p1"/><s n="mh"/><s n="pl"/><s n="tam:न्छौ"/></r></p></e>
+<e>       <p><l>न्छन्</l>                              <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="pl"/><s n="tam:न्छन्"/></r></p></e>
+<e>       <p><l>नुहुन्छ</l>                            <r><s n="vblex"/><s n="p3"/><s n="hh"/><s n="sg"/><s n="tam:नुहुन्छ"/></r></p></e>
+<e>       <p><l>न्छिन्</l>                             <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="sg"/><s n="f"/><s n="tam:न्छिन्"/></r></p></e>
+<e>       <p><l>नुभयो</l>                              <r><s n="vblex"/><s n="p3"/><s n="hh"/><s n="sp"/><s n="tam:नुभयो"/></r></p></e>
+<e>       <p><l>ला</l>                                 <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="sg"/><s n="m"/><s n="tam:ला"/></r></p></e>
+<e>       <p><l>ली</l>                                 <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="sg"/><s n="f"/><s n="tam:ली"/></r></p></e>
+<e>       <p><l>नेछन्</l>                              <r><s n="vblex"/><s n="p3"/><s n="mh"/><s n="pl"/><s n="tam:नेछन्"/></r></p></e>
+<e>       <p><l>ई</l>                                  <r><s n="vblex"/><s n="p3"/><s n="lh"/><s n="sg"/><s n="f"/><s n="tam:ई"/></r></p></e>
 </pardef>
 
 <pardef n="गर__v">
@@ -293,12 +289,12 @@
 <e>       <p><l>्ुन</l>                                <r>ो<s n="prn"/><s n="per:any"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="त/__prn">
+<pardef n="त__prn">
 <e>       <p><l>पाईँ</l>                               <r><s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
 <e>       <p><l>िमी</l>                                <r><s n="prn"/><s n="p2"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="हामी/__prn">
+<pardef n="हामी__prn">
 <e>       <p><l></l>                                   <r><s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
 </pardef>
 	</pardefs>
@@ -319,10 +315,10 @@
 
 
 
-<e lm="ले"><i>ले</i><par n="vibhakti"/></e>
+<e lm="ले"><i>ले</i><par n="post"/></e>
 
-<e lm="मा"><i>मा</i><par n="vibhakti"/></e>
-<e lm="को"><i>को</i><par n="vibhakti"/></e>
+<e lm="मा"><i>मा</i><par n="post"/></e>
+<e lm="को"><i>को</i><par n="post"/></e>
 
     <!-- Conjunctions -->
 
