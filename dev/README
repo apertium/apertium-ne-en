@@ -7,3 +7,8 @@ ppe= e participle
 opt= optaitive verb 
 
 The speling format details are availabe at http://wiki.apertium.org/wiki/Speling_format.
+The classification of the words used in the nepali speling format is based on the NeLRaLec Tageset. 
+The original NeLRaLec Tageset is available at http://www.bhashasanchar.org/pdfs/nelralec-wp-tagset.pdf
+
+The words used in building the speling lists were taken from the Nepali National Coprus(http://www.bhashasanchar.org/ncorpus_written.php).
+
