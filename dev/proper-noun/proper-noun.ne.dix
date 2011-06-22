@@ -1,0 +1,3405 @@
+<dictionary>
+  <pardefs>
+  <!-- राम; राम; 1 -->
+    <pardef n="राम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- माया; माया; 1 -->
+    <pardef n="माया__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मिश्र; मिश्र; 1 -->
+    <pardef n="मिश्र__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काठमाडौ; काठमाडौ; 1 -->
+    <pardef n="काठमाडौ__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- थापा; थापा; 1 -->
+    <pardef n="थापा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तामाङ; तामाङ; 1 -->
+    <pardef n="तामाङ__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काठमाण्डौं; काठमाण्डौं; 1 -->
+    <pardef n="काठमाण्डौं__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुनसरी; सुनसरी; 1 -->
+    <pardef n="सुनसरी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जापान; जापान; 1 -->
+    <pardef n="जापान__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शाही; शाही; 1 -->
+    <pardef n="शाही__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुमारी; कुमारी; 1 -->
+    <pardef n="कुमारी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विनय; विनय; 1 -->
+    <pardef n="विनय__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जगन्नाथ; जगन्नाथ; 1 -->
+    <pardef n="जगन्नाथ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- फिलिपिन्स; फिलिपिन्स; 1 -->
+    <pardef n="फिलिपिन्स__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिलक; तिलक; 1 -->
+    <pardef n="तिलक__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कमला; कमला; 1 -->
+    <pardef n="कमला__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रामकृष्ण; रामकृष्ण; 1 -->
+    <pardef n="रामकृष्ण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कर्णाली; कर्णाली; 1 -->
+    <pardef n="कर्णाली__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चीन; चीन; 1 -->
+    <pardef n="चीन__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राजविराज; राजविराज; 1 -->
+    <pardef n="राजविराज__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाटन; पाटन; 1 -->
+    <pardef n="पाटन__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काँग्रेस; काँग्रेस; 1 -->
+    <pardef n="काँग्रेस__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुनकेशरी; सुनकेशरी; 1 -->
+    <pardef n="सुनकेशरी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्रिभुवन; त्रिभुवन; 1 -->
+    <pardef n="त्रिभुवन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जर्मनी; जर्मनी; 1 -->
+    <pardef n="जर्मनी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शाक्य; शाक्य; 1 -->
+    <pardef n="शाक्य__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धर्म; धर्म; 1 -->
+    <pardef n="धर्म__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धनुषा; धनुषा; 1 -->
+    <pardef n="धनुषा__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दक्ष; दक्ष; 1 -->
+    <pardef n="दक्ष__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- निर्मल; निर्मल; 1 -->
+    <pardef n="निर्मल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मकवानपुर; मकवानपुर; 1 -->
+    <pardef n="मकवानपुर__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बेलायत; बेलायत; 1 -->
+    <pardef n="बेलायत__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुवेत; कुवेत; 1 -->
+    <pardef n="कुवेत__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोपाल; गोपाल; 1 -->
+    <pardef n="गोपाल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बंगलादेश; बंगलादेश; 1 -->
+    <pardef n="बंगलादेश__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बस्नेत; बस्नेत; 1 -->
+    <pardef n="बस्नेत__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- झापा; झापा; 1 -->
+    <pardef n="झापा__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रामचन्द्र; रामचन्द्र; 1 -->
+    <pardef n="रामचन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नारायण; नारायण; 1 -->
+    <pardef n="नारायण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राधा; राधा; 1 -->
+    <pardef n="राधा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शास्त्री; शास्त्री; 1 -->
+    <pardef n="शास्त्री__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सरस्वती; सरस्वती; 1 -->
+    <pardef n="सरस्वती__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जङ्गबहादुर; जङ्गबहादुर; 1 -->
+    <pardef n="जङ्गबहादुर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राजीव; राजीव; 1 -->
+    <pardef n="राजीव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- निर्मला; निर्मला; 1 -->
+    <pardef n="निर्मला__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जनकपुर; जनकपुर; 1 -->
+    <pardef n="जनकपुर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चितवन; चितवन; 1 -->
+    <pardef n="चितवन__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पोखरा; पोखरा; 1 -->
+    <pardef n="पोखरा__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ﻿नेपाल; ; 1 -->
+    <pardef n="/﻿नेपाल__np_nt_an">
+      <e>
+        <p>
+          <l>नेपाल</l>
+          <r>﻿नेपाल<s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लामा; लामा; 1 -->
+    <pardef n="लामा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सेन; सेन; 1 -->
+    <pardef n="सेन__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ज्ञानु; ज्ञानु; 1 -->
+    <pardef n="ज्ञानु__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गिरिजाप्रसाद; गिरिजाप्रसाद; 1 -->
+    <pardef n="गिरिजाप्रसाद__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देवकोटा; देवकोटा; 1 -->
+    <pardef n="देवकोटा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अविनव; अविनव; 1 -->
+    <pardef n="अविनव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- खाडी; खाडी; 1 -->
+    <pardef n="खाडी__np_m_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- एशिया; एशिया; 1 -->
+    <pardef n="एशिया__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गणेशमान; गणेशमान; 1 -->
+    <pardef n="गणेशमान__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शाह; शाह; 1 -->
+    <pardef n="शाह__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दार्जीलिङ; दार्जीलिङ; 1 -->
+    <pardef n="दार्जीलिङ__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिद्धार्थ; सिद्धार्थ; 1 -->
+    <pardef n="सिद्धार्थ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दयावीर; दयावीर; 1 -->
+    <pardef n="दयावीर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भानुभक्त; भानुभक्त; 1 -->
+    <pardef n="भानुभक्त__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चन्द्र; चन्द्र; 1 -->
+    <pardef n="चन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इलाम; इलाम; 1 -->
+    <pardef n="इलाम__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गिरिजा; गिरिजा; 1 -->
+    <pardef n="गिरिजा__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दार्जीलिङ्ग; दार्जीलिङ्ग; 1 -->
+    <pardef n="दार्जीलिङ्ग__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दिव्या; दिव्या; 1 -->
+    <pardef n="दिव्या__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिवारी; तिवारी; 1 -->
+    <pardef n="तिवारी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- साधु; साधु; 1 -->
+    <pardef n="साधु__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बुद्ध; बुद्ध; 1 -->
+    <pardef n="बुद्ध__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- घिमिरे; घिमिरे; 1 -->
+    <pardef n="घिमिरे__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाल्पा; पाल्पा; 1 -->
+    <pardef n="पाल्पा__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भट्टराई; भट्टराई; 1 -->
+    <pardef n="भट्टराई__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महावीर; महावीर; 1 -->
+    <pardef n="महावीर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महाकाली; महाकाली; 1 -->
+    <pardef n="महाकाली__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ललितपुर; ललितपुर; 1 -->
+    <pardef n="ललितपुर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिंह; सिंह; 1 -->
+    <pardef n="सिंह__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मदन; मदन; 1 -->
+    <pardef n="मदन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोशी; कोशी; 1 -->
+    <pardef n="कोशी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रुस; रुस; 1 -->
+    <pardef n="रुस__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- माझी; माझी; 1 -->
+    <pardef n="माझी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देवेन्द्र; देवेन्द्र; 1 -->
+    <pardef n="देवेन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुमन; सुमन; 1 -->
+    <pardef n="सुमन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सीता; सीता; 1 -->
+    <pardef n="सीता__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दीक्षित; दीक्षित; 1 -->
+    <pardef n="दीक्षित__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विकास; विकास; 1 -->
+    <pardef n="विकास__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रताप; प्रताप; 1 -->
+    <pardef n="प्रताप__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शीला; शीला; 1 -->
+    <pardef n="शीला__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भास्कर; भास्कर; 1 -->
+    <pardef n="भास्कर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रत्ना; रत्ना; 1 -->
+    <pardef n="रत्ना__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मोरङ्ग; मोरङ्ग; 1 -->
+    <pardef n="मोरङ्ग__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भट्ट; भट्ट; 1 -->
+    <pardef n="भट्ट__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सती; सती; 1 -->
+    <pardef n="सती__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोइराला; कोइराला; 1 -->
+    <pardef n="कोइराला__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कांग्रेस; कांग्रेस; 1 -->
+    <pardef n="कांग्रेस__np_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शङ्कर; शङ्कर; 1 -->
+    <pardef n="शङ्कर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बम्बै; बम्बै; 1 -->
+    <pardef n="बम्बै__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भण्डारी; भण्डारी; 1 -->
+    <pardef n="भण्डारी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मरिचमान; मरिचमान; 1 -->
+    <pardef n="मरिचमान__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पुष्पलाल; पुष्पलाल; 1 -->
+    <pardef n="पुष्पलाल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मोहन; मोहन; 1 -->
+    <pardef n="मोहन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बुश; बुश; 1 -->
+    <pardef n="बुश__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोरखा; गोरखा; 1 -->
+    <pardef n="गोरखा__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ढुङ्गाना; ढुङ्गाना; 1 -->
+    <pardef n="ढुङ्गाना__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ब्रह्मा; ब्रह्मा; 1 -->
+    <pardef n="ब्रह्मा__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काठमाडौं; काठमाडौं; 1 -->
+    <pardef n="काठमाडौं__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विमल; विमल; 1 -->
+    <pardef n="विमल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रधान; प्रधान; 1 -->
+    <pardef n="प्रधान__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मोती; मोती; 1 -->
+    <pardef n="मोती__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बद्री; बद्री; 1 -->
+    <pardef n="बद्री__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ब्रिटेन; ब्रिटेन; 1 -->
+    <pardef n="ब्रिटेन__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोईराला; कोईराला; 1 -->
+    <pardef n="कोईराला__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सगरमाथा; सगरमाथा; 1 -->
+    <pardef n="सगरमाथा__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिक्किम; सिक्किम; 1 -->
+    <pardef n="सिक्किम__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाण्डे; पाण्डे; 1 -->
+    <pardef n="पाण्डे__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यादव; यादव; 1 -->
+    <pardef n="यादव__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- श्रीकृष्ण; श्रीकृष्ण; 1 -->
+    <pardef n="श्रीकृष्ण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शेर; शेर; 1 -->
+    <pardef n="शेर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गिरीजा; गिरीजा; 1 -->
+    <pardef n="गिरीजा__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नेपाली; नेपाली; 1 -->
+    <pardef n="नेपाली__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लेखनाथ; लेखनाथ; 1 -->
+    <pardef n="लेखनाथ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लेनिन; लेनिन; 1 -->
+    <pardef n="लेनिन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मैनाली; मैनाली; 1 -->
+    <pardef n="मैनाली__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हरि; हरि; 1 -->
+    <pardef n="हरि__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रूस; रूस; 1 -->
+    <pardef n="रूस__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोर्वाचोभ; गोर्वाचोभ; 1 -->
+    <pardef n="गोर्वाचोभ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोरखापत्र; गोरखापत्र; 1 -->
+    <pardef n="गोरखापत्र__np_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सरिता; सरिता; 1 -->
+    <pardef n="सरिता__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देव; देव; 1 -->
+    <pardef n="देव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अशोक; अशोक; 1 -->
+    <pardef n="अशोक__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अर्जुन; अर्जुन; 1 -->
+    <pardef n="अर्जुन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कमल; कमल; 1 -->
+    <pardef n="कमल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भैरव; भैरव; 1 -->
+    <pardef n="भैरव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- द्रौपदी; द्रौपदी; 1 -->
+    <pardef n="द्रौपदी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गिरी; गिरी; 1 -->
+    <pardef n="गिरी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वनवीर; वनवीर; 1 -->
+    <pardef n="वनवीर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गणेश; गणेश; 1 -->
+    <pardef n="गणेश__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दीपक; दीपक; 1 -->
+    <pardef n="दीपक__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लुम्बिनी; लुम्बिनी; 1 -->
+    <pardef n="लुम्बिनी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दिल्ली; दिल्ली; 1 -->
+    <pardef n="दिल्ली__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राई; राई; 1 -->
+    <pardef n="राई__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काठमाण्डौ; काठमाण्डौ; 1 -->
+    <pardef n="काठमाण्डौ__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दीपु; दीपु; 1 -->
+    <pardef n="दीपु__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिब्बत; तिब्बत; 1 -->
+    <pardef n="तिब्बत__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बसन्त; बसन्त; 1 -->
+    <pardef n="बसन्त__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लाल; लाल; 1 -->
+    <pardef n="लाल__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शम्भु; शम्भु; 1 -->
+    <pardef n="शम्भु__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इन्द्रमाया; इन्द्रमाया; 1 -->
+    <pardef n="इन्द्रमाया__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुन्ता; कुन्ता; 1 -->
+    <pardef n="कुन्ता__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कीर्तिपुर; कीर्तिपुर; 1 -->
+    <pardef n="कीर्तिपुर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तुलाधर; तुलाधर; 1 -->
+    <pardef n="तुलाधर__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धरान; धरान; 1 -->
+    <pardef n="धरान__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लक्ष्मण; लक्ष्मण; 1 -->
+    <pardef n="लक्ष्मण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भक्तपुर; भक्तपुर; 1 -->
+    <pardef n="भक्तपुर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सीताराम; सीताराम; 1 -->
+    <pardef n="सीताराम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रदिप; प्रदिप; 1 -->
+    <pardef n="प्रदिप__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रमेश; रमेश; 1 -->
+    <pardef n="रमेश__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महेन्द्र; महेन्द्र; 1 -->
+    <pardef n="महेन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्यूठान; प्यूठान; 1 -->
+    <pardef n="प्यूठान__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धनकुटा; धनकुटा; 1 -->
+    <pardef n="धनकुटा__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पटना; पटना; 1 -->
+    <pardef n="पटना__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पशुपति; पशुपति; 1 -->
+    <pardef n="पशुपति__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हाइजलिन; हाइजलिन; 1 -->
+    <pardef n="हाइजलिन__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बागेश्वरी; बागेश्वरी; 1 -->
+    <pardef n="बागेश्वरी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भोज; भोज; 1 -->
+    <pardef n="भोज__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विशाल; विशाल; 1 -->
+    <pardef n="विशाल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- स्याङ्जा; स्याङ्जा; 1 -->
+    <pardef n="स्याङ्जा__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रोहित; रोहित; 1 -->
+    <pardef n="रोहित__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पराजुली; पराजुली; 1 -->
+    <pardef n="पराजुली__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लामिछाने; लामिछाने; 1 -->
+    <pardef n="लामिछाने__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मार्क्स; मार्क्स; 1 -->
+    <pardef n="मार्क्स__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रागिनी; रागिनी; 1 -->
+    <pardef n="रागिनी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रामायण; रामायण; 1 -->
+    <pardef n="रामायण__np_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सत्यहाङमा; सत्यहाङमा; 1 -->
+    <pardef n="सत्यहाङमा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हनुमान; हनुमान; 1 -->
+    <pardef n="हनुमान__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- माधव; माधव; 1 -->
+    <pardef n="माधव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ज्ञवाली; ज्ञवाली; 1 -->
+    <pardef n="ज्ञवाली__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राज; राज; 1 -->
+    <pardef n="राज__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सूर्यदत्त; सूर्यदत्त; 1 -->
+    <pardef n="सूर्यदत्त__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अफ्रिका; अफ्रिका; 1 -->
+    <pardef n="अफ्रिका__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तारा; तारा; 1 -->
+    <pardef n="तारा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पृथ्वीनारायण; पृथ्वीनारायण; 1 -->
+    <pardef n="पृथ्वीनारायण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पारिजात; पारिजात; 1 -->
+    <pardef n="पारिजात__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुब्बा; सुब्बा; 1 -->
+    <pardef n="सुब्बा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शम्शेर; शम्शेर; 1 -->
+    <pardef n="शम्शेर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जुम्ला; जुम्ला; 1 -->
+    <pardef n="जुम्ला__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हाइटी; हाइटी; 1 -->
+    <pardef n="हाइटी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाकिस्तान; पाकिस्तान; 1 -->
+    <pardef n="पाकिस्तान__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अर्याल; अर्याल; 1 -->
+    <pardef n="अर्याल__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सप्तरी; सप्तरी; 1 -->
+    <pardef n="सप्तरी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अमेरिका; अमेरिका; 1 -->
+    <pardef n="अमेरिका__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देवनागरी; देवनागरी; 1 -->
+    <pardef n="देवनागरी__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- फाल्गुनन्द; फाल्गुनन्द; 1 -->
+    <pardef n="फाल्गुनन्द__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गौरी; गौरी; 1 -->
+    <pardef n="गौरी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गान्धी; गान्धी; 1 -->
+    <pardef n="गान्धी__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बालकृष्ण; बालकृष्ण; 1 -->
+    <pardef n="बालकृष्ण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दशरथ; दशरथ; 1 -->
+    <pardef n="दशरथ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मनु; मनु; 1 -->
+    <pardef n="मनु__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मोतीराम; मोतीराम; 1 -->
+    <pardef n="मोतीराम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पौडेल; पौडेल; 1 -->
+    <pardef n="पौडेल__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सम; सम; 1 -->
+    <pardef n="सम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुम्नीमा; सुम्नीमा; 1 -->
+    <pardef n="सुम्नीमा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कास्की; कास्की; 1 -->
+    <pardef n="कास्की__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- एमाले; एमाले; 1 -->
+    <pardef n="एमाले__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- श्रेष्ठ; श्रेष्ठ; 1 -->
+    <pardef n="श्रेष्ठ__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यूरोप; यूरोप; 1 -->
+    <pardef n="यूरोप__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गुरूङ्ग; गुरूङ्ग; 1 -->
+    <pardef n="गुरूङ्ग__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चक्र; चक्र; 1 -->
+    <pardef n="चक्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वीरगंज; वीरगंज; 1 -->
+    <pardef n="वीरगंज__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मनमोहन; मनमोहन; 1 -->
+    <pardef n="मनमोहन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- असन; असन; 1 -->
+    <pardef n="असन__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शंकर; शंकर; 1 -->
+    <pardef n="शंकर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लक्ष्मी; लक्ष्मी; 1 -->
+    <pardef n="लक्ष्मी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिङ्गापूर; सिङ्गापूर; 1 -->
+    <pardef n="सिङ्गापूर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोर्खा; गोर्खा; 1 -->
+    <pardef n="गोर्खा__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इन्द्रबहादुर; इन्द्रबहादुर; 1 -->
+    <pardef n="इन्द्रबहादुर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कृष्ण; कृष्ण; 1 -->
+    <pardef n="कृष्ण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बहादुर; बहादुर; 1 -->
+    <pardef n="बहादुर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भोटाहिटी; भोटाहिटी; 1 -->
+    <pardef n="भोटाहिटी__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देवी; देवी; 1 -->
+    <pardef n="देवी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सोभियत; सोभियत; 1 -->
+    <pardef n="सोभियत__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- झिल्के; झिल्के; 1 -->
+    <pardef n="झिल्के__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रवि; रवि; 1 -->
+    <pardef n="रवि__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तानसेन; तानसेन; 1 -->
+    <pardef n="तानसेन__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोविन्द; गोविन्द; 1 -->
+    <pardef n="गोविन्द__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रोम; रोम; 1 -->
+    <pardef n="रोम__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विरुवा; विरुवा; 1 -->
+    <pardef n="विरुवा__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- खनाल; खनाल; 1 -->
+    <pardef n="खनाल__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पशुपतिनाथ; पशुपतिनाथ; 1 -->
+    <pardef n="पशुपतिनाथ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आसाम; आसाम; 1 -->
+    <pardef n="आसाम__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रजापति; प्रजापति; 1 -->
+    <pardef n="प्रजापति__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विक्रम; विक्रम; 1 -->
+    <pardef n="विक्रम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रोशन; रोशन; 1 -->
+    <pardef n="रोशन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भवानी; भवानी; 1 -->
+    <pardef n="भवानी__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चौधरी; चौधरी; 1 -->
+    <pardef n="चौधरी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शर्मा; शर्मा; 1 -->
+    <pardef n="शर्मा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भीमसेन; भीमसेन; 1 -->
+    <pardef n="भीमसेन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शिव; शिव; 1 -->
+    <pardef n="शिव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गौतम; गौतम; 1 -->
+    <pardef n="गौतम__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इन्द्र; इन्द्र; 1 -->
+    <pardef n="इन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रसाद; प्रसाद; 1 -->
+    <pardef n="प्रसाद__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महाभारत; महाभारत; 1 -->
+    <pardef n="महाभारत__np_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- श्याम; श्याम; 1 -->
+    <pardef n="श्याम__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- असीमज्यू; असीमज्यू; 1 -->
+    <pardef n="असीमज्यू__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मालती; मालती; 1 -->
+    <pardef n="मालती__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सेती; सेती; 1 -->
+    <pardef n="सेती__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सार्क; सार्क; 1 -->
+    <pardef n="सार्क__np_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कैलाश; कैलाश; 1 -->
+    <pardef n="कैलाश__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पिताम्बर; पिताम्बर; 1 -->
+    <pardef n="पिताम्बर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- फ्रान्स; फ्रान्स; 1 -->
+    <pardef n="फ्रान्स__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बनारस; बनारस; 1 -->
+    <pardef n="बनारस__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिन्धु; सिन्धु; 1 -->
+    <pardef n="सिन्धु__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- लसएन्जिल्स; लसएन्जिल्स; 1 -->
+    <pardef n="लसएन्जिल्स__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भरत; भरत; 1 -->
+    <pardef n="भरत__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कलकत्ता; कलकत्ता; 1 -->
+    <pardef n="कलकत्ता__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विराटनगर; विराटनगर; 1 -->
+    <pardef n="विराटनगर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पञ्चनारायण; पञ्चनारायण; 1 -->
+    <pardef n="पञ्चनारायण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भारत; भारत; 1 -->
+    <pardef n="भारत__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- माओ; माओ; 1 -->
+    <pardef n="माओ__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सागर; सागर; 1 -->
+    <pardef n="सागर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बिराटनगर; बिराटनगर; 1 -->
+    <pardef n="बिराटनगर__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कार्की; कार्की; 1 -->
+    <pardef n="कार्की__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रतीक; प्रतीक; 1 -->
+    <pardef n="प्रतीक__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गण्डकी; गण्डकी; 1 -->
+    <pardef n="गण्डकी__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बर्दिया; बर्दिया; 1 -->
+    <pardef n="बर्दिया__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जंगबहादुर; जंगबहादुर; 1 -->
+    <pardef n="जंगबहादुर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रामदल; रामदल; 1 -->
+    <pardef n="रामदल__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गाँधी; गाँधी; 1 -->
+    <pardef n="गाँधी__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- चन्द; चन्द; 1 -->
+    <pardef n="चन्द__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- किम्बु; किम्बु; 1 -->
+    <pardef n="किम्बु__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पार्वती; पार्वती; 1 -->
+    <pardef n="पार्वती__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राणा; राणा; 1 -->
+    <pardef n="राणा__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नेपालगंज; नेपालगंज; 1 -->
+    <pardef n="नेपालगंज__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उपाध्याय; उपाध्याय; 1 -->
+    <pardef n="उपाध्याय__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दुर्गा; दुर्गा; 1 -->
+    <pardef n="दुर्गा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शमशेर; शमशेर; 1 -->
+    <pardef n="शमशेर__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- युरोप; युरोप; 1 -->
+    <pardef n="युरोप__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भास्करजी; भास्करजी; 1 -->
+    <pardef n="भास्करजी__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जोशी; जोशी; 1 -->
+    <pardef n="जोशी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नुवाकोट; नुवाकोट; 1 -->
+    <pardef n="नुवाकोट__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कंसाकार; कंसाकार; 1 -->
+    <pardef n="कंसाकार__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काशी; काशी; 1 -->
+    <pardef n="काशी__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कृष्णप्रसाद; कृष्णप्रसाद; 1 -->
+    <pardef n="कृष्णप्रसाद__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाण्डव; पाण्डव; 1 -->
+    <pardef n="पाण्डव__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुमार; कुमार; 1 -->
+    <pardef n="कुमार__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विष्णु; विष्णु; 1 -->
+    <pardef n="विष्णु__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पाँडे; पाँडे; 1 -->
+    <pardef n="पाँडे__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महेश; महेश; 1 -->
+    <pardef n="महेश__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इराक; इराक; 1 -->
+    <pardef n="इराक__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मिथिला; मिथिला; 1 -->
+    <pardef n="मिथिला__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हुतराज; हुतराज; 1 -->
+    <pardef n="हुतराज__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुरेन्द्र; सुरेन्द्र; 1 -->
+    <pardef n="सुरेन्द्र__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- खड्का; खड्का; 1 -->
+    <pardef n="खड्का__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कर्ण; कर्ण; 1 -->
+    <pardef n="कर्ण__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मोरङ; मोरङ; 1 -->
+    <pardef n="मोरङ__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- व्यास; व्यास; 1 -->
+    <pardef n="व्यास__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अधिकारी; अधिकारी; 1 -->
+    <pardef n="अधिकारी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शारदा; शारदा; 1 -->
+    <pardef n="शारदा__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मञ्जु; मञ्जु; 1 -->
+    <pardef n="मञ्जु__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सतीदेवी; सतीदेवी; 1 -->
+    <pardef n="सतीदेवी__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुवेदी; सुवेदी; 1 -->
+    <pardef n="सुवेदी__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वसन्ती; वसन्ती; 1 -->
+    <pardef n="वसन्ती__np_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आचार्य; आचार्य; 1 -->
+    <pardef n="आचार्य__np_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मेची; मेची; 1 -->
+    <pardef n="मेची__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जीवन; जीवन; 1 -->
+    <pardef n="जीवन__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दिनेश; दिनेश; 1 -->
+    <pardef n="दिनेश__np_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काभ्रे; काभ्रे; 1 -->
+    <pardef n="काभ्रे__np_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बाग्लुङ; बाग्लुङ; 1 -->
+    <pardef n="बाग्लुङ__np_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="राम"><i>राम</i><par n="राम__np_m_aa"/></e>
+    <e lm="माया"><i>माया</i><par n="माया__np_f_aa"/></e>
+    <e lm="मिश्र"><i>मिश्र</i><par n="मिश्र__np_mf_aa"/></e>
+    <e lm="काठमाडौ"><i>काठमाडौ</i><par n="काठमाडौ__np_nt_an"/></e>
+    <e lm="थापा"><i>थापा</i><par n="थापा__np_mf_aa"/></e>
+    <e lm="तामाङ"><i>तामाङ</i><par n="तामाङ__np_mf_aa"/></e>
+    <e lm="काठमाण्डौं"><i>काठमाण्डौं</i><par n="काठमाण्डौं__np_nt_an"/></e>
+    <e lm="सुनसरी"><i>सुनसरी</i><par n="सुनसरी__np_nt_an"/></e>
+    <e lm="जापान"><i>जापान</i><par n="जापान__np_nt_an"/></e>
+    <e lm="शाही"><i>शाही</i><par n="शाही__np_mf_aa"/></e>
+    <e lm="कुमारी"><i>कुमारी</i><par n="कुमारी__np_f_aa"/></e>
+    <e lm="विनय"><i>विनय</i><par n="विनय__np_m_aa"/></e>
+    <e lm="जगन्नाथ"><i>जगन्नाथ</i><par n="जगन्नाथ__np_m_aa"/></e>
+    <e lm="फिलिपिन्स"><i>फिलिपिन्स</i><par n="फिलिपिन्स__np_nt_an"/></e>
+    <e lm="तिलक"><i>तिलक</i><par n="तिलक__np_m_aa"/></e>
+    <e lm="कमला"><i>कमला</i><par n="कमला__np_f_aa"/></e>
+    <e lm="रामकृष्ण"><i>रामकृष्ण</i><par n="रामकृष्ण__np_m_aa"/></e>
+    <e lm="कर्णाली"><i>कर्णाली</i><par n="कर्णाली__np_nt_an"/></e>
+    <e lm="चीन"><i>चीन</i><par n="चीन__np_nt_an"/></e>
+    <e lm="राजविराज"><i>राजविराज</i><par n="राजविराज__np_nt_an"/></e>
+    <e lm="पाटन"><i>पाटन</i><par n="पाटन__np_nt_an"/></e>
+    <e lm="काँग्रेस"><i>काँग्रेस</i><par n="काँग्रेस__np_m_aa"/></e>
+    <e lm="सुनकेशरी"><i>सुनकेशरी</i><par n="सुनकेशरी__np_f_aa"/></e>
+    <e lm="त्रिभुवन"><i>त्रिभुवन</i><par n="त्रिभुवन__np_m_aa"/></e>
+    <e lm="जर्मनी"><i>जर्मनी</i><par n="जर्मनी__np_nt_an"/></e>
+    <e lm="शाक्य"><i>शाक्य</i><par n="शाक्य__np_mf_aa"/></e>
+    <e lm="धर्म"><i>धर्म</i><par n="धर्म__np_m_aa"/></e>
+    <e lm="धनुषा"><i>धनुषा</i><par n="धनुषा__np_nt_nn"/></e>
+    <e lm="दक्ष"><i>दक्ष</i><par n="दक्ष__np_m_aa"/></e>
+    <e lm="निर्मल"><i>निर्मल</i><par n="निर्मल__np_m_aa"/></e>
+    <e lm="मकवानपुर"><i>मकवानपुर</i><par n="मकवानपुर__np_nt_nn"/></e>
+    <e lm="बेलायत"><i>बेलायत</i><par n="बेलायत__np_nt_an"/></e>
+    <e lm="कुवेत"><i>कुवेत</i><par n="कुवेत__np_nt_nn"/></e>
+    <e lm="गोपाल"><i>गोपाल</i><par n="गोपाल__np_m_aa"/></e>
+    <e lm="बंगलादेश"><i>बंगलादेश</i><par n="बंगलादेश__np_nt_an"/></e>
+    <e lm="बस्नेत"><i>बस्नेत</i><par n="बस्नेत__np_mf_aa"/></e>
+    <e lm="झापा"><i>झापा</i><par n="झापा__np_nt_nn"/></e>
+    <e lm="रामचन्द्र"><i>रामचन्द्र</i><par n="रामचन्द्र__np_m_aa"/></e>
+    <e lm="नारायण"><i>नारायण</i><par n="नारायण__np_m_aa"/></e>
+    <e lm="राधा"><i>राधा</i><par n="राधा__np_f_aa"/></e>
+    <e lm="शास्त्री"><i>शास्त्री</i><par n="शास्त्री__np_m_aa"/></e>
+    <e lm="सरस्वती"><i>सरस्वती</i><par n="सरस्वती__np_f_aa"/></e>
+    <e lm="जङ्गबहादुर"><i>जङ्गबहादुर</i><par n="जङ्गबहादुर__np_m_aa"/></e>
+    <e lm="राजीव"><i>राजीव</i><par n="राजीव__np_m_aa"/></e>
+    <e lm="निर्मला"><i>निर्मला</i><par n="निर्मला__np_f_aa"/></e>
+    <e lm="जनकपुर"><i>जनकपुर</i><par n="जनकपुर__np_nt_an"/></e>
+    <e lm="चितवन"><i>चितवन</i><par n="चितवन__np_nt_an"/></e>
+    <e lm="पोखरा"><i>पोखरा</i><par n="पोखरा__np_nt_an"/></e>
+    <e lm="﻿नेपाल"><i></i><par n="/﻿नेपाल__np_nt_an"/></e>
+    <e lm="लामा"><i>लामा</i><par n="लामा__np_mf_aa"/></e>
+    <e lm="सेन"><i>सेन</i><par n="सेन__np_mf_aa"/></e>
+    <e lm="ज्ञानु"><i>ज्ञानु</i><par n="ज्ञानु__np_f_aa"/></e>
+    <e lm="गिरिजाप्रसाद"><i>गिरिजाप्रसाद</i><par n="गिरिजाप्रसाद__np_m_aa"/></e>
+    <e lm="देवकोटा"><i>देवकोटा</i><par n="देवकोटा__np_mf_aa"/></e>
+    <e lm="अविनव"><i>अविनव</i><par n="अविनव__np_m_aa"/></e>
+    <e lm="खाडी"><i>खाडी</i><par n="खाडी__np_m_an"/></e>
+    <e lm="एशिया"><i>एशिया</i><par n="एशिया__np_nt_an"/></e>
+    <e lm="गणेशमान"><i>गणेशमान</i><par n="गणेशमान__np_m_aa"/></e>
+    <e lm="शाह"><i>शाह</i><par n="शाह__np_mf_aa"/></e>
+    <e lm="दार्जीलिङ"><i>दार्जीलिङ</i><par n="दार्जीलिङ__np_nt_an"/></e>
+    <e lm="सिद्धार्थ"><i>सिद्धार्थ</i><par n="सिद्धार्थ__np_m_aa"/></e>
+    <e lm="दयावीर"><i>दयावीर</i><par n="दयावीर__np_m_aa"/></e>
+    <e lm="भानुभक्त"><i>भानुभक्त</i><par n="भानुभक्त__np_m_aa"/></e>
+    <e lm="चन्द्र"><i>चन्द्र</i><par n="चन्द्र__np_m_aa"/></e>
+    <e lm="इलाम"><i>इलाम</i><par n="इलाम__np_nt_nn"/></e>
+    <e lm="गिरिजा"><i>गिरिजा</i><par n="गिरिजा__np_m_aa"/></e>
+    <e lm="दार्जीलिङ्ग"><i>दार्जीलिङ्ग</i><par n="दार्जीलिङ्ग__np_nt_nn"/></e>
+    <e lm="दिव्या"><i>दिव्या</i><par n="दिव्या__np_f_aa"/></e>
+    <e lm="तिवारी"><i>तिवारी</i><par n="तिवारी__np_mf_aa"/></e>
+    <e lm="साधु"><i>साधु</i><par n="साधु__np_m_aa"/></e>
+    <e lm="बुद्ध"><i>बुद्ध</i><par n="बुद्ध__np_m_aa"/></e>
+    <e lm="घिमिरे"><i>घिमिरे</i><par n="घिमिरे__np_mf_aa"/></e>
+    <e lm="पाल्पा"><i>पाल्पा</i><par n="पाल्पा__np_nt_an"/></e>
+    <e lm="भट्टराई"><i>भट्टराई</i><par n="भट्टराई__np_mf_aa"/></e>
+    <e lm="महावीर"><i>महावीर</i><par n="महावीर__np_m_aa"/></e>
+    <e lm="महाकाली"><i>महाकाली</i><par n="महाकाली__np_nt_an"/></e>
+    <e lm="ललितपुर"><i>ललितपुर</i><par n="ललितपुर__np_nt_an"/></e>
+    <e lm="सिंह"><i>सिंह</i><par n="सिंह__np_mf_aa"/></e>
+    <e lm="मदन"><i>मदन</i><par n="मदन__np_m_aa"/></e>
+    <e lm="कोशी"><i>कोशी</i><par n="कोशी__np_nt_an"/></e>
+    <e lm="रुस"><i>रुस</i><par n="रुस__np_m_aa"/></e>
+    <e lm="माझी"><i>माझी</i><par n="माझी__np_mf_aa"/></e>
+    <e lm="देवेन्द्र"><i>देवेन्द्र</i><par n="देवेन्द्र__np_m_aa"/></e>
+    <e lm="सुमन"><i>सुमन</i><par n="सुमन__np_m_aa"/></e>
+    <e lm="सीता"><i>सीता</i><par n="सीता__np_m_aa"/></e>
+    <e lm="दीक्षित"><i>दीक्षित</i><par n="दीक्षित__np_mf_aa"/></e>
+    <e lm="विकास"><i>विकास</i><par n="विकास__np_m_aa"/></e>
+    <e lm="प्रताप"><i>प्रताप</i><par n="प्रताप__np_m_aa"/></e>
+    <e lm="शीला"><i>शीला</i><par n="शीला__np_f_aa"/></e>
+    <e lm="भास्कर"><i>भास्कर</i><par n="भास्कर__np_m_aa"/></e>
+    <e lm="रत्ना"><i>रत्ना</i><par n="रत्ना__np_f_aa"/></e>
+    <e lm="मोरङ्ग"><i>मोरङ्ग</i><par n="मोरङ्ग__np_nt_an"/></e>
+    <e lm="भट्ट"><i>भट्ट</i><par n="भट्ट__np_mf_aa"/></e>
+    <e lm="सती"><i>सती</i><par n="सती__np_f_aa"/></e>
+    <e lm="कोइराला"><i>कोइराला</i><par n="कोइराला__np_mf_aa"/></e>
+    <e lm="कांग्रेस"><i>कांग्रेस</i><par n="कांग्रेस__np_nt_aa"/></e>
+    <e lm="शङ्कर"><i>शङ्कर</i><par n="शङ्कर__np_m_aa"/></e>
+    <e lm="बम्बै"><i>बम्बै</i><par n="बम्बै__np_nt_an"/></e>
+    <e lm="भण्डारी"><i>भण्डारी</i><par n="भण्डारी__np_mf_aa"/></e>
+    <e lm="मरिचमान"><i>मरिचमान</i><par n="मरिचमान__np_m_aa"/></e>
+    <e lm="पुष्पलाल"><i>पुष्पलाल</i><par n="पुष्पलाल__np_m_aa"/></e>
+    <e lm="मोहन"><i>मोहन</i><par n="मोहन__np_m_aa"/></e>
+    <e lm="बुश"><i>बुश</i><par n="बुश__np_mf_aa"/></e>
+    <e lm="गोरखा"><i>गोरखा</i><par n="गोरखा__np_nt_an"/></e>
+    <e lm="ढुङ्गाना"><i>ढुङ्गाना</i><par n="ढुङ्गाना__np_mf_aa"/></e>
+    <e lm="ब्रह्मा"><i>ब्रह्मा</i><par n="ब्रह्मा__np_m_aa"/></e>
+    <e lm="काठमाडौं"><i>काठमाडौं</i><par n="काठमाडौं__np_nt_an"/></e>
+    <e lm="विमल"><i>विमल</i><par n="विमल__np_m_aa"/></e>
+    <e lm="प्रधान"><i>प्रधान</i><par n="प्रधान__np_mf_aa"/></e>
+    <e lm="मोती"><i>मोती</i><par n="मोती__np_m_aa"/></e>
+    <e lm="बद्री"><i>बद्री</i><par n="बद्री__np_m_aa"/></e>
+    <e lm="ब्रिटेन"><i>ब्रिटेन</i><par n="ब्रिटेन__np_nt_an"/></e>
+    <e lm="कोईराला"><i>कोईराला</i><par n="कोईराला__np_mf_aa"/></e>
+    <e lm="सगरमाथा"><i>सगरमाथा</i><par n="सगरमाथा__np_nt_nn"/></e>
+    <e lm="सिक्किम"><i>सिक्किम</i><par n="सिक्किम__np_nt_an"/></e>
+    <e lm="पाण्डे"><i>पाण्डे</i><par n="पाण्डे__np_mf_aa"/></e>
+    <e lm="यादव"><i>यादव</i><par n="यादव__np_mf_aa"/></e>
+    <e lm="श्रीकृष्ण"><i>श्रीकृष्ण</i><par n="श्रीकृष्ण__np_m_aa"/></e>
+    <e lm="शेर"><i>शेर</i><par n="शेर__np_m_aa"/></e>
+    <e lm="गिरीजा"><i>गिरीजा</i><par n="गिरीजा__np_m_aa"/></e>
+    <e lm="नेपाली"><i>नेपाली</i><par n="नेपाली__np_mf_aa"/></e>
+    <e lm="लेखनाथ"><i>लेखनाथ</i><par n="लेखनाथ__np_m_aa"/></e>
+    <e lm="लेनिन"><i>लेनिन</i><par n="लेनिन__np_m_aa"/></e>
+    <e lm="मैनाली"><i>मैनाली</i><par n="मैनाली__np_mf_aa"/></e>
+    <e lm="हरि"><i>हरि</i><par n="हरि__np_m_aa"/></e>
+    <e lm="रूस"><i>रूस</i><par n="रूस__np_nt_an"/></e>
+    <e lm="गोर्वाचोभ"><i>गोर्वाचोभ</i><par n="गोर्वाचोभ__np_m_aa"/></e>
+    <e lm="गोरखापत्र"><i>गोरखापत्र</i><par n="गोरखापत्र__np_nt_aa"/></e>
+    <e lm="सरिता"><i>सरिता</i><par n="सरिता__np_m_aa"/></e>
+    <e lm="देव"><i>देव</i><par n="देव__np_m_aa"/></e>
+    <e lm="अशोक"><i>अशोक</i><par n="अशोक__np_m_aa"/></e>
+    <e lm="अर्जुन"><i>अर्जुन</i><par n="अर्जुन__np_m_aa"/></e>
+    <e lm="कमल"><i>कमल</i><par n="कमल__np_m_aa"/></e>
+    <e lm="भैरव"><i>भैरव</i><par n="भैरव__np_m_aa"/></e>
+    <e lm="द्रौपदी"><i>द्रौपदी</i><par n="द्रौपदी__np_f_aa"/></e>
+    <e lm="गिरी"><i>गिरी</i><par n="गिरी__np_mf_aa"/></e>
+    <e lm="वनवीर"><i>वनवीर</i><par n="वनवीर__np_m_aa"/></e>
+    <e lm="गणेश"><i>गणेश</i><par n="गणेश__np_m_aa"/></e>
+    <e lm="दीपक"><i>दीपक</i><par n="दीपक__np_m_aa"/></e>
+    <e lm="लुम्बिनी"><i>लुम्बिनी</i><par n="लुम्बिनी__np_nt_an"/></e>
+    <e lm="दिल्ली"><i>दिल्ली</i><par n="दिल्ली__np_nt_an"/></e>
+    <e lm="राई"><i>राई</i><par n="राई__np_mf_aa"/></e>
+    <e lm="काठमाण्डौ"><i>काठमाण्डौ</i><par n="काठमाण्डौ__np_nt_an"/></e>
+    <e lm="दीपु"><i>दीपु</i><par n="दीपु__np_m_aa"/></e>
+    <e lm="तिब्बत"><i>तिब्बत</i><par n="तिब्बत__np_nt_nn"/></e>
+    <e lm="बसन्त"><i>बसन्त</i><par n="बसन्त__np_m_aa"/></e>
+    <e lm="लाल"><i>लाल</i><par n="लाल__np_mf_aa"/></e>
+    <e lm="शम्भु"><i>शम्भु</i><par n="शम्भु__np_m_aa"/></e>
+    <e lm="इन्द्रमाया"><i>इन्द्रमाया</i><par n="इन्द्रमाया__np_f_aa"/></e>
+    <e lm="कुन्ता"><i>कुन्ता</i><par n="कुन्ता__np_f_aa"/></e>
+    <e lm="कीर्तिपुर"><i>कीर्तिपुर</i><par n="कीर्तिपुर__np_nt_an"/></e>
+    <e lm="तुलाधर"><i>तुलाधर</i><par n="तुलाधर__np_mf_aa"/></e>
+    <e lm="धरान"><i>धरान</i><par n="धरान__np_nt_an"/></e>
+    <e lm="लक्ष्मण"><i>लक्ष्मण</i><par n="लक्ष्मण__np_m_aa"/></e>
+    <e lm="भक्तपुर"><i>भक्तपुर</i><par n="भक्तपुर__np_nt_an"/></e>
+    <e lm="सीताराम"><i>सीताराम</i><par n="सीताराम__np_m_aa"/></e>
+    <e lm="प्रदिप"><i>प्रदिप</i><par n="प्रदिप__np_m_aa"/></e>
+    <e lm="रमेश"><i>रमेश</i><par n="रमेश__np_m_aa"/></e>
+    <e lm="महेन्द्र"><i>महेन्द्र</i><par n="महेन्द्र__np_m_aa"/></e>
+    <e lm="प्यूठान"><i>प्यूठान</i><par n="प्यूठान__np_nt_nn"/></e>
+    <e lm="धनकुटा"><i>धनकुटा</i><par n="धनकुटा__np_nt_an"/></e>
+    <e lm="पटना"><i>पटना</i><par n="पटना__np_nt_nn"/></e>
+    <e lm="पशुपति"><i>पशुपति</i><par n="पशुपति__np_nt_an"/></e>
+    <e lm="हाइजलिन"><i>हाइजलिन</i><par n="हाइजलिन__np_mf_aa"/></e>
+    <e lm="बागेश्वरी"><i>बागेश्वरी</i><par n="बागेश्वरी__np_f_aa"/></e>
+    <e lm="भोज"><i>भोज</i><par n="भोज__np_nt_nn"/></e>
+    <e lm="विशाल"><i>विशाल</i><par n="विशाल__np_m_aa"/></e>
+    <e lm="स्याङ्जा"><i>स्याङ्जा</i><par n="स्याङ्जा__np_nt_an"/></e>
+    <e lm="रोहित"><i>रोहित</i><par n="रोहित__np_m_aa"/></e>
+    <e lm="पराजुली"><i>पराजुली</i><par n="पराजुली__np_mf_aa"/></e>
+    <e lm="लामिछाने"><i>लामिछाने</i><par n="लामिछाने__np_mf_aa"/></e>
+    <e lm="मार्क्स"><i>मार्क्स</i><par n="मार्क्स__np_m_aa"/></e>
+    <e lm="रागिनी"><i>रागिनी</i><par n="रागिनी__np_f_aa"/></e>
+    <e lm="रामायण"><i>रामायण</i><par n="रामायण__np_nt_aa"/></e>
+    <e lm="सत्यहाङमा"><i>सत्यहाङमा</i><par n="सत्यहाङमा__np_f_aa"/></e>
+    <e lm="हनुमान"><i>हनुमान</i><par n="हनुमान__np_m_aa"/></e>
+    <e lm="माधव"><i>माधव</i><par n="माधव__np_m_aa"/></e>
+    <e lm="ज्ञवाली"><i>ज्ञवाली</i><par n="ज्ञवाली__np_mf_aa"/></e>
+    <e lm="राज"><i>राज</i><par n="राज__np_m_aa"/></e>
+    <e lm="सूर्यदत्त"><i>सूर्यदत्त</i><par n="सूर्यदत्त__np_m_aa"/></e>
+    <e lm="अफ्रिका"><i>अफ्रिका</i><par n="अफ्रिका__np_nt_an"/></e>
+    <e lm="तारा"><i>तारा</i><par n="तारा__np_f_aa"/></e>
+    <e lm="पृथ्वीनारायण"><i>पृथ्वीनारायण</i><par n="पृथ्वीनारायण__np_m_aa"/></e>
+    <e lm="पारिजात"><i>पारिजात</i><par n="पारिजात__np_f_aa"/></e>
+    <e lm="सुब्बा"><i>सुब्बा</i><par n="सुब्बा__np_mf_aa"/></e>
+    <e lm="शम्शेर"><i>शम्शेर</i><par n="शम्शेर__np_m_aa"/></e>
+    <e lm="जुम्ला"><i>जुम्ला</i><par n="जुम्ला__np_nt_an"/></e>
+    <e lm="हाइटी"><i>हाइटी</i><par n="हाइटी__np_nt_an"/></e>
+    <e lm="पाकिस्तान"><i>पाकिस्तान</i><par n="पाकिस्तान__np_nt_an"/></e>
+    <e lm="अर्याल"><i>अर्याल</i><par n="अर्याल__np_mf_aa"/></e>
+    <e lm="सप्तरी"><i>सप्तरी</i><par n="सप्तरी__np_nt_an"/></e>
+    <e lm="अमेरिका"><i>अमेरिका</i><par n="अमेरिका__np_nt_an"/></e>
+    <e lm="देवनागरी"><i>देवनागरी</i><par n="देवनागरी__np_m_aa"/></e>
+    <e lm="फाल्गुनन्द"><i>फाल्गुनन्द</i><par n="फाल्गुनन्द__np_m_aa"/></e>
+    <e lm="गौरी"><i>गौरी</i><par n="गौरी__np_mf_aa"/></e>
+    <e lm="गान्धी"><i>गान्धी</i><par n="गान्धी__np_m_aa"/></e>
+    <e lm="बालकृष्ण"><i>बालकृष्ण</i><par n="बालकृष्ण__np_m_aa"/></e>
+    <e lm="दशरथ"><i>दशरथ</i><par n="दशरथ__np_m_aa"/></e>
+    <e lm="मनु"><i>मनु</i><par n="मनु__np_m_aa"/></e>
+    <e lm="मोतीराम"><i>मोतीराम</i><par n="मोतीराम__np_m_aa"/></e>
+    <e lm="पौडेल"><i>पौडेल</i><par n="पौडेल__np_mf_aa"/></e>
+    <e lm="सम"><i>सम</i><par n="सम__np_m_aa"/></e>
+    <e lm="सुम्नीमा"><i>सुम्नीमा</i><par n="सुम्नीमा__np_f_aa"/></e>
+    <e lm="कास्की"><i>कास्की</i><par n="कास्की__np_nt_an"/></e>
+    <e lm="एमाले"><i>एमाले</i><par n="एमाले__np_m_aa"/></e>
+    <e lm="श्रेष्ठ"><i>श्रेष्ठ</i><par n="श्रेष्ठ__np_mf_aa"/></e>
+    <e lm="यूरोप"><i>यूरोप</i><par n="यूरोप__np_nt_an"/></e>
+    <e lm="गुरूङ्ग"><i>गुरूङ्ग</i><par n="गुरूङ्ग__np_m_aa"/></e>
+    <e lm="चक्र"><i>चक्र</i><par n="चक्र__np_m_aa"/></e>
+    <e lm="वीरगंज"><i>वीरगंज</i><par n="वीरगंज__np_nt_an"/></e>
+    <e lm="मनमोहन"><i>मनमोहन</i><par n="मनमोहन__np_m_aa"/></e>
+    <e lm="असन"><i>असन</i><par n="असन__np_nt_nn"/></e>
+    <e lm="शंकर"><i>शंकर</i><par n="शंकर__np_m_aa"/></e>
+    <e lm="लक्ष्मी"><i>लक्ष्मी</i><par n="लक्ष्मी__np_f_aa"/></e>
+    <e lm="सिङ्गापूर"><i>सिङ्गापूर</i><par n="सिङ्गापूर__np_nt_an"/></e>
+    <e lm="गोर्खा"><i>गोर्खा</i><par n="गोर्खा__np_nt_nn"/></e>
+    <e lm="इन्द्रबहादुर"><i>इन्द्रबहादुर</i><par n="इन्द्रबहादुर__np_m_aa"/></e>
+    <e lm="कृष्ण"><i>कृष्ण</i><par n="कृष्ण__np_m_aa"/></e>
+    <e lm="बहादुर"><i>बहादुर</i><par n="बहादुर__np_m_aa"/></e>
+    <e lm="भोटाहिटी"><i>भोटाहिटी</i><par n="भोटाहिटी__np_nt_nn"/></e>
+    <e lm="देवी"><i>देवी</i><par n="देवी__np_f_aa"/></e>
+    <e lm="सोभियत"><i>सोभियत</i><par n="सोभियत__np_nt_an"/></e>
+    <e lm="झिल्के"><i>झिल्के</i><par n="झिल्के__np_m_aa"/></e>
+    <e lm="रवि"><i>रवि</i><par n="रवि__np_m_aa"/></e>
+    <e lm="तानसेन"><i>तानसेन</i><par n="तानसेन__np_nt_nn"/></e>
+    <e lm="गोविन्द"><i>गोविन्द</i><par n="गोविन्द__np_m_aa"/></e>
+    <e lm="रोम"><i>रोम</i><par n="रोम__np_nt_an"/></e>
+    <e lm="विरुवा"><i>विरुवा</i><par n="विरुवा__np_nt_nn"/></e>
+    <e lm="खनाल"><i>खनाल</i><par n="खनाल__np_mf_aa"/></e>
+    <e lm="पशुपतिनाथ"><i>पशुपतिनाथ</i><par n="पशुपतिनाथ__np_m_aa"/></e>
+    <e lm="आसाम"><i>आसाम</i><par n="आसाम__np_nt_nn"/></e>
+    <e lm="प्रजापति"><i>प्रजापति</i><par n="प्रजापति__np_mf_aa"/></e>
+    <e lm="विक्रम"><i>विक्रम</i><par n="विक्रम__np_m_aa"/></e>
+    <e lm="रोशन"><i>रोशन</i><par n="रोशन__np_m_aa"/></e>
+    <e lm="भवानी"><i>भवानी</i><par n="भवानी__np_m_aa"/></e>
+    <e lm="चौधरी"><i>चौधरी</i><par n="चौधरी__np_mf_aa"/></e>
+    <e lm="शर्मा"><i>शर्मा</i><par n="शर्मा__np_mf_aa"/></e>
+    <e lm="भीमसेन"><i>भीमसेन</i><par n="भीमसेन__np_m_aa"/></e>
+    <e lm="शिव"><i>शिव</i><par n="शिव__np_m_aa"/></e>
+    <e lm="गौतम"><i>गौतम</i><par n="गौतम__np_mf_aa"/></e>
+    <e lm="इन्द्र"><i>इन्द्र</i><par n="इन्द्र__np_m_aa"/></e>
+    <e lm="प्रसाद"><i>प्रसाद</i><par n="प्रसाद__np_m_aa"/></e>
+    <e lm="महाभारत"><i>महाभारत</i><par n="महाभारत__np_nt_aa"/></e>
+    <e lm="श्याम"><i>श्याम</i><par n="श्याम__np_m_aa"/></e>
+    <e lm="असीमज्यू"><i>असीमज्यू</i><par n="असीमज्यू__np_m_aa"/></e>
+    <e lm="मालती"><i>मालती</i><par n="मालती__np_f_aa"/></e>
+    <e lm="सेती"><i>सेती</i><par n="सेती__np_nt_an"/></e>
+    <e lm="सार्क"><i>सार्क</i><par n="सार्क__np_nt_aa"/></e>
+    <e lm="कैलाश"><i>कैलाश</i><par n="कैलाश__np_nt_an"/></e>
+    <e lm="पिताम्बर"><i>पिताम्बर</i><par n="पिताम्बर__np_m_aa"/></e>
+    <e lm="फ्रान्स"><i>फ्रान्स</i><par n="फ्रान्स__np_nt_an"/></e>
+    <e lm="बनारस"><i>बनारस</i><par n="बनारस__np_nt_an"/></e>
+    <e lm="सिन्धु"><i>सिन्धु</i><par n="सिन्धु__np_f_aa"/></e>
+    <e lm="लसएन्जिल्स"><i>लसएन्जिल्स</i><par n="लसएन्जिल्स__np_nt_nn"/></e>
+    <e lm="भरत"><i>भरत</i><par n="भरत__np_m_aa"/></e>
+    <e lm="कलकत्ता"><i>कलकत्ता</i><par n="कलकत्ता__np_nt_an"/></e>
+    <e lm="विराटनगर"><i>विराटनगर</i><par n="विराटनगर__np_nt_an"/></e>
+    <e lm="पञ्चनारायण"><i>पञ्चनारायण</i><par n="पञ्चनारायण__np_m_aa"/></e>
+    <e lm="भारत"><i>भारत</i><par n="भारत__np_nt_an"/></e>
+    <e lm="माओ"><i>माओ</i><par n="माओ__np_m_aa"/></e>
+    <e lm="सागर"><i>सागर</i><par n="सागर__np_m_aa"/></e>
+    <e lm="बिराटनगर"><i>बिराटनगर</i><par n="बिराटनगर__np_nt_an"/></e>
+    <e lm="कार्की"><i>कार्की</i><par n="कार्की__np_m_aa"/></e>
+    <e lm="प्रतीक"><i>प्रतीक</i><par n="प्रतीक__np_m_aa"/></e>
+    <e lm="गण्डकी"><i>गण्डकी</i><par n="गण्डकी__np_nt_nn"/></e>
+    <e lm="बर्दिया"><i>बर्दिया</i><par n="बर्दिया__np_nt_nn"/></e>
+    <e lm="जंगबहादुर"><i>जंगबहादुर</i><par n="जंगबहादुर__np_m_aa"/></e>
+    <e lm="रामदल"><i>रामदल</i><par n="रामदल__np_m_aa"/></e>
+    <e lm="गाँधी"><i>गाँधी</i><par n="गाँधी__np_m_aa"/></e>
+    <e lm="चन्द"><i>चन्द</i><par n="चन्द__np_m_aa"/></e>
+    <e lm="किम्बु"><i>किम्बु</i><par n="किम्बु__np_mf_aa"/></e>
+    <e lm="पार्वती"><i>पार्वती</i><par n="पार्वती__np_f_aa"/></e>
+    <e lm="राणा"><i>राणा</i><par n="राणा__np_mf_aa"/></e>
+    <e lm="नेपालगंज"><i>नेपालगंज</i><par n="नेपालगंज__np_nt_an"/></e>
+    <e lm="उपाध्याय"><i>उपाध्याय</i><par n="उपाध्याय__np_mf_aa"/></e>
+    <e lm="दुर्गा"><i>दुर्गा</i><par n="दुर्गा__np_f_aa"/></e>
+    <e lm="शमशेर"><i>शमशेर</i><par n="शमशेर__np_m_aa"/></e>
+    <e lm="युरोप"><i>युरोप</i><par n="युरोप__np_nt_an"/></e>
+    <e lm="भास्करजी"><i>भास्करजी</i><par n="भास्करजी__np_m_aa"/></e>
+    <e lm="जोशी"><i>जोशी</i><par n="जोशी__np_mf_aa"/></e>
+    <e lm="नुवाकोट"><i>नुवाकोट</i><par n="नुवाकोट__np_nt_an"/></e>
+    <e lm="कंसाकार"><i>कंसाकार</i><par n="कंसाकार__np_mf_aa"/></e>
+    <e lm="काशी"><i>काशी</i><par n="काशी__np_nt_an"/></e>
+    <e lm="कृष्णप्रसाद"><i>कृष्णप्रसाद</i><par n="कृष्णप्रसाद__np_m_aa"/></e>
+    <e lm="पाण्डव"><i>पाण्डव</i><par n="पाण्डव__np_m_aa"/></e>
+    <e lm="कुमार"><i>कुमार</i><par n="कुमार__np_m_aa"/></e>
+    <e lm="विष्णु"><i>विष्णु</i><par n="विष्णु__np_m_aa"/></e>
+    <e lm="पाँडे"><i>पाँडे</i><par n="पाँडे__np_mf_aa"/></e>
+    <e lm="महेश"><i>महेश</i><par n="महेश__np_m_aa"/></e>
+    <e lm="इराक"><i>इराक</i><par n="इराक__np_nt_an"/></e>
+    <e lm="मिथिला"><i>मिथिला</i><par n="मिथिला__np_f_aa"/></e>
+    <e lm="हुतराज"><i>हुतराज</i><par n="हुतराज__np_m_aa"/></e>
+    <e lm="सुरेन्द्र"><i>सुरेन्द्र</i><par n="सुरेन्द्र__np_m_aa"/></e>
+    <e lm="खड्का"><i>खड्का</i><par n="खड्का__np_mf_aa"/></e>
+    <e lm="कर्ण"><i>कर्ण</i><par n="कर्ण__np_m_aa"/></e>
+    <e lm="मोरङ"><i>मोरङ</i><par n="मोरङ__np_nt_an"/></e>
+    <e lm="व्यास"><i>व्यास</i><par n="व्यास__np_m_aa"/></e>
+    <e lm="अधिकारी"><i>अधिकारी</i><par n="अधिकारी__np_mf_aa"/></e>
+    <e lm="शारदा"><i>शारदा</i><par n="शारदा__np_f_aa"/></e>
+    <e lm="मञ्जु"><i>मञ्जु</i><par n="मञ्जु__np_f_aa"/></e>
+    <e lm="सतीदेवी"><i>सतीदेवी</i><par n="सतीदेवी__np_f_aa"/></e>
+    <e lm="सुवेदी"><i>सुवेदी</i><par n="सुवेदी__np_mf_aa"/></e>
+    <e lm="वसन्ती"><i>वसन्ती</i><par n="वसन्ती__np_f_aa"/></e>
+    <e lm="आचार्य"><i>आचार्य</i><par n="आचार्य__np_mf_aa"/></e>
+    <e lm="मेची"><i>मेची</i><par n="मेची__np_nt_an"/></e>
+    <e lm="जीवन"><i>जीवन</i><par n="जीवन__np_m_aa"/></e>
+    <e lm="दिनेश"><i>दिनेश</i><par n="दिनेश__np_m_aa"/></e>
+    <e lm="काभ्रे"><i>काभ्रे</i><par n="काभ्रे__np_nt_an"/></e>
+    <e lm="बाग्लुङ"><i>बाग्लुङ</i><par n="बाग्लुङ__np_nt_nn"/></e>
+  </section>
+</dictionary>

@@ -1,0 +1,1823 @@
+<dictionary>
+  <pardefs>
+  <!-- एस्तै; एस्तै; 1 -->
+    <pardef n="एस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तैं; तैं; 1 -->
+    <pardef n="तैं__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- क्यै; क्यै; 1 -->
+    <pardef n="क्यै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कल्; कल्; 1 -->
+    <pardef n="कल्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जस्ता; जस्ता; 1 -->
+    <pardef n="जस्ता__det">
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यहि; त्यहि; 1 -->
+    <pardef n="त्यहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुनै; कुनै; 2 -->
+    <pardef n="कुनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>-कुनै</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यस्; त्यस्; 1 -->
+    <pardef n="त्यस्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जत्रो; जत्र; 3 -->
+    <pardef n="जत्र/ो__det">
+      <e>
+        <p>
+          <l>ा</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सुकै; सुकै; 1 -->
+    <pardef n="सुकै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यसो; त्यसो; 1 -->
+    <pardef n="त्यसो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यिनी; यिनी; 1 -->
+    <pardef n="यिनी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोहि; कोहि; 1 -->
+    <pardef n="कोहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यिनै; यिनै; 1 -->
+    <pardef n="यिनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यिन्; यिन्; 1 -->
+    <pardef n="यिन्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेस; तेस; 1 -->
+    <pardef n="तेस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यीनै; यीनै; 1 -->
+    <pardef n="यीनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यीनी; यीनी; 1 -->
+    <pardef n="यीनी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोही; कोही; 2 -->
+    <pardef n="कोही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>-कोही</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- निज; निज; 1 -->
+    <pardef n="निज__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अरू; अरू; 1 -->
+    <pardef n="अरू__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कत्ति; कत्ति; 1 -->
+    <pardef n="कत्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तहाँ; तहाँ; 1 -->
+    <pardef n="तहाँ__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यही; त्यही; 1 -->
+    <pardef n="त्यही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- के-कस्तो; के-कस्तो; 1 -->
+    <pardef n="के-कस्तो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="m"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जुन; जुन; 3 -->
+    <pardef n="जुन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>सुकैं</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सो; सो; 1 -->
+    <pardef n="सो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यती; त्यती; 2 -->
+    <pardef n="त्यती__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जस्तो; जस्त; 9 -->
+    <pardef n="जस्त/ो__det">
+      <e>
+        <p>
+          <l>ा</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जे-ी</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जे-ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ोसुकै</l>
+          <r>ो<s n="det"/><s n="m"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ोसुकै</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जस्तै; जस्तै; 1 -->
+    <pardef n="जस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जों; जों; 1 -->
+    <pardef n="जों__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यस्को; त्यस्क; 2 -->
+    <pardef n="त्यस्क/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ती; ती; 1 -->
+    <pardef n="ती__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यत्रो; त्यत्रो; 1 -->
+    <pardef n="त्यत्रो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कसैं; कसैं; 1 -->
+    <pardef n="कसैं__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तै; तै; 1 -->
+    <pardef n="तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- क्वै; क्वै; 1 -->
+    <pardef n="क्वै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उनी; उनी; 1 -->
+    <pardef n="उनी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उत्तिकै; उत्तिकै; 1 -->
+    <pardef n="उत्तिकै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कत्रो; कत्र; 3 -->
+    <pardef n="कत्र/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ा-कत्रा</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यति; त्यति; 1 -->
+    <pardef n="त्यति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यत्ति; त्यत्ति; 1 -->
+    <pardef n="त्यत्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यती; यती; 1 -->
+    <pardef n="यती__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यतै; यतै; 1 -->
+    <pardef n="यतै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जो; जो; 3 -->
+    <pardef n="जो__det">
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जहीं; जहीं; 1 -->
+    <pardef n="जहीं__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जे; जे; 3 -->
+    <pardef n="जे__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>-जति</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उक्त; उक्त; 1 -->
+    <pardef n="उक्त__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जुन-जुन; जुन-जुन; 1 -->
+    <pardef n="जुन-जुन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यिनि; यिनि; 1 -->
+    <pardef n="यिनि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उत्ति; उत्ति; 2 -->
+    <pardef n="उत्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तस्तै; तस्तै; 2 -->
+    <pardef n="तस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यति; यति; 1 -->
+    <pardef n="यति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- किन; किन; 1 -->
+    <pardef n="किन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ऊस; ऊस; 1 -->
+    <pardef n="ऊस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- क्या; क्या; 1 -->
+    <pardef n="क्या__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यत्रो; यत्रो; 1 -->
+    <pardef n="यत्रो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यही; यही; 1 -->
+    <pardef n="यही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेही; तेही; 1 -->
+    <pardef n="तेही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उहाँ; उहाँ; 1 -->
+    <pardef n="उहाँ__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ऊनी; ऊनी; 1 -->
+    <pardef n="ऊनी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उहि; उहि; 1 -->
+    <pardef n="उहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उता; उता; 1 -->
+    <pardef n="उता__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उति; उति; 3 -->
+    <pardef n="उति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उति</l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>-उति</l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तीन; तीन; 1 -->
+    <pardef n="तीन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कस; कस; 2 -->
+    <pardef n="कस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>कस</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुन; कुन; 1 -->
+    <pardef n="कुन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेस्तै; तेस्तै; 1 -->
+    <pardef n="तेस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उपरोक्त; उपरोक्त; 1 -->
+    <pardef n="उपरोक्त__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जती; जती; 1 -->
+    <pardef n="जती__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जसो; जसो; 1 -->
+    <pardef n="जसो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यक्ति; त्यक्ति; 1 -->
+    <pardef n="त्यक्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जस्; जस्; 1 -->
+    <pardef n="जस्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कसो; कसो; 1 -->
+    <pardef n="कसो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- एकअर्क; एकअर्क; 1 -->
+    <pardef n="एकअर्क__det">
+      <e>
+        <p>
+          <l>ा</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अर्को; अर्क; 3 -->
+    <pardef n="अर्क/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ा</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेस्; तेस्; 1 -->
+    <pardef n="तेस्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यै; यै; 1 -->
+    <pardef n="यै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यो; यो; 1 -->
+    <pardef n="यो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उनि; उनि; 1 -->
+    <pardef n="उनि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यी; यी; 1 -->
+    <pardef n="यी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उस्तै; उस्तै; 1 -->
+    <pardef n="उस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इनै; इनै; 1 -->
+    <pardef n="इनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जस; जस; 1 -->
+    <pardef n="जस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यस; यस; 2 -->
+    <pardef n="यस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ै</l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यि; यि; 1 -->
+    <pardef n="यि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उस; उस; 1 -->
+    <pardef n="उस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जुन्; जुन्; 1 -->
+    <pardef n="जुन्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेसै; तेसै; 1 -->
+    <pardef n="तेसै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कस्को; कस्को; 1 -->
+    <pardef n="कस्को__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उन; उन; 1 -->
+    <pardef n="उन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जब; जब; 1 -->
+    <pardef n="जब__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कस्तो; कस्त; 5 -->
+    <pardef n="कस्त/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ा</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ा-कस्ता</l>
+          <r>ो<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कतिपय; कतिपय; 1 -->
+    <pardef n="कतिपय__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ति; ति; 1 -->
+    <pardef n="ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ऊ; ऊ; 1 -->
+    <pardef n="ऊ__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उ; उ; 1 -->
+    <pardef n="उ__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ज-जस; ज-जस; 1 -->
+    <pardef n="ज-जस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यै; त्यै; 1 -->
+    <pardef n="त्यै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यत्ति; यत्ति; 1 -->
+    <pardef n="यत्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यो; त्यो; 1 -->
+    <pardef n="त्यो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दोहोरो; दोह; 1 -->
+    <pardef n="दोह/ोरो__det">
+      <e>
+        <p>
+          <l>रो</l>
+          <r>ोरो<s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यस्तै; त्यस्तै; 1 -->
+    <pardef n="त्यस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यस्तो; त्यस्त; 2 -->
+    <pardef n="त्यस्त/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उसो; उसो; 1 -->
+    <pardef n="उसो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जश्; जश्; 1 -->
+    <pardef n="जश्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उसै; उसै; 1 -->
+    <pardef n="उसै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सोही; सोही; 1 -->
+    <pardef n="सोही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उस्; उस्; 1 -->
+    <pardef n="उस्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यस्तै; यस्तै; 1 -->
+    <pardef n="यस्तै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यस्तो; यस्त; 3 -->
+    <pardef n="यस्त/ो__det">
+      <e>
+        <p>
+          <l>ो</l>
+          <r>ो<s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ै</l>
+          <r>ो<s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ी</l>
+          <r>ो<s n="det"/><s n="f"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यिन; यिन; 1 -->
+    <pardef n="यिन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिन; तिन; 1 -->
+    <pardef n="तिन__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- केहि; केहि; 1 -->
+    <pardef n="केहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिन्; तिन्; 1 -->
+    <pardef n="तिन्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिनै; तिनै; 1 -->
+    <pardef n="तिनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उहीं; उहीं; 1 -->
+    <pardef n="उहीं__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिनी; तिनी; 1 -->
+    <pardef n="तिनी__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिनि; तिनि; 1 -->
+    <pardef n="तिनि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कति; कति; 1 -->
+    <pardef n="कति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उनै; उनै; 1 -->
+    <pardef n="उनै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उही; उही; 1 -->
+    <pardef n="उही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उन्; उन्; 1 -->
+    <pardef n="उन्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- एवं; एवं; 1 -->
+    <pardef n="एवं__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यहि; यहि; 1 -->
+    <pardef n="यहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- केही; केही; 1 -->
+    <pardef n="केही__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कस्; कस; 6 -->
+    <pardef n="कस/्__det">
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्तै</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ै-कसै</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>क-</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्ति</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>क-्</l>
+          <r>्<s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जेजति; जेजति; 1 -->
+    <pardef n="जेजति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कसै; कसै; 2 -->
+    <pardef n="कसै__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>कसै</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सोहि; सोहि; 1 -->
+    <pardef n="सोहि__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- को; को; 1 -->
+    <pardef n="को__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जति; जति; 3 -->
+    <pardef n="जति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>सुकै</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जति</l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यथा; यथा; 1 -->
+    <pardef n="यथा__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- के; के; 2 -->
+    <pardef n="के__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>-के</l>
+          <r><s n="det"/><s n="mf"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- फलनो; फलन; 1 -->
+    <pardef n="फलन/ो__det">
+      <e>
+        <p>
+          <l>ा</l>
+          <r>ो<s n="det"/><s n="m"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यसो; यसो; 1 -->
+    <pardef n="यसो__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यस्; यस्; 2 -->
+    <pardef n="यस्__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जत्ति; जत्ति; 1 -->
+    <pardef n="जत्ति__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="rel"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- त्यस; त्यस; 2 -->
+    <pardef n="त्यस__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ै</l>
+          <r><s n="det"/><s n="mf"/><s n="dem"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="एस्तै"><i>एस्तै</i><par n="एस्तै__det"/></e>
+    <e lm="तैं"><i>तैं</i><par n="तैं__det"/></e>
+    <e lm="क्यै"><i>क्यै</i><par n="क्यै__det"/></e>
+    <e lm="कल्"><i>कल्</i><par n="कल्__det"/></e>
+    <e lm="जस्ता"><i>जस्ता</i><par n="जस्ता__det"/></e>
+    <e lm="त्यहि"><i>त्यहि</i><par n="त्यहि__det"/></e>
+    <e lm="कुनै"><i>कुनै</i><par n="कुनै__det"/></e>
+    <e lm="त्यस्"><i>त्यस्</i><par n="त्यस्__det"/></e>
+    <e lm="जत्रो"><i>जत्र</i><par n="जत्र/ो__det"/></e>
+    <e lm="सुकै"><i>सुकै</i><par n="सुकै__det"/></e>
+    <e lm="त्यसो"><i>त्यसो</i><par n="त्यसो__det"/></e>
+    <e lm="यिनी"><i>यिनी</i><par n="यिनी__det"/></e>
+    <e lm="कोहि"><i>कोहि</i><par n="कोहि__det"/></e>
+    <e lm="यिनै"><i>यिनै</i><par n="यिनै__det"/></e>
+    <e lm="यिन्"><i>यिन्</i><par n="यिन्__det"/></e>
+    <e lm="तेस"><i>तेस</i><par n="तेस__det"/></e>
+    <e lm="यीनै"><i>यीनै</i><par n="यीनै__det"/></e>
+    <e lm="यीनी"><i>यीनी</i><par n="यीनी__det"/></e>
+    <e lm="कोही"><i>कोही</i><par n="कोही__det"/></e>
+    <e lm="निज"><i>निज</i><par n="निज__det"/></e>
+    <e lm="अरू"><i>अरू</i><par n="अरू__det"/></e>
+    <e lm="कत्ति"><i>कत्ति</i><par n="कत्ति__det"/></e>
+    <e lm="तहाँ"><i>तहाँ</i><par n="तहाँ__det"/></e>
+    <e lm="त्यही"><i>त्यही</i><par n="त्यही__det"/></e>
+    <e lm="के-कस्तो"><i>के-कस्तो</i><par n="के-कस्तो__det"/></e>
+    <e lm="जुन"><i>जुन</i><par n="जुन__det"/></e>
+    <e lm="सो"><i>सो</i><par n="सो__det"/></e>
+    <e lm="त्यती"><i>त्यती</i><par n="त्यती__det"/></e>
+    <e lm="जस्तो"><i>जस्त</i><par n="जस्त/ो__det"/></e>
+    <e lm="जस्तै"><i>जस्तै</i><par n="जस्तै__det"/></e>
+    <e lm="जों"><i>जों</i><par n="जों__det"/></e>
+    <e lm="त्यस्को"><i>त्यस्क</i><par n="त्यस्क/ो__det"/></e>
+    <e lm="ती"><i>ती</i><par n="ती__det"/></e>
+    <e lm="त्यत्रो"><i>त्यत्रो</i><par n="त्यत्रो__det"/></e>
+    <e lm="कसैं"><i>कसैं</i><par n="कसैं__det"/></e>
+    <e lm="तै"><i>तै</i><par n="तै__det"/></e>
+    <e lm="क्वै"><i>क्वै</i><par n="क्वै__det"/></e>
+    <e lm="उनी"><i>उनी</i><par n="उनी__det"/></e>
+    <e lm="उत्तिकै"><i>उत्तिकै</i><par n="उत्तिकै__det"/></e>
+    <e lm="कत्रो"><i>कत्र</i><par n="कत्र/ो__det"/></e>
+    <e lm="त्यति"><i>त्यति</i><par n="त्यति__det"/></e>
+    <e lm="त्यत्ति"><i>त्यत्ति</i><par n="त्यत्ति__det"/></e>
+    <e lm="यती"><i>यती</i><par n="यती__det"/></e>
+    <e lm="यतै"><i>यतै</i><par n="यतै__det"/></e>
+    <e lm="जो"><i>जो</i><par n="जो__det"/></e>
+    <e lm="जहीं"><i>जहीं</i><par n="जहीं__det"/></e>
+    <e lm="जे"><i>जे</i><par n="जे__det"/></e>
+    <e lm="उक्त"><i>उक्त</i><par n="उक्त__det"/></e>
+    <e lm="जुन-जुन"><i>जुन-जुन</i><par n="जुन-जुन__det"/></e>
+    <e lm="यिनि"><i>यिनि</i><par n="यिनि__det"/></e>
+    <e lm="उत्ति"><i>उत्ति</i><par n="उत्ति__det"/></e>
+    <e lm="तस्तै"><i>तस्तै</i><par n="तस्तै__det"/></e>
+    <e lm="यति"><i>यति</i><par n="यति__det"/></e>
+    <e lm="किन"><i>किन</i><par n="किन__det"/></e>
+    <e lm="ऊस"><i>ऊस</i><par n="ऊस__det"/></e>
+    <e lm="क्या"><i>क्या</i><par n="क्या__det"/></e>
+    <e lm="यत्रो"><i>यत्रो</i><par n="यत्रो__det"/></e>
+    <e lm="यही"><i>यही</i><par n="यही__det"/></e>
+    <e lm="तेही"><i>तेही</i><par n="तेही__det"/></e>
+    <e lm="उहाँ"><i>उहाँ</i><par n="उहाँ__det"/></e>
+    <e lm="ऊनी"><i>ऊनी</i><par n="ऊनी__det"/></e>
+    <e lm="उहि"><i>उहि</i><par n="उहि__det"/></e>
+    <e lm="उता"><i>उता</i><par n="उता__det"/></e>
+    <e lm="उति"><i>उति</i><par n="उति__det"/></e>
+    <e lm="तीन"><i>तीन</i><par n="तीन__det"/></e>
+    <e lm="कस"><i>कस</i><par n="कस__det"/></e>
+    <e lm="कुन"><i>कुन</i><par n="कुन__det"/></e>
+    <e lm="तेस्तै"><i>तेस्तै</i><par n="तेस्तै__det"/></e>
+    <e lm="उपरोक्त"><i>उपरोक्त</i><par n="उपरोक्त__det"/></e>
+    <e lm="जती"><i>जती</i><par n="जती__det"/></e>
+    <e lm="जसो"><i>जसो</i><par n="जसो__det"/></e>
+    <e lm="त्यक्ति"><i>त्यक्ति</i><par n="त्यक्ति__det"/></e>
+    <e lm="जस्"><i>जस्</i><par n="जस्__det"/></e>
+    <e lm="कसो"><i>कसो</i><par n="कसो__det"/></e>
+    <e lm="एकअर्क"><i>एकअर्क</i><par n="एकअर्क__det"/></e>
+    <e lm="अर्को"><i>अर्क</i><par n="अर्क/ो__det"/></e>
+    <e lm="तेस्"><i>तेस्</i><par n="तेस्__det"/></e>
+    <e lm="यै"><i>यै</i><par n="यै__det"/></e>
+    <e lm="यो"><i>यो</i><par n="यो__det"/></e>
+    <e lm="उनि"><i>उनि</i><par n="उनि__det"/></e>
+    <e lm="यी"><i>यी</i><par n="यी__det"/></e>
+    <e lm="उस्तै"><i>उस्तै</i><par n="उस्तै__det"/></e>
+    <e lm="इनै"><i>इनै</i><par n="इनै__det"/></e>
+    <e lm="जस"><i>जस</i><par n="जस__det"/></e>
+    <e lm="यस"><i>यस</i><par n="यस__det"/></e>
+    <e lm="यि"><i>यि</i><par n="यि__det"/></e>
+    <e lm="उस"><i>उस</i><par n="उस__det"/></e>
+    <e lm="जुन्"><i>जुन्</i><par n="जुन्__det"/></e>
+    <e lm="तेसै"><i>तेसै</i><par n="तेसै__det"/></e>
+    <e lm="कस्को"><i>कस्को</i><par n="कस्को__det"/></e>
+    <e lm="उन"><i>उन</i><par n="उन__det"/></e>
+    <e lm="जब"><i>जब</i><par n="जब__det"/></e>
+    <e lm="कस्तो"><i>कस्त</i><par n="कस्त/ो__det"/></e>
+    <e lm="कतिपय"><i>कतिपय</i><par n="कतिपय__det"/></e>
+    <e lm="ति"><i>ति</i><par n="ति__det"/></e>
+    <e lm="ऊ"><i>ऊ</i><par n="ऊ__det"/></e>
+    <e lm="उ"><i>उ</i><par n="उ__det"/></e>
+    <e lm="ज-जस"><i>ज-जस</i><par n="ज-जस__det"/></e>
+    <e lm="त्यै"><i>त्यै</i><par n="त्यै__det"/></e>
+    <e lm="यत्ति"><i>यत्ति</i><par n="यत्ति__det"/></e>
+    <e lm="त्यो"><i>त्यो</i><par n="त्यो__det"/></e>
+    <e lm="दोहोरो"><i>दोह</i><par n="दोह/ोरो__det"/></e>
+    <e lm="त्यस्तै"><i>त्यस्तै</i><par n="त्यस्तै__det"/></e>
+    <e lm="त्यस्तो"><i>त्यस्त</i><par n="त्यस्त/ो__det"/></e>
+    <e lm="उसो"><i>उसो</i><par n="उसो__det"/></e>
+    <e lm="जश्"><i>जश्</i><par n="जश्__det"/></e>
+    <e lm="उसै"><i>उसै</i><par n="उसै__det"/></e>
+    <e lm="सोही"><i>सोही</i><par n="सोही__det"/></e>
+    <e lm="उस्"><i>उस्</i><par n="उस्__det"/></e>
+    <e lm="यस्तै"><i>यस्तै</i><par n="यस्तै__det"/></e>
+    <e lm="यस्तो"><i>यस्त</i><par n="यस्त/ो__det"/></e>
+    <e lm="यिन"><i>यिन</i><par n="यिन__det"/></e>
+    <e lm="तिन"><i>तिन</i><par n="तिन__det"/></e>
+    <e lm="केहि"><i>केहि</i><par n="केहि__det"/></e>
+    <e lm="तिन्"><i>तिन्</i><par n="तिन्__det"/></e>
+    <e lm="तिनै"><i>तिनै</i><par n="तिनै__det"/></e>
+    <e lm="उहीं"><i>उहीं</i><par n="उहीं__det"/></e>
+    <e lm="तिनी"><i>तिनी</i><par n="तिनी__det"/></e>
+    <e lm="तिनि"><i>तिनि</i><par n="तिनि__det"/></e>
+    <e lm="कति"><i>कति</i><par n="कति__det"/></e>
+    <e lm="उनै"><i>उनै</i><par n="उनै__det"/></e>
+    <e lm="उही"><i>उही</i><par n="उही__det"/></e>
+    <e lm="उन्"><i>उन्</i><par n="उन्__det"/></e>
+    <e lm="एवं"><i>एवं</i><par n="एवं__det"/></e>
+    <e lm="यहि"><i>यहि</i><par n="यहि__det"/></e>
+    <e lm="केही"><i>केही</i><par n="केही__det"/></e>
+    <e lm="कस्"><i>कस</i><par n="कस/्__det"/></e>
+    <e lm="जेजति"><i>जेजति</i><par n="जेजति__det"/></e>
+    <e lm="कसै"><i>कसै</i><par n="कसै__det"/></e>
+    <e lm="सोहि"><i>सोहि</i><par n="सोहि__det"/></e>
+    <e lm="को"><i>को</i><par n="को__det"/></e>
+    <e lm="जति"><i>जति</i><par n="जति__det"/></e>
+    <e lm="यथा"><i>यथा</i><par n="यथा__det"/></e>
+    <e lm="के"><i>के</i><par n="के__det"/></e>
+    <e lm="फलनो"><i>फलन</i><par n="फलन/ो__det"/></e>
+    <e lm="यसो"><i>यसो</i><par n="यसो__det"/></e>
+    <e lm="यस्"><i>यस्</i><par n="यस्__det"/></e>
+    <e lm="जत्ति"><i>जत्ति</i><par n="जत्ति__det"/></e>
+    <e lm="त्यस"><i>त्यस</i><par n="त्यस__det"/></e>
+  </section>
+</dictionary>

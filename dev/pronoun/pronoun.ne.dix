@@ -1,0 +1,358 @@
+<dictionary>
+  <pardefs>
+  <!-- मेरा; मेरा; 1 -->
+    <pardef n="मेरा__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="p1"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तैँ; तैँ; 1 -->
+    <pardef n="तैँ__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="infml"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तपाईंहाम्रो; तपाईंहाम्रो; 1 -->
+    <pardef n="तपाईंहाम्रो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="p1"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आफ्नी; आफ्नी; 1 -->
+    <pardef n="आफ्नी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="f"/><s n="sg"/><s n="ref"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हाम्रा; हाम्रा; 1 -->
+    <pardef n="हाम्रा__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="p1"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आफ्नो; आफ्नो; 1 -->
+    <pardef n="आफ्नो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="m"/><s n="sg"/><s n="ref"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हामी; हामी; 1 -->
+    <pardef n="हामी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वहाँ; वहाँ; 1 -->
+    <pardef n="वहाँ__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="an"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिमी; तिमी; 1 -->
+    <pardef n="तिमी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="fam"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- म; म; 1 -->
+    <pardef n="म__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिम्रो; तिम्रो; 1 -->
+    <pardef n="तिम्रो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="fam"/><s n="aa"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिम्री; तिम्री; 1 -->
+    <pardef n="तिम्री__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="fam"/><s n="aa"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिमी-हामी; तिमी-हामी; 1 -->
+    <pardef n="तिमी-हामी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मैं; मैं; 1 -->
+    <pardef n="मैं__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तपाईंहामी; तपाईंहामी; 1 -->
+    <pardef n="तपाईंहामी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेरा; तेरा; 1 -->
+    <pardef n="तेरा__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="infml"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तँ; तँ; 1 -->
+    <pardef n="तँ__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="infml"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हजुर; हजुर; 1 -->
+    <pardef n="हजुर__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेरी; तेरी; 1 -->
+    <pardef n="तेरी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="infml"/><s n="aa"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तेरो; तेरो; 1 -->
+    <pardef n="तेरो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="infml"/><s n="aa"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तिम्रा; तिम्रा; 1 -->
+    <pardef n="तिम्रा__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="fam"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तपाई; तपाई; 1 -->
+    <pardef n="तपाई__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तपाईहाम्रो; तपाईहाम्रो; 1 -->
+    <pardef n="तपाईहाम्रो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="p1"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- तपाईं; तपाईं; 1 -->
+    <pardef n="तपाईं__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आफ्ना; आफ्ना; 1 -->
+    <pardef n="आफ्ना__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="mf"/><s n="pl"/><s n="ref"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मै; मै; 1 -->
+    <pardef n="मै__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हाम्री; हाम्री; 1 -->
+    <pardef n="हाम्री__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मेरो; मेरो; 1 -->
+    <pardef n="मेरो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- यहाँ; यहाँ; 1 -->
+    <pardef n="यहाँ__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="an"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मेरी; मेरी; 1 -->
+    <pardef n="मेरी__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हाम्रो; हाम्रो; 1 -->
+    <pardef n="हाम्रो__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आफू; आफू; 1 -->
+    <pardef n="आफू__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p2"/><s n="pol"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="ref"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="मेरा"><i>मेरा</i><par n="मेरा__prn"/></e>
+    <e lm="तैँ"><i>तैँ</i><par n="तैँ__prn"/></e>
+    <e lm="तपाईंहाम्रो"><i>तपाईंहाम्रो</i><par n="तपाईंहाम्रो__prn"/></e>
+    <e lm="आफ्नी"><i>आफ्नी</i><par n="आफ्नी__prn"/></e>
+    <e lm="हाम्रा"><i>हाम्रा</i><par n="हाम्रा__prn"/></e>
+    <e lm="आफ्नो"><i>आफ्नो</i><par n="आफ्नो__prn"/></e>
+    <e lm="हामी"><i>हामी</i><par n="हामी__prn"/></e>
+    <e lm="वहाँ"><i>वहाँ</i><par n="वहाँ__prn"/></e>
+    <e lm="तिमी"><i>तिमी</i><par n="तिमी__prn"/></e>
+    <e lm="म"><i>म</i><par n="म__prn"/></e>
+    <e lm="तिम्रो"><i>तिम्रो</i><par n="तिम्रो__prn"/></e>
+    <e lm="तिम्री"><i>तिम्री</i><par n="तिम्री__prn"/></e>
+    <e lm="तिमी-हामी"><i>तिमी-हामी</i><par n="तिमी-हामी__prn"/></e>
+    <e lm="मैं"><i>मैं</i><par n="मैं__prn"/></e>
+    <e lm="तपाईंहामी"><i>तपाईंहामी</i><par n="तपाईंहामी__prn"/></e>
+    <e lm="तेरा"><i>तेरा</i><par n="तेरा__prn"/></e>
+    <e lm="तँ"><i>तँ</i><par n="तँ__prn"/></e>
+    <e lm="हजुर"><i>हजुर</i><par n="हजुर__prn"/></e>
+    <e lm="तेरी"><i>तेरी</i><par n="तेरी__prn"/></e>
+    <e lm="तेरो"><i>तेरो</i><par n="तेरो__prn"/></e>
+    <e lm="तिम्रा"><i>तिम्रा</i><par n="तिम्रा__prn"/></e>
+    <e lm="तपाई"><i>तपाई</i><par n="तपाई__prn"/></e>
+    <e lm="तपाईहाम्रो"><i>तपाईहाम्रो</i><par n="तपाईहाम्रो__prn"/></e>
+    <e lm="तपाईं"><i>तपाईं</i><par n="तपाईं__prn"/></e>
+    <e lm="आफ्ना"><i>आफ्ना</i><par n="आफ्ना__prn"/></e>
+    <e lm="मै"><i>मै</i><par n="मै__prn"/></e>
+    <e lm="हाम्री"><i>हाम्री</i><par n="हाम्री__prn"/></e>
+    <e lm="मेरो"><i>मेरो</i><par n="मेरो__prn"/></e>
+    <e lm="यहाँ"><i>यहाँ</i><par n="यहाँ__prn"/></e>
+    <e lm="मेरी"><i>मेरी</i><par n="मेरी__prn"/></e>
+    <e lm="हाम्रो"><i>हाम्रो</i><par n="हाम्रो__prn"/></e>
+    <e lm="आफू"><i>आफू</i><par n="आफू__prn"/></e>
+  </section>
+</dictionary>

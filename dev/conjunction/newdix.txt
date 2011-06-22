@@ -1,0 +1,130 @@
+2
+<dictionary>
+  <pardefs>
+    <pardef n="र__cnjcoo">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjcoo"/><s n=""/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="कि__cnjsub">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjsub"/><s n=""/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="यदि__">
+      <e>
+        <p>
+          <l></l>
+          <r><s n=""/><s n=""/></r>
+        </p>
+      </e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="भएतापनि"><i>भएतापनि</i><par n="कि__cnjsub"/></e>
+    <e lm="अथबा"><i>अथबा</i><par n="र__cnjcoo"/></e>
+    <e lm="जवकि"><i>जवकि</i><par n="कि__cnjsub"/></e>
+    <e lm="अनि"><i>अनि</i><par n="र__cnjcoo"/></e>
+    <e lm="यद्यपी"><i>यद्यपी</i><par n="कि__cnjsub"/></e>
+    <e lm="बरू"><i>बरू</i><par n="र__cnjcoo"/></e>
+    <e lm="बरु"><i>बरु</i><par n="र__cnjcoo"/></e>
+    <e lm="भएपनि"><i>भएपनि</i><par n="कि__cnjsub"/></e>
+    <e lm="नत्रभने"><i>नत्रभने</i><par n="कि__cnjsub"/></e>
+    <e lm="जबकि"><i>जबकि</i><par n="कि__cnjsub"/></e>
+    <e lm="एव"><i>एव</i><par n="र__cnjcoo"/></e>
+    <e lm="वा"><i>वा</i><par n="र__cnjcoo"/></e>
+    <e lm="त्यसकारण"><i>त्यसकारण</i><par n="कि__cnjsub"/></e>
+    <e lm="किंवा"><i>किंवा</i><par n="र__cnjcoo"/></e>
+    <e lm="यद्देपी"><i>यद्देपी</i><par n="कि__cnjsub"/></e>
+    <e lm="बा"><i>बा</i><par n="र__cnjcoo"/></e>
+    <e lm="अर्थात्"><i>अर्थात्</i><par n="र__cnjcoo"/></e>
+    <e lm="यदी"><i>यदी</i><par n="कि__cnjsub"/></e>
+    <e lm="भन्ने"><i>भन्ने</i><par n="कि__cnjsub"/></e>
+    <e lm="अपितु"><i>अपितु</i><par n="कि__cnjsub"/></e>
+    <e lm="अपितु"><i>अपितु</i><par n="र__cnjcoo"/></e>
+    <e lm="अथवा"><i>अथवा</i><par n="र__cnjcoo"/></e>
+    <e lm="भनें"><i>भनें</i><par n="कि__cnjsub"/></e>
+    <e lm="किनकि"><i>किनकि</i><par n="कि__cnjsub"/></e>
+    <e lm="नत्र"><i>नत्र</i><par n="र__cnjcoo"/></e>
+    <e lm="तथापी"><i>तथापी</i><par n="र__cnjcoo"/></e>
+    <e lm="अन्यथा"><i>अन्यथा</i><par n="कि__cnjsub"/></e>
+    <e lm="अन्यथा"><i>अन्यथा</i><par n="र__cnjcoo"/></e>
+    <e lm="भनि"><i>भनि</i><par n="कि__cnjsub"/></e>
+    <e lm="अन्त"><i>अन्त</i><par n="र__cnjcoo"/></e>
+    <e lm="जवकी"><i>जवकी</i><par n="कि__cnjsub"/></e>
+    <e lm="भनेपछि"><i>भनेपछि</i><par n="कि__cnjsub"/></e>
+    <e lm="तर"><i>तर</i><par n="र__cnjcoo"/></e>
+    <e lm="तथा"><i>तथा</i><par n="र__cnjcoo"/></e>
+    <e lm="नता"><i>नता</i><par n="कि__cnjsub"/></e>
+    <e lm="भनेर"><i>भनेर</i><par n="कि__cnjsub"/></e>
+    <e lm="किन्तु"><i>किन्तु</i><par n="र__cnjcoo"/></e>
+    <e lm="एंव"><i>एंव</i><par n="र__cnjcoo"/></e>
+    <e lm="हुनता"><i>हुनता</i><par n="कि__cnjsub"/></e>
+    <e lm="किनकी"><i>किनकी</i><par n="कि__cnjsub"/></e>
+    <e lm="जबकी"><i>जबकी</i><par n="कि__cnjsub"/></e>
+    <e lm="अनी"><i>अनी</i><par n="र__cnjcoo"/></e>
+    <e lm="किन"><i>किन</i><par n="कि__cnjsub"/></e>
+    <e lm="नपाए"><i>नपाए</i><par n="कि__cnjsub"/></e>
+    <e lm="यद्यपि"><i>यद्यपि</i><par n="कि__cnjsub"/></e>
+    <e lm="तथापि"><i>तथापि</i><par n="कि__cnjsub"/></e>
+    <e lm="यसर्थ"><i>यसर्थ</i><par n="कि__cnjsub"/></e>
+    <e lm="यसर्थ"><i>यसर्थ</i><par n="र__cnjcoo"/></e>
+    <e lm="अथार्त"><i>अथार्त</i><par n="र__cnjcoo"/></e>
+    <e lm="परन्तु"><i>परन्तु</i><par n="र__cnjcoo"/></e>
+    <e lm="साथ"><i>साथ</i><par n="र__cnjcoo"/></e>
+    <e lm="यद्यापी"><i>यद्यापी</i><par n="कि__cnjsub"/></e>
+    <e lm="हुनत"><i>हुनत</i><par n="कि__cnjsub"/></e>
+    <e lm="हुनत"><i>हुनत</i><par n="र__cnjcoo"/></e>
+    <e lm="कि"><i>कि</i><par n="कि__cnjsub"/></e>
+    <e lm="कि"><i>कि</i><par n="र__cnjcoo"/></e>
+    <e lm="तैपनि"><i>तैपनि</i><par n="कि__cnjsub"/></e>
+    <e lm="तैपनि"><i>तैपनि</i><par n="र__cnjcoo"/></e>
+    <e lm="किनभनें"><i>किनभनें</i><par n="कि__cnjsub"/></e>
+    <e lm="वरू"><i>वरू</i><par n="र__cnjcoo"/></e>
+    <e lm="वरु"><i>वरु</i><par n="कि__cnjsub"/></e>
+    <e lm="वरु"><i>वरु</i><par n="र__cnjcoo"/></e>
+    <e lm="नत"><i>नत</i><par n="र__cnjcoo"/></e>
+    <e lm="पनि"><i>पनि</i><par n="र__cnjcoo"/></e>
+    <e lm="तापनि"><i>तापनि</i><par n="कि__cnjsub"/></e>
+    <e lm="अर्थात"><i>अर्थात</i><par n="र__cnjcoo"/></e>
+    <e lm="या"><i>या</i><par n="र__cnjcoo"/></e>
+    <e lm="यद्धपि"><i>यद्धपि</i><par n="कि__cnjsub"/></e>
+    <e lm="चाहे"><i>चाहे</i><par n="कि__cnjsub"/></e>
+    <e lm="चाहे"><i>चाहे</i><par n="र__cnjcoo"/></e>
+    <e lm="नकि"><i>नकि</i><par n="र__cnjcoo"/></e>
+    <e lm="भने"><i>भने</i><par n="कि__cnjsub"/></e>
+    <e lm="भने"><i>भने</i><par n="र__cnjcoo"/></e>
+    <e lm="ताकि"><i>ताकि</i><par n="कि__cnjsub"/></e>
+    <e lm="भनी"><i>भनी</i><par n="कि__cnjsub"/></e>
+    <e lm="तरै"><i>तरै</i><par n="र__cnjcoo"/></e>
+    <e lm="तर्"><i>तर्</i><par n="र__cnjcoo"/></e>
+    <e lm="एवम्"><i>एवम्</i><par n="र__cnjcoo"/></e>
+    <e lm="तसर्थ"><i>तसर्थ</i><par n="कि__cnjsub"/></e>
+    <e lm="यदि"><i>यदि</i><par n="यदि__"/></e>
+    <e lm="साथसाथै"><i>साथसाथै</i><par n="र__cnjcoo"/></e>
+    <e lm="यद्वा"><i>यद्वा</i><par n="र__cnjcoo"/></e>
+    <e lm="औ"><i>औ</i><par n="र__cnjcoo"/></e>
+    <e lm="साथ-साथै"><i>साथ-साथै</i><par n="र__cnjcoo"/></e>
+    <e lm="बल्कि"><i>बल्कि</i><par n="र__cnjcoo"/></e>
+    <e lm="न"><i>न</i><par n="र__cnjcoo"/></e>
+    <e lm="त"><i>त</i><par n="र__cnjcoo"/></e>
+    <e lm="वरन्"><i>वरन्</i><par n="र__cnjcoo"/></e>
+    <e lm="साथै"><i>साथै</i><par n="र__cnjcoo"/></e>
+    <e lm="एबं"><i>एबं</i><par n="र__cnjcoo"/></e>
+    <e lm="र"><i>र</i><par n="र__cnjcoo"/></e>
+    <e lm="भन्नें"><i>भन्नें</i><par n="कि__cnjsub"/></e>
+    <e lm="एवं"><i>एवं</i><par n="र__cnjcoo"/></e>
+    <e lm="यसैविच"><i>यसैविच</i><par n="कि__cnjsub"/></e>
+    <e lm="किनभने"><i>किनभने</i><par n="कि__cnjsub"/></e>
+    <e lm="की"><i>की</i><par n="कि__cnjsub"/></e>
+    <e lm="की"><i>की</i><par n="र__cnjcoo"/></e>
+    <e lm="के"><i>के</i><par n="र__cnjcoo"/></e>
+
+  </section>
+</dictionary>

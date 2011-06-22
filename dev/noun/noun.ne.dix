@@ -1,0 +1,1645 @@
+<dictionary>
+  <pardefs>
+  <!-- माया; माया; 1 -->
+    <pardef n="माया__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महिला; महिला; 1 -->
+    <pardef n="महिला__n_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भाषा; भाषा; 1 -->
+    <pardef n="भाषा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सेवा; सेवा; 1 -->
+    <pardef n="सेवा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राष्ट्र; राष्ट्र; 1 -->
+    <pardef n="राष्ट्र__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सिद्धान्त; सिद्धान्त; 1 -->
+    <pardef n="सिद्धान्त__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गीत; गीत; 1 -->
+    <pardef n="गीत__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पुस्तक; पुस्तक; 1 -->
+    <pardef n="पुस्तक__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वन; वन; 1 -->
+    <pardef n="वन__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- हात; हात; 1 -->
+    <pardef n="हात__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शरीर; शरीर; 1 -->
+    <pardef n="शरीर__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अधिकार; अधिकार; 1 -->
+    <pardef n="अधिकार__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शहर; शहर; 1 -->
+    <pardef n="शहर__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विषय; विषय; 1 -->
+    <pardef n="विषय__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पानी; पानी; 1 -->
+    <pardef n="पानी__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- व्यवहार; व्यवहार; 1 -->
+    <pardef n="व्यवहार__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आँखा; आँखा; 1 -->
+    <pardef n="आँखा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रात; रात; 1 -->
+    <pardef n="रात__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ढोका; ढोका; 1 -->
+    <pardef n="ढोका__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रहरी; प्रहरी; 1 -->
+    <pardef n="प्रहरी__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नेता; नेता; 1 -->
+    <pardef n="नेता__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ध्यान; ध्यान; 1 -->
+    <pardef n="ध्यान__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- साहित्य; साहित्य; 1 -->
+    <pardef n="साहित्य__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सदस्य; सदस्य; 1 -->
+    <pardef n="सदस्य__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुरो; कुरो; 1 -->
+    <pardef n="कुरो__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वर्ष; वर्ष; 1 -->
+    <pardef n="वर्ष__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शिक्षा; शिक्षा; 1 -->
+    <pardef n="शिक्षा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दृष्टि; दृष्टि; 1 -->
+    <pardef n="दृष्टि__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दुःख; दुःख; 1 -->
+    <pardef n="दुःख__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- काम; काम; 1 -->
+    <pardef n="काम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कान; कान; 1 -->
+    <pardef n="कान__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रयास; प्रयास; 1 -->
+    <pardef n="प्रयास__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रुप; रुप; 1 -->
+    <pardef n="रुप__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बीच; बीच; 1 -->
+    <pardef n="बीच__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आवश्यक; आवश्यक; 1 -->
+    <pardef n="आवश्यक__n_nt_nn">
+      <e>
+        <p>
+          <l>ता</l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वर्ग; वर्ग; 1 -->
+    <pardef n="वर्ग__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आधार; आधार; 1 -->
+    <pardef n="आधार__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- परिवार; परिवार; 1 -->
+    <pardef n="परिवार__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जाति; जाति; 1 -->
+    <pardef n="जाति__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शुरू; शुरू; 1 -->
+    <pardef n="शुरू__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सडक; सडक; 1 -->
+    <pardef n="सडक__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विकास; विकास; 1 -->
+    <pardef n="विकास__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उद्देश्य; उद्देश्य; 1 -->
+    <pardef n="उद्देश्य__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दिन; दिन; 1 -->
+    <pardef n="दिन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अनुहार; अनुहार; 1 -->
+    <pardef n="अनुहार__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- साल; साल; 1 -->
+    <pardef n="साल__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आन्दोलन; आन्दोलन; 1 -->
+    <pardef n="आन्दोलन__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सहयोग; सहयोग; 1 -->
+    <pardef n="सहयोग__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अनुभव; अनुभव; 1 -->
+    <pardef n="अनुभव__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- छोरी; छोरी; 1 -->
+    <pardef n="छोरी__n_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बाटो; बाटो; 1 -->
+    <pardef n="बाटो__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रशासन; प्रशासन; 1 -->
+    <pardef n="प्रशासन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पक्ष; पक्ष; 1 -->
+    <pardef n="पक्ष__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कोठा; कोठा; 1 -->
+    <pardef n="कोठा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रजातन्त्र; प्रजातन्त्र; 1 -->
+    <pardef n="प्रजातन्त्र__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राज्य; राज्य; 1 -->
+    <pardef n="राज्य__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रोग; रोग; 1 -->
+    <pardef n="रोग__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- महिना; महिना; 1 -->
+    <pardef n="महिना__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देश; देश; 1 -->
+    <pardef n="देश__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रश्न; प्रश्न; 1 -->
+    <pardef n="प्रश्न__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- क्षेत्र; क्षेत्र; 1 -->
+    <pardef n="क्षेत्र__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- राजा; राजा; 1 -->
+    <pardef n="राजा__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नाम; नाम; 1 -->
+    <pardef n="नाम__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- रूप; रूप; 1 -->
+    <pardef n="रूप__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उल्लेख; उल्लेख; 1 -->
+    <pardef n="उल्लेख__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मुख; मुख; 1 -->
+    <pardef n="मुख__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विश्व; विश्व; 1 -->
+    <pardef n="विश्व__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कार्यक्रम; कार्यक्रम; 1 -->
+    <pardef n="कार्यक्रम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- देवी; देवी; 1 -->
+    <pardef n="देवी__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- योजना; योजना; 1 -->
+    <pardef n="योजना__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रकार; प्रकार; 1 -->
+    <pardef n="प्रकार__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वातावरण; वातावरण; 1 -->
+    <pardef n="वातावरण__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- व्यक्ति; व्यक्ति; 1 -->
+    <pardef n="व्यक्ति__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नारी; नारी; 1 -->
+    <pardef n="नारी__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कारण; कारण; 1 -->
+    <pardef n="कारण__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- साथ; साथ; 1 -->
+    <pardef n="साथ__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धर्म; धर्म; 1 -->
+    <pardef n="धर्म__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- छोरा; छोरा; 1 -->
+    <pardef n="छोरा__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मन; मन; 1 -->
+    <pardef n="मन__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- निर्णय; निर्णय; 1 -->
+    <pardef n="निर्णय__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मुलुक; मुलुक; 1 -->
+    <pardef n="मुलुक__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गाउँ; गाउँ; 1 -->
+    <pardef n="गाउँ__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- किसिम; किसिम; 1 -->
+    <pardef n="किसिम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अर्थ; अर्थ; 1 -->
+    <pardef n="अर्थ__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- धारणा; धारणा; 1 -->
+    <pardef n="धारणा__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- इतिहास; इतिहास; 1 -->
+    <pardef n="इतिहास__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कथा; कथा; 1 -->
+    <pardef n="कथा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ज्ञान; ज्ञान; 1 -->
+    <pardef n="ज्ञान__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रयोग; प्रयोग; 1 -->
+    <pardef n="प्रयोग__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मानव; मानव; 1 -->
+    <pardef n="मानव__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पार्टी; पार्टी; 1 -->
+    <pardef n="पार्टी__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कार्य; कार्य; 1 -->
+    <pardef n="कार्य__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- निर्माण; निर्माण; 1 -->
+    <pardef n="निर्माण__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आमा; आमा; 1 -->
+    <pardef n="आमा__n_mf_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अध्ययन; अध्ययन; 1 -->
+    <pardef n="अध्ययन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- गोली; गोली; 1 -->
+    <pardef n="गोली__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- उत्पादन; उत्पादन; 1 -->
+    <pardef n="उत्पादन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भाग; भाग; 1 -->
+    <pardef n="भाग__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जन; जन; 1 -->
+    <pardef n="जन__n_nt_aa">
+      <e>
+        <p>
+          <l>ता</l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बेला; बेला; 1 -->
+    <pardef n="बेला__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शक्ति; शक्ति; 1 -->
+    <pardef n="शक्ति__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- संसार; संसार; 1 -->
+    <pardef n="संसार__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- स्थिति; स्थिति; 1 -->
+    <pardef n="स्थिति__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मन्दिर; मन्दिर; 1 -->
+    <pardef n="मन्दिर__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विश्वास; विश्वास; 1 -->
+    <pardef n="विश्वास__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- बाबु; बाबु; 1 -->
+    <pardef n="बाबु__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आवाज; आवाज; 1 -->
+    <pardef n="आवाज__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- भावना; भावना; 1 -->
+    <pardef n="भावना__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- घटना; घटना; 1 -->
+    <pardef n="घटना__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- खर्च; खर्च; 1 -->
+    <pardef n="खर्च__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विचार; विचार; 1 -->
+    <pardef n="विचार__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- नीति; नीति; 1 -->
+    <pardef n="नीति__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जग्गा; जग्गा; 1 -->
+    <pardef n="जग्गा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- आज; आज; 1 -->
+    <pardef n="आज__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पटक; पटक; 1 -->
+    <pardef n="पटक__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रेम; प्रेम; 1 -->
+    <pardef n="प्रेम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- थाहा; थाहा; 1 -->
+    <pardef n="थाहा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- समस्या; समस्या; 1 -->
+    <pardef n="समस्या__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रतिशत; प्रतिशत; 1 -->
+    <pardef n="प्रतिशत__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मानिस; मानिस; 1 -->
+    <pardef n="मानिस__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- क्रम; क्रम; 1 -->
+    <pardef n="क्रम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- घर; घर; 1 -->
+    <pardef n="घर__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सरकार; सरकार; 1 -->
+    <pardef n="सरकार__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- स्थापना; स्थापना; 1 -->
+    <pardef n="स्थापना__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कुरा; कुरा; 1 -->
+    <pardef n="कुरा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- विवाह; विवाह; 1 -->
+    <pardef n="विवाह__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सम्बन्ध; सम्बन्ध; 1 -->
+    <pardef n="सम्बन्ध__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- व्यवस्था; व्यवस्था; 1 -->
+    <pardef n="व्यवस्था__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- समाज; समाज; 1 -->
+    <pardef n="समाज__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जिल्ला; जिल्ला; 1 -->
+    <pardef n="जिल्ला__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- साथी; साथी; 1 -->
+    <pardef n="साथी__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- सामान; सामान; 1 -->
+    <pardef n="सामान__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- स्थान; स्थान; 1 -->
+    <pardef n="स्थान__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पत्र; पत्र; 1 -->
+    <pardef n="पत्र__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- केटी; केटी; 1 -->
+    <pardef n="केटी__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- ठाउँ; ठाउँ; 1 -->
+    <pardef n="ठाउँ__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- किसान; किसान; 1 -->
+    <pardef n="किसान__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- परिवर्तन; परिवर्तन; 1 -->
+    <pardef n="परिवर्तन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- संस्था; संस्था; 1 -->
+    <pardef n="संस्था__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- जीव; जीव; 1 -->
+    <pardef n="जीव__n_nt_aa">
+      <e>
+        <p>
+          <l>न</l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- प्रभाव; प्रभाव; 1 -->
+    <pardef n="प्रभाव__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- अवस्था; अवस्था; 1 -->
+    <pardef n="अवस्था__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- कर्मचारी; कर्मचारी; 1 -->
+    <pardef n="कर्मचारी__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- वस्तु; वस्तु; 1 -->
+    <pardef n="वस्तु__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- समय; समय; 1 -->
+    <pardef n="समय__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- मान्छे; मान्छे; 1 -->
+    <pardef n="मान्छे__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- शब्द; शब्द; 1 -->
+    <pardef n="शब्द__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- पैसा; पैसा; 1 -->
+    <pardef n="पैसा__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  <!-- दर्शन; दर्शन; 1 -->
+    <pardef n="दर्शन__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="माया"><i>माया</i><par n="माया__n_nt_nn"/></e>
+    <e lm="महिला"><i>महिला</i><par n="महिला__n_f_aa"/></e>
+    <e lm="भाषा"><i>भाषा</i><par n="भाषा__n_nt_nn"/></e>
+    <e lm="सेवा"><i>सेवा</i><par n="सेवा__n_nt_nn"/></e>
+    <e lm="राष्ट्र"><i>राष्ट्र</i><par n="राष्ट्र__n_nt_aa"/></e>
+    <e lm="सिद्धान्त"><i>सिद्धान्त</i><par n="सिद्धान्त__n_nt_an"/></e>
+    <e lm="गीत"><i>गीत</i><par n="गीत__n_nt_nn"/></e>
+    <e lm="पुस्तक"><i>पुस्तक</i><par n="पुस्तक__n_nt_aa"/></e>
+    <e lm="वन"><i>वन</i><par n="वन__n_nt_aa"/></e>
+    <e lm="हात"><i>हात</i><par n="हात__n_nt_nn"/></e>
+    <e lm="शरीर"><i>शरीर</i><par n="शरीर__n_nt_aa"/></e>
+    <e lm="अधिकार"><i>अधिकार</i><par n="अधिकार__n_nt_aa"/></e>
+    <e lm="शहर"><i>शहर</i><par n="शहर__n_nt_aa"/></e>
+    <e lm="विषय"><i>विषय</i><par n="विषय__n_nt_nn"/></e>
+    <e lm="पानी"><i>पानी</i><par n="पानी__n_nt_nn"/></e>
+    <e lm="व्यवहार"><i>व्यवहार</i><par n="व्यवहार__n_nt_nn"/></e>
+    <e lm="आँखा"><i>आँखा</i><par n="आँखा__n_nt_nn"/></e>
+    <e lm="रात"><i>रात</i><par n="रात__n_nt_nn"/></e>
+    <e lm="ढोका"><i>ढोका</i><par n="ढोका__n_nt_nn"/></e>
+    <e lm="प्रहरी"><i>प्रहरी</i><par n="प्रहरी__n_mf_aa"/></e>
+    <e lm="नेता"><i>नेता</i><par n="नेता__n_m_aa"/></e>
+    <e lm="ध्यान"><i>ध्यान</i><par n="ध्यान__n_nt_nn"/></e>
+    <e lm="साहित्य"><i>साहित्य</i><par n="साहित्य__n_nt_aa"/></e>
+    <e lm="सदस्य"><i>सदस्य</i><par n="सदस्य__n_nt_nn"/></e>
+    <e lm="कुरो"><i>कुरो</i><par n="कुरो__n_nt_nn"/></e>
+    <e lm="वर्ष"><i>वर्ष</i><par n="वर्ष__n_nt_nn"/></e>
+    <e lm="शिक्षा"><i>शिक्षा</i><par n="शिक्षा__n_nt_nn"/></e>
+    <e lm="दृष्टि"><i>दृष्टि</i><par n="दृष्टि__n_nt_nn"/></e>
+    <e lm="दुःख"><i>दुःख</i><par n="दुःख__n_nt_nn"/></e>
+    <e lm="काम"><i>काम</i><par n="काम__n_nt_nn"/></e>
+    <e lm="कान"><i>कान</i><par n="कान__n_nt_nn"/></e>
+    <e lm="प्रयास"><i>प्रयास</i><par n="प्रयास__n_nt_nn"/></e>
+    <e lm="रुप"><i>रुप</i><par n="रुप__n_nt_nn"/></e>
+    <e lm="बीच"><i>बीच</i><par n="बीच__n_nt_nn"/></e>
+    <e lm="आवश्यक"><i>आवश्यक</i><par n="आवश्यक__n_nt_nn"/></e>
+    <e lm="वर्ग"><i>वर्ग</i><par n="वर्ग__n_nt_nn"/></e>
+    <e lm="आधार"><i>आधार</i><par n="आधार__n_nt_nn"/></e>
+    <e lm="परिवार"><i>परिवार</i><par n="परिवार__n_nt_an"/></e>
+    <e lm="जाति"><i>जाति</i><par n="जाति__n_nt_aa"/></e>
+    <e lm="शुरू"><i>शुरू</i><par n="शुरू__n_nt_nn"/></e>
+    <e lm="सडक"><i>सडक</i><par n="सडक__n_nt_nn"/></e>
+    <e lm="विकास"><i>विकास</i><par n="विकास__n_nt_nn"/></e>
+    <e lm="उद्देश्य"><i>उद्देश्य</i><par n="उद्देश्य__n_nt_nn"/></e>
+    <e lm="दिन"><i>दिन</i><par n="दिन__n_nt_nn"/></e>
+    <e lm="अनुहार"><i>अनुहार</i><par n="अनुहार__n_nt_nn"/></e>
+    <e lm="साल"><i>साल</i><par n="साल__n_nt_nn"/></e>
+    <e lm="आन्दोलन"><i>आन्दोलन</i><par n="आन्दोलन__n_nt_aa"/></e>
+    <e lm="सहयोग"><i>सहयोग</i><par n="सहयोग__n_nt_nn"/></e>
+    <e lm="अनुभव"><i>अनुभव</i><par n="अनुभव__n_nt_nn"/></e>
+    <e lm="छोरी"><i>छोरी</i><par n="छोरी__n_f_aa"/></e>
+    <e lm="बाटो"><i>बाटो</i><par n="बाटो__n_nt_nn"/></e>
+    <e lm="प्रशासन"><i>प्रशासन</i><par n="प्रशासन__n_nt_nn"/></e>
+    <e lm="पक्ष"><i>पक्ष</i><par n="पक्ष__n_nt_nn"/></e>
+    <e lm="कोठा"><i>कोठा</i><par n="कोठा__n_nt_nn"/></e>
+    <e lm="प्रजातन्त्र"><i>प्रजातन्त्र</i><par n="प्रजातन्त्र__n_nt_aa"/></e>
+    <e lm="राज्य"><i>राज्य</i><par n="राज्य__n_nt_nn"/></e>
+    <e lm="रोग"><i>रोग</i><par n="रोग__n_nt_nn"/></e>
+    <e lm="महिना"><i>महिना</i><par n="महिना__n_nt_nn"/></e>
+    <e lm="देश"><i>देश</i><par n="देश__n_nt_aa"/></e>
+    <e lm="प्रश्न"><i>प्रश्न</i><par n="प्रश्न__n_nt_nn"/></e>
+    <e lm="क्षेत्र"><i>क्षेत्र</i><par n="क्षेत्र__n_nt_nn"/></e>
+    <e lm="राजा"><i>राजा</i><par n="राजा__n_m_aa"/></e>
+    <e lm="नाम"><i>नाम</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="रूप"><i>रूप</i><par n="रूप__n_nt_nn"/></e>
+    <e lm="उल्लेख"><i>उल्लेख</i><par n="उल्लेख__n_nt_nn"/></e>
+    <e lm="मुख"><i>मुख</i><par n="मुख__n_nt_aa"/></e>
+    <e lm="विश्व"><i>विश्व</i><par n="विश्व__n_nt_aa"/></e>
+    <e lm="कार्यक्रम"><i>कार्यक्रम</i><par n="कार्यक्रम__n_nt_nn"/></e>
+    <e lm="देवी"><i>देवी</i><par n="देवी__n_nt_nn"/></e>
+    <e lm="योजना"><i>योजना</i><par n="योजना__n_nt_aa"/></e>
+    <e lm="प्रकार"><i>प्रकार</i><par n="प्रकार__n_nt_nn"/></e>
+    <e lm="वातावरण"><i>वातावरण</i><par n="वातावरण__n_nt_nn"/></e>
+    <e lm="व्यक्ति"><i>व्यक्ति</i><par n="व्यक्ति__n_nt_aa"/></e>
+    <e lm="नारी"><i>नारी</i><par n="नारी__n_nt_nn"/></e>
+    <e lm="कारण"><i>कारण</i><par n="कारण__n_nt_nn"/></e>
+    <e lm="साथ"><i>साथ</i><par n="साथ__n_nt_nn"/></e>
+    <e lm="धर्म"><i>धर्म</i><par n="धर्म__n_nt_nn"/></e>
+    <e lm="छोरा"><i>छोरा</i><par n="छोरा__n_m_aa"/></e>
+    <e lm="मन"><i>मन</i><par n="मन__n_nt_an"/></e>
+    <e lm="निर्णय"><i>निर्णय</i><par n="निर्णय__n_nt_aa"/></e>
+    <e lm="मुलुक"><i>मुलुक</i><par n="मुलुक__n_nt_aa"/></e>
+    <e lm="गाउँ"><i>गाउँ</i><par n="गाउँ__n_nt_an"/></e>
+    <e lm="किसिम"><i>किसिम</i><par n="किसिम__n_nt_nn"/></e>
+    <e lm="अर्थ"><i>अर्थ</i><par n="अर्थ__n_nt_nn"/></e>
+    <e lm="धारणा"><i>धारणा</i><par n="धारणा__n_nt_aa"/></e>
+    <e lm="इतिहास"><i>इतिहास</i><par n="इतिहास__n_nt_nn"/></e>
+    <e lm="कथा"><i>कथा</i><par n="कथा__n_nt_nn"/></e>
+    <e lm="ज्ञान"><i>ज्ञान</i><par n="ज्ञान__n_nt_nn"/></e>
+    <e lm="प्रयोग"><i>प्रयोग</i><par n="प्रयोग__n_nt_nn"/></e>
+    <e lm="मानव"><i>मानव</i><par n="मानव__n_mf_aa"/></e>
+    <e lm="पार्टी"><i>पार्टी</i><par n="पार्टी__n_nt_aa"/></e>
+    <e lm="कार्य"><i>कार्य</i><par n="कार्य__n_nt_nn"/></e>
+    <e lm="निर्माण"><i>निर्माण</i><par n="निर्माण__n_nt_nn"/></e>
+    <e lm="आमा"><i>आमा</i><par n="आमा__n_mf_nn"/></e>
+    <e lm="अध्ययन"><i>अध्ययन</i><par n="अध्ययन__n_nt_nn"/></e>
+    <e lm="गोली"><i>गोली</i><par n="गोली__n_nt_nn"/></e>
+    <e lm="उत्पादन"><i>उत्पादन</i><par n="उत्पादन__n_nt_nn"/></e>
+    <e lm="भाग"><i>भाग</i><par n="भाग__n_nt_nn"/></e>
+    <e lm="जन"><i>जन</i><par n="जन__n_nt_aa"/></e>
+    <e lm="बेला"><i>बेला</i><par n="बेला__n_nt_nn"/></e>
+    <e lm="शक्ति"><i>शक्ति</i><par n="शक्ति__n_nt_nn"/></e>
+    <e lm="संसार"><i>संसार</i><par n="संसार__n_nt_aa"/></e>
+    <e lm="स्थिति"><i>स्थिति</i><par n="स्थिति__n_nt_nn"/></e>
+    <e lm="मन्दिर"><i>मन्दिर</i><par n="मन्दिर__n_nt_nn"/></e>
+    <e lm="विश्वास"><i>विश्वास</i><par n="विश्वास__n_nt_nn"/></e>
+    <e lm="बाबु"><i>बाबु</i><par n="बाबु__n_m_aa"/></e>
+    <e lm="आवाज"><i>आवाज</i><par n="आवाज__n_nt_nn"/></e>
+    <e lm="भावना"><i>भावना</i><par n="भावना__n_nt_nn"/></e>
+    <e lm="घटना"><i>घटना</i><par n="घटना__n_nt_nn"/></e>
+    <e lm="खर्च"><i>खर्च</i><par n="खर्च__n_nt_nn"/></e>
+    <e lm="विचार"><i>विचार</i><par n="विचार__n_nt_nn"/></e>
+    <e lm="नीति"><i>नीति</i><par n="नीति__n_nt_nn"/></e>
+    <e lm="जग्गा"><i>जग्गा</i><par n="जग्गा__n_nt_nn"/></e>
+    <e lm="आज"><i>आज</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पटक"><i>पटक</i><par n="पटक__n_nt_nn"/></e>
+    <e lm="प्रेम"><i>प्रेम</i><par n="प्रेम__n_nt_nn"/></e>
+    <e lm="थाहा"><i>थाहा</i><par n="थाहा__n_nt_nn"/></e>
+    <e lm="समस्या"><i>समस्या</i><par n="समस्या__n_nt_nn"/></e>
+    <e lm="प्रतिशत"><i>प्रतिशत</i><par n="प्रतिशत__n_nt_nn"/></e>
+    <e lm="मानिस"><i>मानिस</i><par n="मानिस__n_mf_aa"/></e>
+    <e lm="क्रम"><i>क्रम</i><par n="क्रम__n_nt_nn"/></e>
+    <e lm="घर"><i>घर</i><par n="घर__n_nt_nn"/></e>
+    <e lm="सरकार"><i>सरकार</i><par n="सरकार__n_nt_aa"/></e>
+    <e lm="स्थापना"><i>स्थापना</i><par n="स्थापना__n_nt_nn"/></e>
+    <e lm="कुरा"><i>कुरा</i><par n="कुरा__n_nt_nn"/></e>
+    <e lm="विवाह"><i>विवाह</i><par n="विवाह__n_nt_nn"/></e>
+    <e lm="सम्बन्ध"><i>सम्बन्ध</i><par n="सम्बन्ध__n_nt_nn"/></e>
+    <e lm="व्यवस्था"><i>व्यवस्था</i><par n="व्यवस्था__n_nt_nn"/></e>
+    <e lm="समाज"><i>समाज</i><par n="समाज__n_nt_an"/></e>
+    <e lm="जिल्ला"><i>जिल्ला</i><par n="जिल्ला__n_nt_nn"/></e>
+    <e lm="साथी"><i>साथी</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="सामान"><i>सामान</i><par n="सामान__n_nt_nn"/></e>
+    <e lm="स्थान"><i>स्थान</i><par n="स्थान__n_nt_nn"/></e>
+    <e lm="पत्र"><i>पत्र</i><par n="पत्र__n_nt_nn"/></e>
+    <e lm="केटी"><i>केटी</i><par n="केटी__n_nt_nn"/></e>
+    <e lm="ठाउँ"><i>ठाउँ</i><par n="ठाउँ__n_nt_aa"/></e>
+    <e lm="किसान"><i>किसान</i><par n="किसान__n_nt_aa"/></e>
+    <e lm="परिवर्तन"><i>परिवर्तन</i><par n="परिवर्तन__n_nt_nn"/></e>
+    <e lm="संस्था"><i>संस्था</i><par n="संस्था__n_nt_aa"/></e>
+    <e lm="जीव"><i>जीव</i><par n="जीव__n_nt_aa"/></e>
+    <e lm="प्रभाव"><i>प्रभाव</i><par n="प्रभाव__n_nt_nn"/></e>
+    <e lm="अवस्था"><i>अवस्था</i><par n="अवस्था__n_nt_nn"/></e>
+    <e lm="कर्मचारी"><i>कर्मचारी</i><par n="कर्मचारी__n_nt_aa"/></e>
+    <e lm="वस्तु"><i>वस्तु</i><par n="वस्तु__n_nt_nn"/></e>
+    <e lm="समय"><i>समय</i><par n="समय__n_nt_aa"/></e>
+    <e lm="मान्छे"><i>मान्छे</i><par n="मान्छे__n_mf_aa"/></e>
+    <e lm="शब्द"><i>शब्द</i><par n="शब्द__n_nt_nn"/></e>
+    <e lm="पैसा"><i>पैसा</i><par n="पैसा__n_nt_nn"/></e>
+    <e lm="दर्शन"><i>दर्शन</i><par n="दर्शन__n_nt_nn"/></e>
+  </section>
+</dictionary>

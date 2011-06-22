@@ -1,0 +1,341 @@
+2
+<dictionary>
+  <pardefs>
+    <pardef n="आवश्यक__n_nt_nn">
+      <e>
+        <p>
+          <l>ता</l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="मन__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="नेता__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="बाबु__n_m_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="आज__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="समाज__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="महिना__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="घर__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="शहर__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="काम__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="छोरी__n_f_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="मन्दिर__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="गाउँ__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sp"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="वन__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="जीव__n_nt_aa">
+      <e>
+        <p>
+          <l>न</l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="सिद्धान्त__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="मानव__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="मुख__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="नाम__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="जन__n_nt_aa">
+      <e>
+        <p>
+          <l>ता</l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="साथी__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="आमा__n_mf_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="क्षेत्र__n_nt_nn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="माया"><i>माया</i><par n="आज__n_nt_nn"/></e>
+    <e lm="महिला"><i>महिला</i><par n="छोरी__n_f_aa"/></e>
+    <e lm="भाषा"><i>भाषा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="सेवा"><i>सेवा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="राष्ट्र"><i>राष्ट्र</i><par n="वन__n_nt_aa"/></e>
+    <e lm="सिद्धान्त"><i>सिद्धान्त</i><par n="सिद्धान्त__n_nt_an"/></e>
+    <e lm="गीत"><i>गीत</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पुस्तक"><i>पुस्तक</i><par n="वन__n_nt_aa"/></e>
+    <e lm="वन"><i>वन</i><par n="वन__n_nt_aa"/></e>
+    <e lm="हात"><i>हात</i><par n="आज__n_nt_nn"/></e>
+    <e lm="शरीर"><i>शरीर</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="अधिकार"><i>अधिकार</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="शहर"><i>शहर</i><par n="शहर__n_nt_aa"/></e>
+    <e lm="विषय"><i>विषय</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पानी"><i>पानी</i><par n="आज__n_nt_nn"/></e>
+    <e lm="व्यवहार"><i>व्यवहार</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आँखा"><i>आँखा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="रात"><i>रात</i><par n="आज__n_nt_nn"/></e>
+    <e lm="ढोका"><i>ढोका</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रहरी"><i>प्रहरी</i><par n="मानव__n_mf_aa"/></e>
+    <e lm="नेता"><i>नेता</i><par n="नेता__n_m_aa"/></e>
+    <e lm="ध्यान"><i>ध्यान</i><par n="महिना__n_nt_nn"/></e>
+    <e lm="साहित्य"><i>साहित्य</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="सदस्य"><i>सदस्य</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कुरो"><i>कुरो</i><par n="आज__n_nt_nn"/></e>
+    <e lm="वर्ष"><i>वर्ष</i><par n="आज__n_nt_nn"/></e>
+    <e lm="शिक्षा"><i>शिक्षा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="दृष्टि"><i>दृष्टि</i><par n="आज__n_nt_nn"/></e>
+    <e lm="दुःख"><i>दुःख</i><par n="आज__n_nt_nn"/></e>
+    <e lm="काम"><i>काम</i><par n="काम__n_nt_nn"/></e>
+    <e lm="कान"><i>कान</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रयास"><i>प्रयास</i><par n="आज__n_nt_nn"/></e>
+    <e lm="रुप"><i>रुप</i><par n="आज__n_nt_nn"/></e>
+    <e lm="बीच"><i>बीच</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आवश्यक"><i>आवश्यक</i><par n="आवश्यक__n_nt_nn"/></e>
+    <e lm="वर्ग"><i>वर्ग</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आधार"><i>आधार</i><par n="आज__n_nt_nn"/></e>
+    <e lm="परिवार"><i>परिवार</i><par n="समाज__n_nt_an"/></e>
+    <e lm="जाति"><i>जाति</i><par n="वन__n_nt_aa"/></e>
+    <e lm="शुरू"><i>शुरू</i><par n="आज__n_nt_nn"/></e>
+    <e lm="सडक"><i>सडक</i><par n="आज__n_nt_nn"/></e>
+    <e lm="विकास"><i>विकास</i><par n="आज__n_nt_nn"/></e>
+    <e lm="उद्देश्य"><i>उद्देश्य</i><par n="आज__n_nt_nn"/></e>
+    <e lm="दिन"><i>दिन</i><par n="काम__n_nt_nn"/></e>
+    <e lm="अनुहार"><i>अनुहार</i><par n="आज__n_nt_nn"/></e>
+    <e lm="साल"><i>साल</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आन्दोलन"><i>आन्दोलन</i><par n="वन__n_nt_aa"/></e>
+    <e lm="सहयोग"><i>सहयोग</i><par n="आज__n_nt_nn"/></e>
+    <e lm="अनुभव"><i>अनुभव</i><par n="आज__n_nt_nn"/></e>
+    <e lm="छोरी"><i>छोरी</i><par n="छोरी__n_f_aa"/></e>
+    <e lm="बाटो"><i>बाटो</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रशासन"><i>प्रशासन</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पक्ष"><i>पक्ष</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कोठा"><i>कोठा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रजातन्त्र"><i>प्रजातन्त्र</i><par n="वन__n_nt_aa"/></e>
+    <e lm="राज्य"><i>राज्य</i><par n="आज__n_nt_nn"/></e>
+    <e lm="रोग"><i>रोग</i><par n="आज__n_nt_nn"/></e>
+    <e lm="महिना"><i>महिना</i><par n="महिना__n_nt_nn"/></e>
+    <e lm="देश"><i>देश</i><par n="वन__n_nt_aa"/></e>
+    <e lm="प्रश्न"><i>प्रश्न</i><par n="आज__n_nt_nn"/></e>
+    <e lm="क्षेत्र"><i>क्षेत्र</i><par n="क्षेत्र__n_nt_nn"/></e>
+    <e lm="राजा"><i>राजा</i><par n="नेता__n_m_aa"/></e>
+    <e lm="नाम"><i>नाम</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="रूप"><i>रूप</i><par n="आज__n_nt_nn"/></e>
+    <e lm="उल्लेख"><i>उल्लेख</i><par n="आज__n_nt_nn"/></e>
+    <e lm="मुख"><i>मुख</i><par n="मुख__n_nt_aa"/></e>
+    <e lm="विश्व"><i>विश्व</i><par n="वन__n_nt_aa"/></e>
+    <e lm="कार्यक्रम"><i>कार्यक्रम</i><par n="आज__n_nt_nn"/></e>
+    <e lm="देवी"><i>देवी</i><par n="आज__n_nt_nn"/></e>
+    <e lm="योजना"><i>योजना</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="प्रकार"><i>प्रकार</i><par n="आज__n_nt_nn"/></e>
+    <e lm="वातावरण"><i>वातावरण</i><par n="आज__n_nt_nn"/></e>
+    <e lm="व्यक्ति"><i>व्यक्ति</i><par n="वन__n_nt_aa"/></e>
+    <e lm="नारी"><i>नारी</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कारण"><i>कारण</i><par n="आज__n_nt_nn"/></e>
+    <e lm="साथ"><i>साथ</i><par n="आज__n_nt_nn"/></e>
+    <e lm="धर्म"><i>धर्म</i><par n="आज__n_nt_nn"/></e>
+    <e lm="छोरा"><i>छोरा</i><par n="बाबु__n_m_aa"/></e>
+    <e lm="मन"><i>मन</i><par n="मन__n_nt_an"/></e>
+    <e lm="निर्णय"><i>निर्णय</i><par n="वन__n_nt_aa"/></e>
+    <e lm="मुलुक"><i>मुलुक</i><par n="वन__n_nt_aa"/></e>
+    <e lm="गाउँ"><i>गाउँ</i><par n="गाउँ__n_nt_an"/></e>
+    <e lm="किसिम"><i>किसिम</i><par n="आज__n_nt_nn"/></e>
+    <e lm="अर्थ"><i>अर्थ</i><par n="आज__n_nt_nn"/></e>
+    <e lm="धारणा"><i>धारणा</i><par n="वन__n_nt_aa"/></e>
+    <e lm="इतिहास"><i>इतिहास</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कथा"><i>कथा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="ज्ञान"><i>ज्ञान</i><par n="काम__n_nt_nn"/></e>
+    <e lm="प्रयोग"><i>प्रयोग</i><par n="आज__n_nt_nn"/></e>
+    <e lm="मानव"><i>मानव</i><par n="मानव__n_mf_aa"/></e>
+    <e lm="पार्टी"><i>पार्टी</i><par n="मुख__n_nt_aa"/></e>
+    <e lm="कार्य"><i>कार्य</i><par n="आज__n_nt_nn"/></e>
+    <e lm="निर्माण"><i>निर्माण</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आमा"><i>आमा</i><par n="आमा__n_mf_nn"/></e>
+    <e lm="अध्ययन"><i>अध्ययन</i><par n="आज__n_nt_nn"/></e>
+    <e lm="गोली"><i>गोली</i><par n="आज__n_nt_nn"/></e>
+    <e lm="उत्पादन"><i>उत्पादन</i><par n="आज__n_nt_nn"/></e>
+    <e lm="भाग"><i>भाग</i><par n="आज__n_nt_nn"/></e>
+    <e lm="जन"><i>जन</i><par n="जन__n_nt_aa"/></e>
+    <e lm="बेला"><i>बेला</i><par n="आज__n_nt_nn"/></e>
+    <e lm="शक्ति"><i>शक्ति</i><par n="आज__n_nt_nn"/></e>
+    <e lm="संसार"><i>संसार</i><par n="वन__n_nt_aa"/></e>
+    <e lm="स्थिति"><i>स्थिति</i><par n="आज__n_nt_nn"/></e>
+    <e lm="मन्दिर"><i>मन्दिर</i><par n="मन्दिर__n_nt_nn"/></e>
+    <e lm="विश्वास"><i>विश्वास</i><par n="आज__n_nt_nn"/></e>
+    <e lm="बाबु"><i>बाबु</i><par n="बाबु__n_m_aa"/></e>
+    <e lm="आवाज"><i>आवाज</i><par n="आज__n_nt_nn"/></e>
+    <e lm="भावना"><i>भावना</i><par n="आज__n_nt_nn"/></e>
+    <e lm="घटना"><i>घटना</i><par n="आज__n_nt_nn"/></e>
+    <e lm="खर्च"><i>खर्च</i><par n="आज__n_nt_nn"/></e>
+    <e lm="विचार"><i>विचार</i><par n="आज__n_nt_nn"/></e>
+    <e lm="नीति"><i>नीति</i><par n="आज__n_nt_nn"/></e>
+    <e lm="जग्गा"><i>जग्गा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="आज"><i>आज</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पटक"><i>पटक</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रेम"><i>प्रेम</i><par n="आज__n_nt_nn"/></e>
+    <e lm="थाहा"><i>थाहा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="समस्या"><i>समस्या</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रतिशत"><i>प्रतिशत</i><par n="आज__n_nt_nn"/></e>
+    <e lm="मानिस"><i>मानिस</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="क्रम"><i>क्रम</i><par n="आज__n_nt_nn"/></e>
+    <e lm="घर"><i>घर</i><par n="घर__n_nt_nn"/></e>
+    <e lm="सरकार"><i>सरकार</i><par n="वन__n_nt_aa"/></e>
+    <e lm="स्थापना"><i>स्थापना</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कुरा"><i>कुरा</i><par n="काम__n_nt_nn"/></e>
+    <e lm="विवाह"><i>विवाह</i><par n="आज__n_nt_nn"/></e>
+    <e lm="सम्बन्ध"><i>सम्बन्ध</i><par n="आज__n_nt_nn"/></e>
+    <e lm="व्यवस्था"><i>व्यवस्था</i><par n="आज__n_nt_nn"/></e>
+    <e lm="समाज"><i>समाज</i><par n="समाज__n_nt_an"/></e>
+    <e lm="जिल्ला"><i>जिल्ला</i><par n="मन्दिर__n_nt_nn"/></e>
+    <e lm="साथी"><i>साथी</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="सामान"><i>सामान</i><par n="आज__n_nt_nn"/></e>
+    <e lm="स्थान"><i>स्थान</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पत्र"><i>पत्र</i><par n="आज__n_nt_nn"/></e>
+    <e lm="केटी"><i>केटी</i><par n="आज__n_nt_nn"/></e>
+    <e lm="ठाउँ"><i>ठाउँ</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="किसान"><i>किसान</i><par n="वन__n_nt_aa"/></e>
+    <e lm="परिवर्तन"><i>परिवर्तन</i><par n="आज__n_nt_nn"/></e>
+    <e lm="संस्था"><i>संस्था</i><par n="वन__n_nt_aa"/></e>
+    <e lm="जीव"><i>जीव</i><par n="जीव__n_nt_aa"/></e>
+    <e lm="प्रभाव"><i>प्रभाव</i><par n="आज__n_nt_nn"/></e>
+    <e lm="अवस्था"><i>अवस्था</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कर्मचारी"><i>कर्मचारी</i><par n="वन__n_nt_aa"/></e>
+    <e lm="वस्तु"><i>वस्तु</i><par n="आज__n_nt_nn"/></e>
+    <e lm="समय"><i>समय</i><par n="वन__n_nt_aa"/></e>
+    <e lm="मान्छे"><i>मान्छे</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="शब्द"><i>शब्द</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पैसा"><i>पैसा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="दर्शन"><i>दर्शन</i><par n="आज__n_nt_nn"/></e>
+
+  </section>
+</dictionary>
