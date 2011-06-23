@@ -12023,6 +12023,18 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
     </pardef>
 <section id="main" type="standard">
+  
+   <!-- Numerals -->
+<e lm="एक"><i>एक</i><par n="one__num"/></e>
+<e lm="दुई"><i>दुई</i><par n="two__num"/></e>
+<e lm="तीन"><i>तीन</i><par n="two__num"/></e>
+<e lm="चार"><i>चार</i><par n="two__num"/></e>
+<e lm="पाँच"><i>पाँच</i><par n="two__num"/></e>
+<e lm="छ"><i>छ</i><par n="two__num"/></e>
+<e lm="सात"><i>सात</i><par n="two__num"/></e>
+<e lm="आठ"><i>आठ</i><par n="two__num"/></e>
+<e lm="नौ"><i>नौ</i><par n="two__num"/></e>
+<e lm="दस"><i>दस</i><par n="two__num"/></e>
   <!--Adjectives-->
     <e lm="राम्रो"><i>राम्र</i><par n="राम्र/ो__adj"/></e>
     <e lm="प्रशस्त"><i>प्रशस्त</i><par n="थप__adj"/></e>
