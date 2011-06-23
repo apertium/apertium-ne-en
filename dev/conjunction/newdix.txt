@@ -1,4 +1,4 @@
-2
+﻿
 <dictionary>
   <pardefs>
     <pardef n="र__cnjcoo">
@@ -14,14 +14,6 @@
         <p>
           <l></l>
           <r><s n="cnjsub"/><s n=""/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="यदि__">
-      <e>
-        <p>
-          <l></l>
-          <r><s n=""/><s n=""/></r>
         </p>
       </e>
     </pardef>
@@ -106,7 +98,7 @@
     <e lm="तर्"><i>तर्</i><par n="र__cnjcoo"/></e>
     <e lm="एवम्"><i>एवम्</i><par n="र__cnjcoo"/></e>
     <e lm="तसर्थ"><i>तसर्थ</i><par n="कि__cnjsub"/></e>
-    <e lm="यदि"><i>यदि</i><par n="यदि__"/></e>
+    <e lm="यदि"><i>यदि</i><par n="कि__cnjsub"/></e>
     <e lm="साथसाथै"><i>साथसाथै</i><par n="र__cnjcoo"/></e>
     <e lm="यद्वा"><i>यद्वा</i><par n="र__cnjcoo"/></e>
     <e lm="औ"><i>औ</i><par n="र__cnjcoo"/></e>
