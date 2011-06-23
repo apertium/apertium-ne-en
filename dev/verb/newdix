@@ -23,7 +23,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -67,27 +67,27 @@
       <e>
         <p>
           <l>ाइदिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="सोच__vblex">
       <e>
         <p>
-          <l>ें</l>
-          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <l>ें</l>
+          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -103,7 +103,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -121,13 +121,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -178,6 +178,12 @@
     <pardef n="छोड/्__vblex">
       <e>
         <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>्दो</l>
           <r>्<s n="vblex"/><s n="ppd"/><s n="m"/></r>
         </p>
@@ -191,13 +197,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -235,43 +235,73 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ना</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नै</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -307,25 +337,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -416,36 +446,6 @@
         <p>
           <l>िरहिस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -637,13 +637,13 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -651,7 +651,7 @@
       <e>
         <p>
           <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -659,7 +659,7 @@
       <e>
         <p>
           <l>लाग्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -674,14 +674,14 @@
     <pardef n="पठाउ__vblex">
       <e>
         <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l>नोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -837,7 +837,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -853,7 +853,7 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -875,13 +875,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -907,7 +907,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -956,20 +956,20 @@
     <pardef n="बस__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>िरहने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िरहें</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -991,19 +991,19 @@
       <e>
         <p>
           <l>याउन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>याउनु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1025,47 +1025,47 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="देखा__vblex">
       <e>
         <p>
-          <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <l>पर्ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="बजाउ__vblex">
       <e>
         <p>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1079,13 +1079,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -1115,19 +1115,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नें</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1221,7 +1221,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1229,7 +1229,49 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ाउनोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ाउनुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -1253,25 +1295,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्निने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ना</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1290,48 +1332,6 @@
         <p>
           <l>िनस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ाउनोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ाउनुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -1401,7 +1401,7 @@
       <e>
         <p>
           <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1429,7 +1429,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -1447,13 +1447,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1461,7 +1461,7 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1483,7 +1483,7 @@
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1512,6 +1512,12 @@
     <pardef n="फर्क__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -1519,19 +1525,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1599,7 +1599,7 @@
       <e>
         <p>
           <l>ाइने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1631,27 +1631,27 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="हेर__vblex">
       <e>
         <p>
-          <l>िन</l>
-          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <l>िन</l>
+          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -1665,7 +1665,7 @@
       <e>
         <p>
           <l>ीने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1694,14 +1694,14 @@
     <pardef n="वताउ__vblex">
       <e>
         <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l>नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1709,19 +1709,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1747,13 +1747,13 @@
       <e>
         <p>
           <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>सके</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1761,7 +1761,7 @@
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1789,13 +1789,13 @@
       <e>
         <p>
           <l>हन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>हनु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -1830,6 +1830,12 @@
     <pardef n="हिड्__vblex">
       <e>
         <p>
+          <l>नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -1837,13 +1843,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -1891,19 +1891,19 @@
       <e>
         <p>
           <l>ुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ुहोस</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -1911,7 +1911,7 @@
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1931,7 +1931,7 @@
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -1976,14 +1976,14 @@
     <pardef n="दे__vblex">
       <e>
         <p>
-          <l>ऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <l>ऊ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -2003,7 +2003,7 @@
       <e>
         <p>
           <l>रहने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2025,7 +2025,7 @@
       <e>
         <p>
           <l>िसके</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2051,7 +2051,7 @@
       <e>
         <p>
           <l>िपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2121,19 +2121,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िराख्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2161,13 +2161,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2175,19 +2175,19 @@
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2195,13 +2195,13 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2215,7 +2215,7 @@
       <e>
         <p>
           <l>ाऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -2223,13 +2223,25 @@
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2241,13 +2253,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2260,18 +2272,6 @@
         <p>
           <l>इस्</l>
           <r><s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2307,7 +2307,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2315,7 +2315,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -2333,13 +2333,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2353,7 +2353,7 @@
       <e>
         <p>
           <l>सक्नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2383,25 +2383,31 @@
       <e>
         <p>
           <l>हुन</l>
-          <r>हु<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>हु<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>हुनु</l>
-          <r>हु<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>हु<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>हुना</l>
-          <r>हु<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>हु<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>हुनै</l>
-          <r>हु<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>हु<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>हुनुहोस्</l>
+          <r>हु<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2425,7 +2431,7 @@
       <e>
         <p>
           <l>हुने</l>
-          <r>हु<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>हु<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2456,12 +2462,6 @@
         <p>
           <l>भइस्</l>
           <r>हु<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>हुनुहोस्</l>
-          <r>हु<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2505,7 +2505,7 @@
       <e>
         <p>
           <l>कन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -2525,13 +2525,13 @@
       <e>
         <p>
           <l>पुग्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2545,13 +2545,31 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2569,31 +2587,31 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2616,24 +2634,6 @@
       </e>
       <e>
         <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>्छु</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -2649,25 +2649,43 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ऊ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2690,24 +2708,6 @@
       </e>
       <e>
         <p>
-          <l>ऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>यौ</l>
           <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
         </p>
@@ -2716,26 +2716,26 @@
     <pardef n="सम्झ__vblex">
       <e>
         <p>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2749,13 +2749,13 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2776,20 +2776,20 @@
     <pardef n="बोल__vblex">
       <e>
         <p>
-          <l>ें</l>
-          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <l>ें</l>
+          <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2809,19 +2809,43 @@
       <e>
         <p>
           <l>उन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>उनु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ऊ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उनोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उनुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -2856,30 +2880,6 @@
       </e>
       <e>
         <p>
-          <l>ऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उनोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उनुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>उँछु</l>
           <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -2900,6 +2900,12 @@
     <pardef n="हिँड्__vblex">
       <e>
         <p>
+          <l>नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -2907,19 +2913,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -2927,19 +2927,49 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ना</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्दिनुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -2975,37 +3005,37 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नें</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ना</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िदिने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3060,36 +3090,6 @@
         <p>
           <l>िनस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्दिनुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -3201,13 +3201,13 @@
       <e>
         <p>
           <l>उन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3227,7 +3227,7 @@
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3255,7 +3255,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3263,7 +3263,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3279,7 +3279,7 @@
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3341,13 +3341,43 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -3365,19 +3395,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3390,36 +3420,6 @@
         <p>
           <l>्दैछस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="cnt"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -3497,25 +3497,25 @@
       <e>
         <p>
           <l>िनुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाइने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ीने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िसक्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3549,7 +3549,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3563,7 +3563,7 @@
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3595,7 +3595,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3611,13 +3611,13 @@
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -3641,13 +3641,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3663,21 +3663,33 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>दिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="सुन__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>िहाल्नोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3692,24 +3704,12 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>िहाल्नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="भइसक/्__vblex">
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3717,7 +3717,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3741,7 +3741,7 @@
       <e>
         <p>
           <l>रहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3771,19 +3771,19 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ीने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िनु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3791,7 +3791,7 @@
       <e>
         <p>
           <l>उन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
     </pardef>
@@ -3815,7 +3815,7 @@
       <e>
         <p>
           <l>दिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -3856,20 +3856,26 @@
     <pardef n="पार__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िनुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िदिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3878,18 +3884,12 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="भेट__vblex">
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3902,6 +3902,12 @@
     <pardef n="बढ__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दो</l>
           <r><s n="vblex"/><s n="ppd"/><s n="m"/></r>
         </p>
@@ -3909,19 +3915,19 @@
       <e>
         <p>
           <l>ाइने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िरहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -3930,24 +3936,18 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="खोज/्__vblex">
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -3965,19 +3965,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4017,13 +4017,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -4053,19 +4053,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4157,7 +4157,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4192,20 +4192,20 @@
     <pardef n="पर्ख__vblex">
       <e>
         <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4267,21 +4267,27 @@
       <e>
         <p>
           <l>पर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="पढ__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाइने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4290,24 +4296,18 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="मिसाउ__vblex">
       <e>
         <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4323,7 +4323,7 @@
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4337,19 +4337,19 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4357,13 +4357,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4371,13 +4371,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -4401,43 +4407,37 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -4497,37 +4497,37 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>दिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>रहने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>रहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>दिए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4553,7 +4553,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4635,13 +4635,13 @@
       <e>
         <p>
           <l>हुने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>भए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4675,25 +4675,25 @@
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुस</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्ने</l>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4713,7 +4713,7 @@
       <e>
         <p>
           <l>ु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4748,6 +4748,12 @@
     <pardef n="नजा__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>निंदो</l>
           <r><s n="vblex"/><s n="ppd"/><s n="m"/></r>
         </p>
@@ -4758,24 +4764,18 @@
           <r><s n="vblex"/><s n="ppd"/><s n="m"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="हट/्__vblex">
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4805,33 +4805,33 @@
       <e>
         <p>
           <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="हिंड__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4839,7 +4839,7 @@
       <e>
         <p>
           <l>रहने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4847,19 +4847,49 @@
       <e>
         <p>
           <l>उन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>उनु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>इदेऊ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उनुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ऊ</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>उनोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>इदिनुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ईने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -4872,36 +4902,6 @@
         <p>
           <l>इस्</l>
           <r><s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>इदेऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उनुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ऊ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>उनोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>इदिनुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -4927,33 +4927,33 @@
       <e>
         <p>
           <l>उने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="बन__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िरहने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -4961,11 +4961,17 @@
       <e>
         <p>
           <l>ाउने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="राख__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>ें</l>
@@ -4978,30 +4984,18 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="उत्र__vblex">
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5015,7 +5009,7 @@
       <e>
         <p>
           <l>ोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -5035,25 +5029,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्दैजाने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5137,13 +5131,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5157,7 +5151,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5225,7 +5219,7 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5243,7 +5237,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5256,20 +5250,20 @@
     <pardef n="हराउ__vblex">
       <e>
         <p>
+          <l>नोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5285,7 +5279,7 @@
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5299,13 +5293,13 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5317,25 +5311,25 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>इने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5365,13 +5359,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5383,19 +5377,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नुपर्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5463,13 +5457,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5487,25 +5481,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5525,7 +5519,7 @@
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5537,13 +5531,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5563,13 +5557,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5619,19 +5613,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5725,7 +5719,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -5733,7 +5727,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5755,7 +5749,7 @@
       <e>
         <p>
           <l>दिनोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -5791,25 +5785,25 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -5845,25 +5839,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -5991,13 +5985,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6057,7 +6051,7 @@
       <e>
         <p>
           <l>िदिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6065,7 +6059,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -6077,21 +6071,27 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="भनि__vblex">
       <e>
         <p>
+          <l>हाल्नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6108,12 +6108,6 @@
       </e>
       <e>
         <p>
-          <l>हाल्नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>दिन्छु</l>
           <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -6123,7 +6117,7 @@
       <e>
         <p>
           <l>िदिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6146,20 +6140,26 @@
     <pardef n="रह__vblex">
       <e>
         <p>
+          <l>नोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ना</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6172,12 +6172,6 @@
         <p>
           <l>िछस्</l>
           <r><s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -6221,7 +6215,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6235,7 +6229,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6292,6 +6286,18 @@
     <pardef n="आउ__vblex">
       <e>
         <p>
+          <l>नुस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>नुहोस</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -6299,25 +6305,19 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="पाल्__vblex">
       <e>
         <p>
+          <l>नोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -6325,13 +6325,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6339,7 +6333,7 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6363,21 +6357,39 @@
       <e>
         <p>
           <l>िनु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="सोध/्__vblex">
       <e>
         <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6390,24 +6402,6 @@
         <p>
           <l>िनस्</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -6438,14 +6432,14 @@
     <pardef n="काट__vblex">
       <e>
         <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <l>ने</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6453,7 +6447,7 @@
       <e>
         <p>
           <l>ना</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6461,13 +6455,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6491,13 +6485,19 @@
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -6521,25 +6521,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6573,7 +6567,7 @@
       <e>
         <p>
           <l>ाउ</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -6581,19 +6575,19 @@
       <e>
         <p>
           <l>ाउनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाइए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6607,7 +6601,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6637,7 +6631,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6650,6 +6644,12 @@
       </e>
     </pardef>
     <pardef n="लगाउ__vblex">
+      <e>
+        <p>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>दै</l>
@@ -6665,19 +6665,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6715,13 +6709,13 @@
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6729,7 +6723,7 @@
       <e>
         <p>
           <l>र्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6802,14 +6796,14 @@
     <pardef n="लान__vblex">
       <e>
         <p>
-          <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <l>ोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <l>े</l>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -6817,19 +6811,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -6859,19 +6853,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -6917,25 +6911,11 @@
         </p>
       </e>
     </pardef>
-    <pardef n="लेउ__vblex">
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="पा__vblex">
       <e>
         <p>
           <l>उन</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -6947,13 +6927,13 @@
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7021,7 +7001,7 @@
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7041,13 +7021,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7105,7 +7085,7 @@
       <e>
         <p>
           <l>रहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7125,13 +7105,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7145,7 +7125,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7173,7 +7153,7 @@
       <e>
         <p>
           <l>कौने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7187,7 +7167,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -7217,13 +7197,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7239,7 +7219,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -7257,7 +7237,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7285,19 +7265,25 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउनु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -7315,31 +7301,25 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाइए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7383,13 +7363,13 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7409,7 +7389,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7444,8 +7424,14 @@
     <pardef n="भन__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7460,12 +7446,6 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="भन__opt">
       <e>
@@ -7475,25 +7455,11 @@
         </p>
       </e>
     </pardef>
-    <pardef n="लैजा__vblex">
-      <e>
-        <p>
-          <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="घुम्__vblex">
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -7505,13 +7471,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नैपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7525,7 +7491,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7545,7 +7511,7 @@
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -7575,19 +7541,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7767,7 +7733,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -7785,31 +7763,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7835,13 +7801,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>रहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7863,7 +7829,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7871,7 +7837,7 @@
       <e>
         <p>
           <l>सक्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7885,7 +7851,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -7899,13 +7865,31 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुहोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -7935,37 +7919,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुहोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -7993,13 +7959,13 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8007,13 +7973,13 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8027,19 +7993,19 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नुपर्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8101,13 +8067,31 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -8131,13 +8115,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8150,24 +8134,6 @@
         <p>
           <l>्यौ</l>
           <r>्<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -8229,17 +8195,23 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="बताउ__vblex">
+      <e>
+        <p>
+          <l>नुहोस्</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>दै</l>
@@ -8249,13 +8221,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8263,33 +8229,33 @@
       <e>
         <p>
           <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="pres"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
         </p>
       </e>
     </pardef>
     <pardef n="हाल__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>िदिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ें</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -8303,7 +8269,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8335,7 +8301,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8361,13 +8327,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -8403,13 +8369,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8467,7 +8433,7 @@
       <e>
         <p>
           <l>दिनु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8481,7 +8447,7 @@
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8489,7 +8455,7 @@
       <e>
         <p>
           <l>ाए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8511,13 +8477,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8565,19 +8531,19 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िए</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8651,7 +8617,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8679,13 +8645,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>नु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8698,20 +8664,20 @@
     <pardef n="छोड__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8727,7 +8693,7 @@
       <e>
         <p>
           <l>र</l>
-          <r>ट्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
+          <r>ट्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -8735,13 +8701,13 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>िलिने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8767,13 +8733,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -8791,13 +8763,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -8810,12 +8782,6 @@
         <p>
           <l>्यो</l>
           <r>्<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -8853,7 +8819,7 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8875,13 +8841,13 @@
       <e>
         <p>
           <l>्लिने</l>
-          <r>ल्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>ल्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ल्ने</l>
-          <r>ल्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>ल्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -8897,67 +8863,67 @@
       <e>
         <p>
           <l>जान</l>
-          <r>जा<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>जा<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>जानु</l>
-          <r>जा<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>जा<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जा</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जाऊ</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जाउ</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जाओ</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जानोस्</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जानुहोस्</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>जानुस्</l>
+          <r>जा<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>जाने</l>
-          <r>जा<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>जा<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>गयौँ</l>
           <r>जा<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जाऊ</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जाउ</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जाओ</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जा</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जानोस्</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जानुहोस्</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>जानुस्</l>
-          <r>जा<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -8983,15 +8949,7 @@
       <e>
         <p>
           <l>ाए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="मर__vblex">
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9021,7 +8979,13 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -9045,13 +9009,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9080,12 +9044,6 @@
       </e>
       <e>
         <p>
-          <l>्नुस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>्छु</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -9101,7 +9059,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9127,7 +9085,7 @@
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -9139,7 +9097,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9171,7 +9129,13 @@
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -9195,13 +9159,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9218,12 +9182,6 @@
       </e>
       <e>
         <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>्छु</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -9233,7 +9191,7 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -9251,7 +9209,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9315,7 +9273,7 @@
       <e>
         <p>
           <l>ें</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9323,7 +9281,7 @@
       <e>
         <p>
           <l>ोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -9331,7 +9289,7 @@
       <e>
         <p>
           <l>किने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9339,13 +9297,19 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>्नु</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नोस्</l>
+          <r>्<s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -9369,13 +9333,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9410,12 +9374,6 @@
       </e>
       <e>
         <p>
-          <l>्नोस्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>्दिन</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -9445,13 +9403,13 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ना</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9459,7 +9417,7 @@
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9467,7 +9425,7 @@
       <e>
         <p>
           <l>रहनु</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9475,19 +9433,19 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ए</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>रहे</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9495,7 +9453,7 @@
       <e>
         <p>
           <l>िने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9509,7 +9467,7 @@
       <e>
         <p>
           <l>न</l>
-          <r><s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -9521,7 +9479,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9529,7 +9487,7 @@
       <e>
         <p>
           <l>नुहोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -9537,7 +9495,7 @@
       <e>
         <p>
           <l>हाल्ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9545,7 +9503,7 @@
       <e>
         <p>
           <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -9563,13 +9521,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9583,7 +9541,7 @@
       <e>
         <p>
           <l>ाउन</l>
-          <r>्<s n="vblex"/><s n="inf"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
       <e>
@@ -9601,13 +9559,13 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>े</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9621,7 +9579,7 @@
       <e>
         <p>
           <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9634,8 +9592,14 @@
     <pardef n="उठ__vblex">
       <e>
         <p>
+          <l></l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
       <e>
@@ -9644,18 +9608,12 @@
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="fam"/><s n="imp"/><s n="mf"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="विर्स__vblex">
       <e>
         <p>
           <l>नोस्</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="pol"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -9710,6 +9668,12 @@
     <pardef n="कुट्__vblex">
       <e>
         <p>
+          <l>नोस</l>
+          <r><s n="vblex"/><s n="impres"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>दा</l>
           <r><s n="vblex"/><s n="ppd"/><s n="mf"/></r>
         </p>
@@ -9717,13 +9681,7 @@
       <e>
         <p>
           <l>ने</l>
-          <r><s n="vblex"/><s n="ppe"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>नोस</l>
-          <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="impers"/><s n="infml"/><s n="imp"/><s n="mf"/></r>
+          <r><s n="vblex"/><s n="ppe"/></r>
         </p>
       </e>
     </pardef>
@@ -9739,7 +9697,7 @@
   <section id="main" type="standard">
     <e lm="जीउँ"><i>जीउँ</i><par n="बल्__vblex"/></e>
     <e lm="उम्क"><i>उम्क</i><par n="लड__vblex"/></e>
-    <e lm="बजा"><i>बजा</i><par n="मर__vblex"/></e>
+    <e lm="बजा"><i>बजा</i><par n="आओ__vblex"/></e>
     <e lm="लिन"><i>लिन</i><par n="लिन__vblex"/></e>
     <e lm="गास्"><i>गास्</i><par n="लड__vblex"/></e>
     <e lm="लेख"><i>लेख</i><par n="चढ__vblex"/></e>
@@ -9748,8 +9706,8 @@
     <e lm="गर्नेछन्"><i>गर्नेछन्</i><par n="हुनेछन्__vblex"/></e>
     <e lm="किन्"><i>किन्</i><par n="पिउ__vblex"/></e>
     <e lm="थुन्"><i>थुन्</i><par n="लड__vblex"/></e>
-    <e lm="नगर्"><i>नगर्</i><par n="लैजा__vblex"/></e>
-    <e lm="लेउ"><i>लेउ</i><par n="लेउ__vblex"/></e>
+    <e lm="नगर्"><i>नगर्</i><par n="काट__vblex"/></e>
+    <e lm="लेउ"><i>लेउ</i><par n="आओ__vblex"/></e>
     <e lm="मोटाउ"><i>मोटाउ</i><par n="लड__vblex"/></e>
     <e lm="टेक्"><i>टेक्</i><par n="लड__vblex"/></e>
     <e lm="खुल्"><i>खुल</i><par n="खुल/्__vblex"/></e>
@@ -9958,7 +9916,7 @@
     <e lm="चाल्"><i>चाल्</i><par n="चाल्__vblex"/></e>
     <e lm="लागि"><i>लागि</i><par n="लागि__vblex"/></e>
     <e lm="चाट्"><i>चाट्</i><par n="लड__vblex"/></e>
-    <e lm="बुझिराख्"><i>बुझिराख्</i><par n="मर__vblex"/></e>
+    <e lm="बुझिराख्"><i>बुझिराख्</i><par n="आओ__vblex"/></e>
     <e lm="हिड्"><i>हिड्</i><par n="हिड्__vblex"/></e>
     <e lm="मुस्कुराउँ"><i>मुस्कुराउँ</i><par n="सहँ__vblex"/></e>
     <e lm="पाएँ"><i>पाएँ</i><par n="भएँ__vblex"/></e>
@@ -10057,7 +10015,7 @@
     <e lm="चाल"><i>चाल</i><par n="वच__vblex"/></e>
     <e lm="खोज्"><i>खोज</i><par n="खोज/्__vblex"/></e>
     <e lm="लैजान"><i>लैजान</i><par n="खान__vblex"/></e>
-    <e lm="खुवा"><i>खुवा</i><par n="मर__vblex"/></e>
+    <e lm="खुवा"><i>खुवा</i><par n="आओ__vblex"/></e>
     <e lm="सभागर्ने"><i>सभागर्ने</i><par n="बुने__vblex"/></e>
     <e lm="सुम्पि"><i>सुम्पि</i><par n="मारि__vblex"/></e>
     <e lm="हप्क"><i>हप्क</i><par n="सुक__vblex"/></e>
@@ -10159,7 +10117,7 @@
     <e lm="जित्"><i>जित्</i><par n="लड__vblex"/></e>
     <e lm="भइजा"><i>भइजा</i><par n="लड__vblex"/></e>
     <e lm="खोस्"><i>खोस</i><par n="खोस/्__vblex"/></e>
-    <e lm="मर"><i>मर</i><par n="मर__vblex"/></e>
+    <e lm="मर"><i>मर</i><par n="आओ__vblex"/></e>
     <e lm="सुंकसँकाउ"><i>सुंकसँकाउ</i><par n="लड__vblex"/></e>
     <e lm="चर्क"><i>चर्क</i><par n="वच__vblex"/></e>
     <e lm="सुमसुम्याउँ"><i>सुमसुम्याउँ</i><par n="सहँ__vblex"/></e>
@@ -10522,7 +10480,7 @@
     <e lm="सक्तैनन्"><i>सक्तैनन्</i><par n="आए__vblex"/></e>
     <e lm="देखा"><i>देखा</i><par n="देखा__vblex"/></e>
     <e lm="देखि"><i>देखि</i><par n="लड__vblex"/></e>
-    <e lm="बसिराख्"><i>बसिराख्</i><par n="मर__vblex"/></e>
+    <e lm="बसिराख्"><i>बसिराख्</i><par n="आओ__vblex"/></e>
     <e lm="दोहोर्याउ"><i>दोहोर्याउ</i><par n="लड__vblex"/></e>
     <e lm="सहने"><i>सहने</i><par n="बुने__vblex"/></e>
     <e lm="पुग्दछन्"><i>पुग्दछन्</i><par n="आए__vblex"/></e>
@@ -10611,7 +10569,7 @@
     <e lm="चांह"><i>चांह</i><par n="वच__vblex"/></e>
     <e lm="ओगट्"><i>ओगट्</i><par n="लड__vblex"/></e>
     <e lm="अँगाल्"><i>अँगाल्</i><par n="लड__vblex"/></e>
-    <e lm="लईजा"><i>लईजा</i><par n="मर__vblex"/></e>
+    <e lm="लईजा"><i>लईजा</i><par n="आओ__vblex"/></e>
     <e lm="हरहराउँ"><i>हरहराउँ</i><par n="बल्__vblex"/></e>
     <e lm="छिराउ"><i>छिराउ</i><par n="लड__vblex"/></e>
     <e lm="भडकाउ"><i>भडकाउ</i><par n="लड__vblex"/></e>
@@ -10677,7 +10635,7 @@
     <e lm="लगाए"><i>लगाए</i><par n="आए__vblex"/></e>
     <e lm="थिएनन्"><i>थिएनन्</i><par n="भए__vblex"/></e>
     <e lm="गरिं"><i>गरिं</i><par n="वढ्__vblex"/></e>
-    <e lm="भनन"><i>भनन</i><par n="मर__vblex"/></e>
+    <e lm="भनन"><i>भनन</i><par n="आओ__vblex"/></e>
     <e lm="निस्कि"><i>निस्कि</i><par n="लड__vblex"/></e>
     <e lm="लगाइ"><i>लगाइ</i><par n="लगाइ__vblex"/></e>
     <e lm="हूँ"><i>हूँ</i><par n="हूँ__vblex"/></e>
@@ -10695,7 +10653,7 @@
     <e lm="उराठ"><i>उराठ</i><par n="उराठ__vblex"/></e>
     <e lm="निकाल"><i>निकाल</i><par n="तम__opt"/></e>
     <e lm="खट्"><i>खट्</i><par n="लड__vblex"/></e>
-    <e lm="फूकाल"><i>फूकाल</i><par n="मर__vblex"/></e>
+    <e lm="फूकाल"><i>फूकाल</i><par n="आओ__vblex"/></e>
     <e lm="घत"><i>घत</i><par n="ओत__vblex"/></e>
     <e lm="तोक्"><i>तोक</i><par n="छाप/्__vblex"/></e>
     <e lm="लाउँ"><i>लाउँ</i><par n="छँ__vblex"/></e>
@@ -10716,7 +10674,7 @@
     <e lm="लाग"><i>लाग</i><par n="लाग__vblex"/></e>
     <e lm="निल्"><i>निल्</i><par n="लड__vblex"/></e>
     <e lm="फैलिं"><i>फैलिं</i><par n="सहँ__vblex"/></e>
-    <e lm="आइज"><i>आइज</i><par n="मर__vblex"/></e>
+    <e lm="आइज"><i>आइज</i><par n="आओ__vblex"/></e>
     <e lm="बाँड्"><i>बाँड्</i><par n="लड्__vblex"/></e>
     <e lm="आइलाग्"><i>आइलाग्</i><par n="लड__vblex"/></e>
     <e lm="लाज"><i>लाज</i><par n="लाज__vblex"/></e>
@@ -10735,7 +10693,7 @@
     <e lm="गर्"><i>गर</i><par n="गर/्__opt"/></e>
     <e lm="गर्"><i>गर</i><par n="गर/्__vblex"/></e>
     <e lm="लान"><i>लान</i><par n="लान__vblex"/></e>
-    <e lm="ल्यान"><i>ल्यान</i><par n="मर__vblex"/></e>
+    <e lm="ल्यान"><i>ल्यान</i><par n="आओ__vblex"/></e>
     <e lm="केलाउ"><i>केलाउ</i><par n="लड__vblex"/></e>
     <e lm="भोग"><i>भोग</i><par n="भोग__vblex"/></e>
     <e lm="तम्स"><i>तम्स</i><par n="लड__vblex"/></e>
@@ -10751,7 +10709,7 @@
     <e lm="गुजार्"><i>गुजार्</i><par n="लड__vblex"/></e>
     <e lm="पर्ख"><i>पर्ख</i><par n="पर्ख__vblex"/></e>
     <e lm="सुनाउँ"><i>सुनाउँ</i><par n="सहँ__vblex"/></e>
-    <e lm="लैजा"><i>लैजा</i><par n="लैजा__vblex"/></e>
+    <e lm="लैजा"><i>लैजा</i><par n="काट__vblex"/></e>
     <e lm="छिर्"><i>छिर्</i><par n="लड__vblex"/></e>
     <e lm="लगे"><i>लगे</i><par n="आए__vblex"/></e>
     <e lm="उम्ल"><i>उम्ल</i><par n="बल्__vblex"/></e>
