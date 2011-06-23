@@ -791,11 +791,11 @@
     </pardef>
 
   <!-- यदि; यदि; 1 -->
-    <pardef n="यदि__">
+    <pardef n="यदि__cnjsub">
       <e>
         <p>
           <l></l>
-          <r><s n=""/><s n=""/></r>
+          <r><s n="cnjsub"/><s n=""/></r>
         </p>
       </e>
     </pardef>
@@ -1061,7 +1061,7 @@
     <e lm="तर्"><i>तर्</i><par n="तर्__cnjcoo"/></e>
     <e lm="एवम्"><i>एवम्</i><par n="एवम्__cnjcoo"/></e>
     <e lm="तसर्थ"><i>तसर्थ</i><par n="तसर्थ__cnjsub"/></e>
-    <e lm="यदि"><i>यदि</i><par n="यदि__"/></e>
+    <e lm="यदि"><i>यदि</i><par n="यदि__cnjsub"/></e>
     <e lm="साथसाथै"><i>साथसाथै</i><par n="साथसाथै__cnjcoo"/></e>
     <e lm="यद्वा"><i>यद्वा</i><par n="यद्वा__cnjcoo"/></e>
     <e lm="औ"><i>औ</i><par n="औ__cnjcoo"/></e>
