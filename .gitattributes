@@ -60,8 +60,11 @@ dev/speling-paradigms.py -text
 dev/split-speling.py -text
 dev/tests/a.out -text
 dev/tests/gettext.cpp -text
+dev/tests/hitparade_stripped.txt -text svneol=unset#application/octet-stream
 dev/tests/hp1000.txt -text svneol=unset#application/octet-stream
 dev/tests/results1000.txt -text
+dev/tests/results_random_1000 -text svneol=unset#application/octet-stream
+dev/tests/test_random.cpp -text
 dev/verb/backup_list.tar.gz -text
 dev/verb/newdix -text
 dev/verb/paradigm-chopper.py -text
