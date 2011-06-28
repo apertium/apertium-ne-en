@@ -1,4 +1,5 @@
-﻿<dictionary>
+﻿
+<dictionary>
   <pardefs>
     <pardef n="भोज__np_nt_nn">
       <e>
@@ -16,11 +17,11 @@
         </p>
       </e>
     </pardef>
-    <pardef n="/﻿नेपाल__np_nt_an">
+    <pardef n="श्री__np_f">
       <e>
         <p>
-          <l>नेपाल</l>
-          <r>﻿नेपाल<s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -53,6 +54,14 @@
         <p>
           <l></l>
           <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="नेकपा__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -104,6 +113,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="/﻿नेपाल__np_nt_an">
+      <e>
+        <p>
+          <l>नेपाल</l>
+          <r>﻿नेपाल<s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="राम"><i>राम</i><par n="सम__np_m_aa"/></e>
@@ -131,6 +148,7 @@
     <e lm="सुनकेशरी"><i>सुनकेशरी</i><par n="सती__np_f_aa"/></e>
     <e lm="त्रिभुवन"><i>त्रिभुवन</i><par n="सम__np_m_aa"/></e>
     <e lm="जर्मनी"><i>जर्मनी</i><par n="चीन__np_nt_an"/></e>
+    <e lm="काङ्ग्रेस"><i>काङ्ग्रेस</i><par n="नेकपा__np"/></e>
     <e lm="शाक्य"><i>शाक्य</i><par n="शाह__np_mf_aa"/></e>
     <e lm="धर्म"><i>धर्म</i><par n="सम__np_m_aa"/></e>
     <e lm="धनुषा"><i>धनुषा</i><par n="असन__np_nt_nn"/></e>
@@ -221,6 +239,7 @@
     <e lm="कोईराला"><i>कोईराला</i><par n="शाह__np_mf_aa"/></e>
     <e lm="सगरमाथा"><i>सगरमाथा</i><par n="असन__np_nt_nn"/></e>
     <e lm="सिक्किम"><i>सिक्किम</i><par n="चीन__np_nt_an"/></e>
+    <e lm="श्री"><i>श्री</i><par n="श्री__np_f"/></e>
     <e lm="पाण्डे"><i>पाण्डे</i><par n="शाह__np_mf_aa"/></e>
     <e lm="यादव"><i>यादव</i><par n="शाह__np_mf_aa"/></e>
     <e lm="श्रीकृष्ण"><i>श्रीकृष्ण</i><par n="सम__np_m_aa"/></e>
@@ -274,6 +293,7 @@
     <e lm="भोज"><i>भोज</i><par n="भोज__np_nt_nn"/></e>
     <e lm="विशाल"><i>विशाल</i><par n="सम__np_m_aa"/></e>
     <e lm="स्याङ्जा"><i>स्याङ्जा</i><par n="चीन__np_nt_an"/></e>
+    <e lm="नेकपा"><i>नेकपा</i><par n="नेकपा__np"/></e>
     <e lm="रोहित"><i>रोहित</i><par n="सम__np_m_aa"/></e>
     <e lm="पराजुली"><i>पराजुली</i><par n="शाह__np_mf_aa"/></e>
     <e lm="लामिछाने"><i>लामिछाने</i><par n="शाह__np_mf_aa"/></e>
@@ -355,6 +375,7 @@
     <e lm="सेती"><i>सेती</i><par n="चीन__np_nt_an"/></e>
     <e lm="सार्क"><i>सार्क</i><par n="सार्क__np_nt_aa"/></e>
     <e lm="कैलाश"><i>कैलाश</i><par n="चीन__np_nt_an"/></e>
+    <e lm="देउवा"><i>देउवा</i><par n="नेकपा__np"/></e>
     <e lm="पिताम्बर"><i>पिताम्बर</i><par n="सम__np_m_aa"/></e>
     <e lm="फ्रान्स"><i>फ्रान्स</i><par n="चीन__np_nt_an"/></e>
     <e lm="बनारस"><i>बनारस</i><par n="चीन__np_nt_an"/></e>

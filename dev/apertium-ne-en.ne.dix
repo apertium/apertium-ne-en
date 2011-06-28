@@ -209,7 +209,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <sdef n="ppd"          c="d-participle"/>
     <sdef n="ppe"          c="e-participle"/>
     <sdef n="opt"          c="Optative verb"/>
-    
+    <sdef n="ord"          c="Ordinal"/>
+    <sdef n="ij"          c="Interjection"/>
     <sdef n="sent"         c="End of sentence marker"/>
   </sdefs>
 	<pardefs>
@@ -247,7 +248,6 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
 </pardef>
 
  <!-- Adjectives -->
- 
     <pardef n="थप__adj">
       <e>
         <p>
@@ -312,6 +312,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="एकै__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="mf"/><s n="qnt"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="निम्न__adj">
       <e>
         <p>
@@ -343,6 +351,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ाबाठा</l>
           <r>ोबठो<s n="adj"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ओटा__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="m"/><s n="qnt"/></r>
         </p>
       </e>
     </pardef>
@@ -582,6 +598,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="साहित्य__adj">
+      <e>
+        <p>
+          <l>िक</l>
+          <r><s n="adj"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="मसिन/ो__adj">
       <e>
         <p>
@@ -645,6 +669,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l></l>
           <r><s n="adj"/><s n="m"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="माओवाद__adj">
+      <e>
+        <p>
+          <l>ी</l>
+          <r><s n="adj"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -936,6 +968,42 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="केन्द्र__adj">
+      <e>
+        <p>
+          <l>ीय</l>
+          <r><s n="adj"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="सम्बन्ध__adj">
+      <e>
+        <p>
+          <l>ी</l>
+          <r><s n="adj"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ित</l>
+          <r><s n="adj"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="सय__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="nt"/><s n="qnt"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="उच्च__adj">
       <e>
         <p>
@@ -1051,6 +1119,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ाघाटा</l>
           <r>ोघाटो<s n="adj"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="वटा__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="m"/><s n="ord"/></r>
         </p>
       </e>
     </pardef>
@@ -1180,20 +1256,6 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="सम्बन्ध__adj">
-      <e>
-        <p>
-          <l>ी</l>
-          <r><s n="adj"/><s n="nt"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ित</l>
-          <r><s n="adj"/><s n="mf"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="विचर/ा__adj">
       <e>
         <p>
@@ -1284,6 +1346,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="पहिलो__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="mf"/><s n="ord"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="मह/ँगो__adj">
       <e>
         <p>
@@ -1299,7 +1369,6 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
     </pardef>
     <!--Adverb-->
-    
     <pardef n="वश__adv">
       <e>
         <p>
@@ -1868,7 +1937,24 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <!-- Interjection -->
+    <pardef n="ए__ij">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="ij"/></r>
+        </p>
+      </e>
+    </pardef>
     <!-- Noun-->
+     <pardef n="डा__n_nt_an">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="आवश्यक__n_nt_nn">
       <e>
         <p>
@@ -1885,19 +1971,27 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="नाम__n_nt_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="श्री__np_f">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="नेता__n_m_aa">
       <e>
         <p>
           <l></l>
           <r><s n="n"/><s n="m"/><s n="aa"/><s n="sp"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="बाबु__n_m_aa">
-      <e>
-        <p>
-          <l></l>
-          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -1909,11 +2003,11 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="समाज__n_nt_an">
+    <pardef n="कवि__n_m_aa">
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="nt"/><s n="an"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/><s n="m"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -1922,6 +2016,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l></l>
           <r><s n="n"/><s n="nt"/><s n="nn"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="नेकपा__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -1981,6 +2083,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="म__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="जीव__n_nt_aa">
       <e>
         <p>
@@ -1994,6 +2104,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l></l>
           <r><s n="n"/><s n="nt"/><s n="an"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="लेखक__n_mf">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -2013,11 +2131,11 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="नाम__n_nt_aa">
+    <pardef n="नागरिक__n_mf_an">
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="nt"/><s n="aa"/><s n="sp"/><s n="obj"/></r>
+          <r><s n="n"/><s n="mf"/><s n="an"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -2037,11 +2155,27 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="डाक्टर__n_mf_aa">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="आमा__n_mf_nn">
       <e>
         <p>
           <l></l>
           <r><s n="n"/><s n="mf"/><s n="nn"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="व्यापार__n_mf_aa">
+      <e>
+        <p>
+          <l>ी</l>
+          <r><s n="n"/><s n="mf"/><s n="aa"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -2053,7 +2187,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <!--Postpositions-->
+    <!-- Postpostion-->
     <pardef n="वस__pst">
       <e>
         <p>
@@ -2224,7 +2358,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
     </pardef>
     <!-- Proper Noun-->
-        <pardef n="भोज__np_nt_nn">
+
+    <pardef n="भोज__np_nt_nn">
       <e>
         <p>
           <l></l>
@@ -2240,11 +2375,11 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="/﻿नेपाल__np_nt_an">
+    <pardef n="श्री__np_f">
       <e>
         <p>
-          <l>नेपाल</l>
-          <r>﻿नेपाल<s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+          <l></l>
+          <r><s n="np"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -2277,6 +2412,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l></l>
           <r><s n="np"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="obj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="नेकपा__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
@@ -2328,8 +2471,15 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-        </pardefs>
-        <!--Verbs-->
+    <pardef n="/﻿नेपाल__np_nt_an">
+      <e>
+        <p>
+          <l>नेपाल</l>
+          <r>﻿नेपाल<s n="np"/><s n="nt"/><s n="an"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>      
+              <!--Verbs-->
             <pardef n="आउँ__vblex">
       <e>
         <p>
@@ -2417,6 +2567,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ें</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="भएर__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -2689,6 +2847,18 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>ी</l>
+          <r>्<s n="vblex"/><s n="ppe"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ेर</l>
+          <r>्<s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>्थ्यो</l>
           <r>्<s n="vblex"/><s n="past"/><s n="prft"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
         </p>
@@ -2751,6 +2921,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>्दछौ</l>
           <r>्<s n="vblex"/><s n="pres"/><s n="cnt"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नुपर्ने</l>
+          <r>्<s n="vblex"/><s n="pres"/><s n="impers"/><s n="sg"/><s n="nt"/></r>
         </p>
       </e>
       <e>
@@ -3243,26 +3419,6 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>थें</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="मान/्__opt">
-      <e>
-        <p>
-          <l>ौं</l>
-          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ौ</l>
-          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ूँ</l>
-          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -3933,6 +4089,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>ेर</l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ेँ</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -4384,65 +4546,23 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="हुन/्__vblex">
+    <pardef n="मान/्__opt">
       <e>
         <p>
-          <l>्थें</l>
-          <r>्<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <l>ौं</l>
+          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>्छु</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+          <l>ौ</l>
+          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>्छौ</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ेछौ</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्थ्यौ</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्छ्यौ</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्छ</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्थ्यो</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्न</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्</l>
-          <r>्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+          <l>ूँ</l>
+          <r>्<s n="opt"/><s n="m"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -4589,6 +4709,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ए</l>
           <r><s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>एर</l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -4761,6 +4887,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>हुने</l>
           <r>हु<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>भई</l>
+          <r>हु<s n="vblex"/><s n="ppst"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -4941,6 +5073,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>िए</l>
           <r>्<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ेर</l>
+          <r>्<s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -5369,6 +5507,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>िन्</l>
+          <r>्<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>्थिस्</l>
           <r>्<s n="vblex"/><s n="past"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
         </p>
@@ -5634,6 +5778,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="छौँ__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="रह__opt">
       <e>
         <p>
@@ -5845,6 +5997,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>िसक्ने</l>
           <r><s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>िसके</l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -6907,6 +7065,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>इन्</l>
+          <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/><s n="f"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>इस्</l>
           <r><s n="vblex"/><s n="past"/><s n="prft"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="infml"/></r>
         </p>
@@ -7223,6 +7387,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>ए</l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>एँ</l>
           <r><s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -7249,6 +7419,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>उँछौ</l>
           <r><s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="थिई__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/><s n="f"/></r>
         </p>
       </e>
     </pardef>
@@ -8972,6 +9150,14 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="आएर__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="लगाउ__vblex">
       <e>
         <p>
@@ -9486,56 +9672,6 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
-    <pardef n="हाँस/्__vblex">
-      <e>
-        <p>
-          <l>ौंला</l>
-          <r>्<s n="vblex"/><s n="ft"/><s n="smpl"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्न</l>
-          <r>्<s n="vblex"/><s n="inf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्दै</l>
-          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्तै</l>
-          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्दा</l>
-          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्ता</l>
-          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्ने</l>
-          <r>्<s n="vblex"/><s n="ppe"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>्नु</l>
-          <r>्<s n="vblex"/><s n="ppe"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="छस्__vblex">
       <e>
         <p>
@@ -9649,6 +9785,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ाइए</l>
           <r>्<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ाएर</l>
+          <r>्<s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -9781,6 +9923,74 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ोस्</l>
           <r><s n="opt"/><s n="mf"/><s n="p2"/><s n="sg"/><s n="infml"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ह/ुन्__vblex">
+      <e>
+        <p>
+          <l>ुन्थें</l>
+          <r>ुन्<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>भइरे</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्छु</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्छौ</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुनेछौ</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्थ्यौ</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्छ्यौ</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्छ</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्थ्यो</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्न</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="sg"/><s n="m"/><s n="infml"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ुन्</l>
+          <r>ुन्<s n="vblex"/><s n="pres"/><s n="smpl"/><s n="p3"/><s n="pl"/><s n="mf"/><s n="fam"/></r>
         </p>
       </e>
     </pardef>
@@ -10455,6 +10665,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
       </e>
       <e>
         <p>
+          <l>ेर</l>
+          <r>्<s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>्थें</l>
           <r>्<s n="vblex"/><s n="past"/><s n="smpl"/><s n="p1"/><s n="sg"/><s n="mf"/></r>
         </p>
@@ -10551,6 +10767,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>ने</l>
           <r><s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>नुभयो</l>
+          <r><s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
     </pardef>
@@ -11247,6 +11469,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         <p>
           <l>जाने</l>
           <r>जा<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>गएर</l>
+          <r>जा<s n="vblex"/><s n="past"/><s n="impers"/><s n="sg"/><s n="mf"/></r>
         </p>
       </e>
       <e>
@@ -12014,6 +12242,56 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    <pardef n="हाँस/्__vblex">
+      <e>
+        <p>
+          <l>ौंला</l>
+          <r>्<s n="vblex"/><s n="ft"/><s n="smpl"/><s n="p1"/><s n="pl"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्न</l>
+          <r>्<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्दै</l>
+          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्तै</l>
+          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्दा</l>
+          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्ता</l>
+          <r>्<s n="vblex"/><s n="ppd"/><s n="mf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्ने</l>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>्नु</l>
+          <r>्<s n="vblex"/><s n="ppe"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="लुछ्ल/्__vblex">
       <e>
         <p>
@@ -12022,6 +12300,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
         </p>
       </e>
     </pardef>
+    
+    </pardefs>
 <section id="main" type="standard">
   
    <!-- Numerals -->
@@ -12036,7 +12316,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
 <e lm="नौ"><i>नौ</i><par n="two__num"/></e>
 <e lm="दस"><i>दस</i><par n="two__num"/></e>
   <!--Adjectives-->
-    <e lm="राम्रो"><i>राम्र</i><par n="राम्र/ो__adj"/></e>
+     <e lm="राम्रो"><i>राम्र</i><par n="राम्र/ो__adj"/></e>
     <e lm="प्रशस्त"><i>प्रशस्त</i><par n="थप__adj"/></e>
     <e lm="तेर्सो"><i>तेर्सो</i><par n="दरो__adj"/></e>
     <e lm="संजमो"><i>संजमो</i><par n="दरो__adj"/></e>
@@ -12053,9 +12333,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="वढी"><i>वढी</i><par n="वढि__adj"/></e>
     <e lm="प्रकाशन"><i>प्रकाश</i><par n="प्रचल/न__adj"/></e>
     <e lm="मुख्य"><i>मुख्य</i><par n="थप__adj"/></e>
+    <e lm="एउटै"><i>एउटै</i><par n="एकै__adj"/></e>
     <e lm="संयुक्त"><i>संयुक्त</i><par n="थप__adj"/></e>
     <e lm="तीखो"><i>तीखो</i><par n="दरो__adj"/></e>
     <e lm="अन्तिम"><i>अन्तिम</i><par n="थप__adj"/></e>
+    <e lm="साहित्य"><i>साहित्य</i><par n="साहित्य__adj"/></e>
+    <e lm="फरक"><i>फरक</i><par n="खडा__adj"/></e>
     <e lm="महंगो"><i>महंगो</i><par n="दरो__adj"/></e>
     <e lm="विष"><i>विष</i><par n="विष__adj"/></e>
     <e lm="सच्चा"><i>सच्चा</i><par n="खडा__adj"/></e>
@@ -12067,6 +12350,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="रातो"><i>रात</i><par n="रात/ो__adj"/></e>
     <e lm="निश्चित"><i>निश्चित</i><par n="थप__adj"/></e>
     <e lm="महत्वपूर्ण"><i>महत्वपूर्ण</i><par n="थप__adj"/></e>
+    <e lm="संवैधानिक"><i>संवैधानिक</i><par n="थप__adj"/></e>
     <e lm="जेठो"><i>जेठ</i><par n="बुढ/ो__adj"/></e>
     <e lm="बबुरो"><i>बबुर</i><par n="चोख/ो__adj"/></e>
     <e lm="सीमा"><i>सीम</i><par n="सीम/ा__adj"/></e>
@@ -12085,6 +12369,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सुकिलो"><i>सुकिल</i><par n="लाट/ो__adj"/></e>
     <e lm="झुटो"><i>झुटो</i><par n="दरो__adj"/></e>
     <e lm="विचरो"><i>विचरो</i><par n="दरो__adj"/></e>
+    <e lm="केन्द्र"><i>केन्द्र</i><par n="केन्द्र__adj"/></e>
     <e lm="प्राप्त"><i>प्राप्त</i><par n="खडा__adj"/></e>
     <e lm="चम्किलो"><i>चम्किल</i><par n="चोख/ो__adj"/></e>
     <e lm="भरपर्दो"><i>भरपर्द</i><par n="लाट/ो__adj"/></e>
@@ -12107,9 +12392,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="साहिंलो"><i>साहिंल</i><par n="तरुन/ो__adj"/></e>
     <e lm="मायामयी"><i>मायामयी</i><par n="वढि__adj"/></e>
     <e lm="उकालो"><i>उकालो</i><par n="दरो__adj"/></e>
+    <e lm="पहिलो"><i>पहिलो</i><par n="पहिलो__adj"/></e>
     <e lm="माइलो"><i>माइल</i><par n="लाट/ो__adj"/></e>
+    <e lm="जना"><i>जना</i><par n="एकै__adj"/></e>
     <e lm="चीसो"><i>चीसो</i><par n="दरो__adj"/></e>
     <e lm="तामाङ्"><i>तामाङ्</i><par n="तामाङ्__adj"/></e>
+    <e lm="पश्चिम"><i>पश्चिम</i><par n="थप__adj"/></e>
     <e lm="प्रष्ट"><i>प्रष्ट</i><par n="थप__adj"/></e>
     <e lm="फटाह"><i>फटाह</i><par n="फटाह__adj"/></e>
     <e lm="चौडो"><i>चौड</i><par n="चोख/ो__adj"/></e>
@@ -12125,6 +12413,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="स्थापना"><i>स्थाप</i><par n="स्थाप/ना__adj"/></e>
     <e lm="निर्दो"><i>निर्</i><par n="निर्/दो__adj"/></e>
     <e lm="झुट्टो"><i>झुट्ट</i><par n="चोख/ो__adj"/></e>
+    <e lm="विद्युतीय"><i>विद्युतीय</i><par n="थप__adj"/></e>
     <e lm="सम्बन्ध"><i>सम्बन्ध</i><par n="सम्बन्ध__adj"/></e>
     <e lm="झूठो"><i>झूठो</i><par n="दरो__adj"/></e>
     <e lm="स्थान"><i>स्थान</i><par n="संसद__adj"/></e>
@@ -12133,6 +12422,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="मसीनो"><i>मसीनो</i><par n="दरो__adj"/></e>
     <e lm="सिङ्गो"><i>सिङ्गो</i><par n="दरो__adj"/></e>
     <e lm="सामाजिक"><i>सामाजिक</i><par n="थप__adj"/></e>
+    <e lm="दोस्रो"><i>दोस्रो</i><par n="पहिलो__adj"/></e>
     <e lm="रवाफिलो"><i>रवाफिलो</i><par n="दरो__adj"/></e>
     <e lm="साधारण"><i>साधारण</i><par n="थप__adj"/></e>
     <e lm="हल्लो"><i>हल्लो</i><par n="दरो__adj"/></e>
@@ -12181,6 +12471,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="बुढो"><i>बुढ</i><par n="बुढ/ो__adj"/></e>
     <e lm="कौटिनी"><i>कौटिनी</i><par n="वढि__adj"/></e>
     <e lm="दुहुनो"><i>दुहुन</i><par n="चोख/ो__adj"/></e>
+    <e lm="एकै"><i>एकै</i><par n="एकै__adj"/></e>
     <e lm="मोटोघाटो"><i>मोट</i><par n="मोट/ोघाटो__adj"/></e>
     <e lm="थप"><i>थप</i><par n="थप__adj"/></e>
     <e lm="सहि"><i>सह</i><par n="सह/ि__adj"/></e>
@@ -12189,6 +12480,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="उत्ताउलो"><i>उत्ताउल</i><par n="काल/ो__adj"/></e>
     <e lm="उदाङ्गो"><i>उदाङ्गो</i><par n="दरो__adj"/></e>
     <e lm="मलिलो"><i>मलिलो</i><par n="दरो__adj"/></e>
+    <e lm="तेस्रो"><i>तेस्रो</i><par n="पहिलो__adj"/></e>
     <e lm="विदेशी"><i>विदेशी</i><par n="थप__adj"/></e>
     <e lm="आवश्यक"><i>आवश्यक</i><par n="थप__adj"/></e>
     <e lm="पुरानो"><i>पुरान</i><par n="लाट/ो__adj"/></e>
@@ -12233,6 +12525,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="फितलो"><i>फितलो</i><par n="दरो__adj"/></e>
     <e lm="सारा"><i>सारा</i><par n="सारा__adj"/></e>
     <e lm="तिनो"><i>तिन</i><par n="चोख/ो__adj"/></e>
+    <e lm="सशस्त्र"><i>सशस्त्र</i><par n="खडा__adj"/></e>
+    <e lm="वटा"><i>वटा</i><par n="वटा__adj"/></e>
     <e lm="बूढो"><i>बूढ</i><par n="काल/ो__adj"/></e>
     <e lm="जाखो"><i>जाखो</i><par n="दरो__adj"/></e>
     <e lm="गाग्रो"><i>गाग्रो</i><par n="दरो__adj"/></e>
@@ -12246,6 +12540,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="दुब्लो"><i>दुब्लो</i><par n="दरो__adj"/></e>
     <e lm="सवै"><i>सवै</i><par n="थप__adj"/></e>
     <e lm="स्वादिलो"><i>स्वादिल</i><par n="लाट/ो__adj"/></e>
+    <e lm="विविध"><i>विविध</i><par n="थप__adj"/></e>
     <e lm="दह्रो"><i>दह्रो</i><par n="दरो__adj"/></e>
     <e lm="सम्पन्न"><i>सम्पन्न</i><par n="थप__adj"/></e>
     <e lm="चोखो"><i>चोख</i><par n="चोख/ो__adj"/></e>
@@ -12297,6 +12592,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="समाप्त"><i>समाप्त</i><par n="थप__adj"/></e>
     <e lm="व्यापक"><i>व्यापक</i><par n="थप__adj"/></e>
     <e lm="ग्रामिण"><i>ग्राम</i><par n="ग्राम/िण__adj"/></e>
+    <e lm="दक्षिण"><i>दक्षिण</i><par n="थप__adj"/></e>
     <e lm="निजी"><i>निजी</i><par n="थप__adj"/></e>
     <e lm="चिप्लो"><i>चिप्लो</i><par n="दरो__adj"/></e>
     <e lm="रसीलो"><i>रसील</i><par n="चोख/ो__adj"/></e>
@@ -12304,6 +12600,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="उल्टो"><i>उल्ट</i><par n="लाट/ो__adj"/></e>
     <e lm="मेसो"><i>मेसो</i><par n="दरो__adj"/></e>
     <e lm="अब्धो"><i>अ</i><par n="अ/ब्धो__adj"/></e>
+    <e lm="गम्भीर"><i>गम्भीर</i><par n="थप__adj"/></e>
     <e lm="प्राचिन"><i>प्राच</i><par n="प्राच/िन__adj"/></e>
     <e lm="घुमाउरो"><i>घुमाउरो</i><par n="दरो__adj"/></e>
     <e lm="टाठो"><i>टाठ</i><par n="चोख/ो__adj"/></e>
@@ -12316,6 +12613,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="ठिटो"><i>ठिटो</i><par n="दरो__adj"/></e>
     <e lm="छुच्चो"><i>छुच्च</i><par n="तरुन/ो__adj"/></e>
     <e lm="उस्तो"><i>उस्तो</i><par n="दरो__adj"/></e>
+    <e lm="कमजोर"><i>कमजोर</i><par n="खडा__adj"/></e>
     <e lm="प्रमुख"><i>प्रमुख</i><par n="खडा__adj"/></e>
     <e lm="अमेरिका"><i>अमेरिक</i><par n="अमेरिक/ा__adj"/></e>
     <e lm="लाटो"><i>लाट</i><par n="लाट/ो__adj"/></e>
@@ -12350,9 +12648,11 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="गार्हो"><i>गार्हो</i><par n="दरो__adj"/></e>
     <e lm="डर"><i>डर</i><par n="डर__adj"/></e>
     <e lm="निर्धो"><i>निर्धो</i><par n="दरो__adj"/></e>
+    <e lm="सय"><i>सय</i><par n="सय__adj"/></e>
     <e lm="कैलो"><i>कैलो</i><par n="दरो__adj"/></e>
     <e lm="घोप्टो"><i>घोप्टो</i><par n="दरो__adj"/></e>
     <e lm="उज्यालो"><i>उज्याल</i><par n="काल/ो__adj"/></e>
+    <e lm="दुवै"><i>दुवै</i><par n="एकै__adj"/></e>
     <e lm="नकच्चीरी"><i>नकच्चीरी</i><par n="वढि__adj"/></e>
     <e lm="नरमाइलो"><i>नरमाइलो</i><par n="दरो__adj"/></e>
     <e lm="हँसिलो"><i>हँसिलो</i><par n="दरो__adj"/></e>
@@ -12378,8 +12678,11 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="असिजिलो"><i>अस</i><par n="अस/िजिलो__adj"/></e>
     <e lm="आधुनिक"><i>आधुनिक</i><par n="थप__adj"/></e>
     <e lm="बिज्ञान"><i></i><par n="/बिज्ञान__adj"/></e>
+    <e lm="खुसी"><i>खुसी</i><par n="खडा__adj"/></e>
     <e lm="विचरा"><i>विचर</i><par n="विचर/ा__adj"/></e>
+    <e lm="हजार"><i>हजार</i><par n="सय__adj"/></e>
     <e lm="राजनीतिक"><i>राजनीतिक</i><par n="थप__adj"/></e>
+    <e lm="अन्य"><i>अन्य</i><par n="एकै__adj"/></e>
     <e lm="प्रकृति"><i>प्र</i><par n="प्र/कृति__adj"/></e>
     <e lm="सूझो"><i>स</i><par n="स/ूझो__adj"/></e>
     <e lm="सिधा"><i>स</i><par n="स/िधा__adj"/></e>
@@ -12389,10 +12692,12 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="नेपाली"><i>नेपाली</i><par n="खडा__adj"/></e>
     <e lm="पुतबारो"><i>पुतबारो</i><par n="दरो__adj"/></e>
     <e lm="नेग्रिटो"><i>नेग्रिटो</i><par n="दरो__adj"/></e>
+    <e lm="लाख"><i>लाख</i><par n="सय__adj"/></e>
     <e lm="निलो"><i>निलो</i><par n="दरो__adj"/></e>
     <e lm="कान्छो"><i>कान्छ</i><par n="बुढ/ो__adj"/></e>
     <e lm="कल्चुडो"><i>कल्चुड</i><par n="तरुन/ो__adj"/></e>
     <e lm="सरकारी"><i>सरकारी</i><par n="थप__adj"/></e>
+    <e lm="खुला"><i>खुला</i><par n="थप__adj"/></e>
     <e lm="उच्च"><i>उच्च</i><par n="उच्च__adj"/></e>
     <e lm="पाल्नुभो"><i>पाल्नुभो</i><par n="दरो__adj"/></e>
     <e lm="विदुषी"><i>विदुषी</i><par n="वढि__adj"/></e>
@@ -12414,13 +12719,19 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="मूलढो"><i>मूलढो</i><par n="दरो__adj"/></e>
     <e lm="नाम्लो"><i>नाम्लो</i><par n="दरो__adj"/></e>
     <e lm="लाम्चो"><i>लाम्चो</i><par n="दरो__adj"/></e>
+    <e lm="शुरु"><i>शुरु</i><par n="थप__adj"/></e>
+    <e lm="प्रथम"><i>प्रथम</i><par n="एकै__adj"/></e>
+    <e lm="ओटा"><i>ओटा</i><par n="ओटा__adj"/></e>
     <e lm="सानो-ठूलो"><i>सान</i><par n="सान/ो-ठूलो__adj"/></e>
     <e lm="खस्रो"><i>खस्र</i><par n="चोख/ो__adj"/></e>
     <e lm="बिरानो"><i>बिरानो</i><par n="दरो__adj"/></e>
     <e lm="पीरो"><i>पीरो</i><par n="दरो__adj"/></e>
+    <e lm="तयारी"><i>तयारी</i><par n="थप__adj"/></e>
+    <e lm="दैनिक"><i>दैनिक</i><par n="थप__adj"/></e>
     <e lm="फूर्तिलो"><i>फूर्तिलो</i><par n="दरो__adj"/></e>
     <e lm="जूठो"><i>जूठो</i><par n="दरो__adj"/></e>
     <e lm="नीलो"><i>नीलो</i><par n="दरो__adj"/></e>
+    <e lm="धेरै"><i>धेरै</i><par n="थप__adj"/></e>
     <e lm="नेप्टी"><i>नेप्टी</i><par n="वढि__adj"/></e>
     <e lm="उपयुक्त"><i>उपयुक्त</i><par n="थप__adj"/></e>
     <e lm="जिउँदो"><i>जिउँदो</i><par n="दरो__adj"/></e>
@@ -12430,6 +12741,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="वास्तविक"><i>वास्तविक</i><par n="थप__adj"/></e>
     <e lm="मुकुण्डो"><i>मुकुण्डो</i><par n="दरो__adj"/></e>
     <e lm="एकसरो"><i>एकसरो</i><par n="दरो__adj"/></e>
+    <e lm="माओवाद"><i>माओवाद</i><par n="माओवाद__adj"/></e>
     <e lm="चनाखो"><i>चनाख</i><par n="बुढ/ो__adj"/></e>
     <e lm="अलि"><i>अलि</i><par n="थप__adj"/></e>
     <e lm="तरुनो"><i>तरुन</i><par n="तरुन/ो__adj"/></e>
@@ -12547,6 +12859,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सन्तुष्टिभन्दा"><i>सन्तुष्टिभन्दा</i><par n="वश__adv"/></e>
     <e lm="एकक्षेण"><i>एकक्षेण</i><par n="वश__adv"/></e>
     <e lm="धन्न"><i>धन्न</i><par n="वश__adv"/></e>
+    <e lm="त्यस्ता"><i>त्यस्ता</i><par n="वश__adv"/></e>
     <e lm="कनिकुथी"><i>कनिकुथी</i><par n="वश__adv"/></e>
     <e lm="मटेस"><i>मटेस</i><par n="वश__adv"/></e>
     <e lm="अन्धाधुन्ध"><i>अन्धाधुन्ध</i><par n="वश__adv"/></e>
@@ -12674,6 +12987,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="भारतभन्दा"><i>भारतभन्दा</i><par n="वश__adv"/></e>
     <e lm="आधिभन्दा"><i>आधिभन्दा</i><par n="वश__adv"/></e>
     <e lm="हिस्स"><i>हिस्स</i><par n="वश__adv"/></e>
+    <e lm="अरु"><i>अरु</i><par n="वश__adv"/></e>
     <e lm="अनिवार्यरुपेण"><i>अनिवार्यरुपेण</i><par n="वश__adv"/></e>
     <e lm="केटोभन्दा"><i>केटोभन्दा</i><par n="वश__adv"/></e>
     <e lm="वर्षभन्दा"><i>वर्षभन्दा</i><par n="वश__adv"/></e>
@@ -12816,6 +13130,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सायद"><i>सायद</i><par n="वश__adv"/></e>
     <e lm="सयभन्दा"><i>सयभन्दा</i><par n="वश__adv"/></e>
     <e lm="पट्टि"><i>पट्टि</i><par n="वश__adv"/></e>
+    <e lm="हिजो"><i>हिजो</i><par n="वश__adv"/></e>
     <e lm="मान्छेभन्दा"><i>मान्छेभन्दा</i><par n="वश__adv"/></e>
     <e lm="अन्ततोगत्वा"><i>अन्ततोगत्वा</i><par n="वश__adv"/></e>
     <e lm="इच्छानुकूल"><i>इच्छानुकूल</i><par n="वश__adv"/></e>
@@ -12890,6 +13205,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="दिक्क"><i>दिक्क</i><par n="वश__adv"/></e>
     <e lm="अचानक"><i>अचानक</i><par n="वश__adv"/></e>
     <e lm="सिद्धान्ततः"><i>सिद्धान्ततः</i><par n="वश__adv"/></e>
+    <e lm="आफैँ"><i>आफैँ</i><par n="वश__adv"/></e>
     <e lm="आफैं"><i>आफैं</i><par n="वश__adv"/></e>
     <e lm="विशेषतः"><i>विशेषतः</i><par n="वश__adv"/></e>
     <e lm="त्यतिनै"><i>त्यतिनै</i><par n="तव__"/></e>
@@ -12981,6 +13297,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="पछाडि"><i>पछाडि</i><par n="वश__adv"/></e>
     <e lm="वासिन्दाभन्दा"><i>वासिन्दाभन्दा</i><par n="वश__adv"/></e>
     <e lm="सम्भबतया"><i>सम्भबतया</i><par n="वश__adv"/></e>
+    <e lm="सुरु"><i>सुरु</i><par n="वश__adv"/></e>
     <e lm="जथाभावि"><i>जथाभावि</i><par n="वश__adv"/></e>
     <e lm="केन"><i>केन</i><par n="वश__adv"/></e>
     <e lm="कारणवश"><i>कारणवश</i><par n="वश__adv"/></e>
@@ -13234,6 +13551,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="विस्तारै"><i>विस्तारै</i><par n="वश__adv"/></e>
     <e lm="छ्यान्नब्यान्न"><i>छ्यान्नब्यान्न</i><par n="वश__adv"/></e>
     <e lm="शुरुशुरु"><i>शुरुशुरु</i><par n="वश__adv"/></e>
+    <e lm="मात्र"><i>मात्र</i><par n="वश__adv"/></e>
     <e lm="सिनित"><i>सिनित</i><par n="वश__adv"/></e>
     <e lm="मख्ख"><i>मख्ख</i><par n="वश__adv"/></e>
     <e lm="बाहिरै"><i>बाहिरै</i><par n="वश__adv"/></e>
@@ -13250,6 +13568,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="मुलतः"><i>मुलतः</i><par n="वश__adv"/></e>
     <e lm="हाल"><i>हाल</i><par n="वश__adv"/></e>
     <e lm="हाल"><i>हाल</i><par n="तव__"/></e>
+    <e lm="कतै"><i>कतै</i><par n="वश__adv"/></e>
     <e lm="बसुन्जेल"><i>बसुन्जेल</i><par n="वश__adv"/></e>
     <e lm="आएपछि"><i>आएपछि</i><par n="वश__adv"/></e>
     <e lm="उपचारार्थ"><i>उपचारार्थ</i><par n="वश__adv"/></e>
@@ -13398,6 +13717,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="अकस्मात"><i>अकस्मात</i><par n="वश__adv"/></e>
     <e lm="तिनताका"><i>तिनताका</i><par n="वश__adv"/></e>
     <e lm="तिनताका"><i>तिनताका</i><par n="तव__"/></e>
+    <e lm="कहिल्यै"><i>कहिल्यै</i><par n="वश__adv"/></e>
     <e lm="भर्खर"><i>भर्खर</i><par n="वश__adv"/></e>
     <e lm="ध्यारधुर"><i>ध्यारधुर</i><par n="वश__adv"/></e>
     <e lm="नर्कभन्दा"><i>नर्कभन्दा</i><par n="वश__adv"/></e>
@@ -13461,6 +13781,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="ट्याम्मै"><i>ट्याम्मै</i><par n="वश__adv"/></e>
     <e lm="तुरून्त"><i>तुरून्त</i><par n="वश__adv"/></e>
     <e lm="निम्नअनुसार"><i>निम्नअनुसार</i><par n="वश__adv"/></e>
+    <e lm="यस्ता"><i>यस्ता</i><par n="वश__adv"/></e>
     <e lm="यीः"><i>यीः</i><par n="वश__adv"/></e>
     <e lm="अकश्मात"><i>अकश्मात</i><par n="वश__adv"/></e>
     <e lm="प्रस्टतः"><i>प्रस्टतः</i><par n="वश__adv"/></e>
@@ -14113,6 +14434,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="साथसाथै"><i>साथसाथै</i><par n="वश__adv"/></e>
     <e lm="हठात"><i>हठात</i><par n="वश__adv"/></e>
     <e lm="थपक्क"><i>थपक्क</i><par n="वश__adv"/></e>
+    <e lm="आफ्नै"><i>आफ्नै</i><par n="वश__adv"/></e>
     <e lm="फस्लाङ"><i>फस्लाङ</i><par n="वश__adv"/></e>
     <e lm="तल्लो"><i>तल्लो</i><par n="तव__"/></e>
     <e lm="शायद्"><i>शायद्</i><par n="वश__adv"/></e>
@@ -14501,8 +14823,15 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="यस्"><i>यस्</i><par n="यस्__det"/></e>
     <e lm="जत्ति"><i>जत्ति</i><par n="जब__det"/></e>
     <e lm="त्यस"><i>त्यस</i><par n="यस__det"/></e>
+    <!-- Interjection-->
+    <e lm="ए"><i>ए</i><par n="ए__ij"/></e>
+    <e lm="रे"><i>रे</i><par n="ए__ij"/></e>
+    <e lm="नै"><i>नै</i><par n="ए__ij"/></e>
+    <e lm="पो"><i>पो</i><par n="ए__ij"/></e>
+    <e lm="चाहिँ"><i>चाहिँ</i><par n="ए__ij"/></e>
+    <e lm="नि"><i>नि</i><par n="ए__ij"/></e>
     <!-- Noun-->
-    <e lm="माया"><i>माया</i><par n="आज__n_nt_nn"/></e>
+      <e lm="माया"><i>माया</i><par n="आज__n_nt_nn"/></e>
     <e lm="महिला"><i>महिला</i><par n="छोरी__n_f_aa"/></e>
     <e lm="भाषा"><i>भाषा</i><par n="आज__n_nt_nn"/></e>
     <e lm="सेवा"><i>सेवा</i><par n="आज__n_nt_nn"/></e>
@@ -14511,7 +14840,10 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="गीत"><i>गीत</i><par n="आज__n_nt_nn"/></e>
     <e lm="पुस्तक"><i>पुस्तक</i><par n="वन__n_nt_aa"/></e>
     <e lm="वन"><i>वन</i><par n="वन__n_nt_aa"/></e>
+    <e lm="सैनिक"><i>सैनिक</i><par n="साथी__n_mf_aa"/></e>
     <e lm="हात"><i>हात</i><par n="आज__n_nt_nn"/></e>
+    <e lm="श्री"><i>श्री</i><par n="श्री__np_f"/></e>
+    <e lm="अध्यक्ष"><i>अध्यक्ष</i><par n="डा__n_nt_an"/></e>
     <e lm="शरीर"><i>शरीर</i><par n="नाम__n_nt_aa"/></e>
     <e lm="अधिकार"><i>अधिकार</i><par n="नाम__n_nt_aa"/></e>
     <e lm="शहर"><i>शहर</i><par n="शहर__n_nt_aa"/></e>
@@ -14519,6 +14851,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="पानी"><i>पानी</i><par n="आज__n_nt_nn"/></e>
     <e lm="व्यवहार"><i>व्यवहार</i><par n="आज__n_nt_nn"/></e>
     <e lm="आँखा"><i>आँखा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कवि"><i>कवि</i><par n="कवि__n_m_aa"/></e>
+    <e lm="नागरिक"><i>नागरिक</i><par n="नागरिक__n_mf_an"/></e>
     <e lm="रात"><i>रात</i><par n="आज__n_nt_nn"/></e>
     <e lm="ढोका"><i>ढोका</i><par n="आज__n_nt_nn"/></e>
     <e lm="प्रहरी"><i>प्रहरी</i><par n="मानव__n_mf_aa"/></e>
@@ -14528,24 +14862,30 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सदस्य"><i>सदस्य</i><par n="आज__n_nt_nn"/></e>
     <e lm="कुरो"><i>कुरो</i><par n="आज__n_nt_nn"/></e>
     <e lm="वर्ष"><i>वर्ष</i><par n="आज__n_nt_nn"/></e>
+    <e lm="काङ्ग्रेस"><i>काङ्ग्रेस</i><par n="नेकपा__np"/></e>
     <e lm="शिक्षा"><i>शिक्षा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कम्पनी"><i>कम्पनी</i><par n="डा__n_nt_an"/></e>
     <e lm="दृष्टि"><i>दृष्टि</i><par n="आज__n_nt_nn"/></e>
+    <e lm="डाक्टर"><i>डाक्टर</i><par n="डाक्टर__n_mf_aa"/></e>
     <e lm="दुःख"><i>दुःख</i><par n="आज__n_nt_nn"/></e>
     <e lm="काम"><i>काम</i><par n="काम__n_nt_nn"/></e>
+    <e lm="निर्देशक"><i>निर्देशक</i><par n="साथी__n_mf_aa"/></e>
     <e lm="कान"><i>कान</i><par n="आज__n_nt_nn"/></e>
     <e lm="प्रयास"><i>प्रयास</i><par n="आज__n_nt_nn"/></e>
+    <e lm="लेखक"><i>लेखक</i><par n="लेखक__n_mf"/></e>
     <e lm="रुप"><i>रुप</i><par n="आज__n_nt_nn"/></e>
     <e lm="बीच"><i>बीच</i><par n="आज__n_nt_nn"/></e>
     <e lm="आवश्यक"><i>आवश्यक</i><par n="आवश्यक__n_nt_nn"/></e>
     <e lm="वर्ग"><i>वर्ग</i><par n="आज__n_nt_nn"/></e>
     <e lm="आधार"><i>आधार</i><par n="आज__n_nt_nn"/></e>
-    <e lm="परिवार"><i>परिवार</i><par n="समाज__n_nt_an"/></e>
+    <e lm="परिवार"><i>परिवार</i><par n="डा__n_nt_an"/></e>
     <e lm="जाति"><i>जाति</i><par n="वन__n_nt_aa"/></e>
     <e lm="शुरू"><i>शुरू</i><par n="आज__n_nt_nn"/></e>
     <e lm="सडक"><i>सडक</i><par n="आज__n_nt_nn"/></e>
     <e lm="विकास"><i>विकास</i><par n="आज__n_nt_nn"/></e>
     <e lm="उद्देश्य"><i>उद्देश्य</i><par n="आज__n_nt_nn"/></e>
     <e lm="दिन"><i>दिन</i><par n="काम__n_nt_nn"/></e>
+    <e lm="ब्याङ्क"><i>ब्याङ्क</i><par n="मुख__n_nt_aa"/></e>
     <e lm="अनुहार"><i>अनुहार</i><par n="आज__n_nt_nn"/></e>
     <e lm="साल"><i>साल</i><par n="आज__n_nt_nn"/></e>
     <e lm="आन्दोलन"><i>आन्दोलन</i><par n="वन__n_nt_aa"/></e>
@@ -14558,6 +14898,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="कोठा"><i>कोठा</i><par n="आज__n_nt_nn"/></e>
     <e lm="प्रजातन्त्र"><i>प्रजातन्त्र</i><par n="वन__n_nt_aa"/></e>
     <e lm="राज्य"><i>राज्य</i><par n="आज__n_nt_nn"/></e>
+    <e lm="बालबालिका"><i>बालबालिका</i><par n="डा__n_nt_an"/></e>
     <e lm="रोग"><i>रोग</i><par n="आज__n_nt_nn"/></e>
     <e lm="महिना"><i>महिना</i><par n="महिना__n_nt_nn"/></e>
     <e lm="देश"><i>देश</i><par n="वन__n_nt_aa"/></e>
@@ -14565,6 +14906,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="क्षेत्र"><i>क्षेत्र</i><par n="क्षेत्र__n_nt_nn"/></e>
     <e lm="राजा"><i>राजा</i><par n="नेता__n_m_aa"/></e>
     <e lm="नाम"><i>नाम</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="पुरुष"><i>पुरुष</i><par n="कवि__n_m_aa"/></e>
     <e lm="रूप"><i>रूप</i><par n="आज__n_nt_nn"/></e>
     <e lm="उल्लेख"><i>उल्लेख</i><par n="आज__n_nt_nn"/></e>
     <e lm="मुख"><i>मुख</i><par n="मुख__n_nt_aa"/></e>
@@ -14572,20 +14914,26 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="कार्यक्रम"><i>कार्यक्रम</i><par n="आज__n_nt_nn"/></e>
     <e lm="देवी"><i>देवी</i><par n="आज__n_nt_nn"/></e>
     <e lm="योजना"><i>योजना</i><par n="नाम__n_nt_aa"/></e>
+    <e lm="पत्रकार"><i>पत्रकार</i><par n="कवि__n_m_aa"/></e>
     <e lm="प्रकार"><i>प्रकार</i><par n="आज__n_nt_nn"/></e>
     <e lm="वातावरण"><i>वातावरण</i><par n="आज__n_nt_nn"/></e>
+    <e lm="मन्त्री"><i>मन्त्री</i><par n="कवि__n_m_aa"/></e>
     <e lm="व्यक्ति"><i>व्यक्ति</i><par n="वन__n_nt_aa"/></e>
     <e lm="नारी"><i>नारी</i><par n="आज__n_nt_nn"/></e>
     <e lm="कारण"><i>कारण</i><par n="आज__n_nt_nn"/></e>
+    <e lm="देउवा"><i>देउवा</i><par n="नेकपा__np"/></e>
     <e lm="साथ"><i>साथ</i><par n="आज__n_nt_nn"/></e>
     <e lm="धर्म"><i>धर्म</i><par n="आज__n_nt_nn"/></e>
-    <e lm="छोरा"><i>छोरा</i><par n="बाबु__n_m_aa"/></e>
+    <e lm="छोरा"><i>छोरा</i><par n="कवि__n_m_aa"/></e>
     <e lm="मन"><i>मन</i><par n="मन__n_nt_an"/></e>
     <e lm="निर्णय"><i>निर्णय</i><par n="वन__n_nt_aa"/></e>
+    <e lm="प्रधानमन्त्री"><i>प्रधानमन्त्री</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="श्रीमती"><i>श्रीमती</i><par n="छोरी__n_f_aa"/></e>
     <e lm="मुलुक"><i>मुलुक</i><par n="वन__n_nt_aa"/></e>
     <e lm="गाउँ"><i>गाउँ</i><par n="गाउँ__n_nt_an"/></e>
     <e lm="किसिम"><i>किसिम</i><par n="आज__n_nt_nn"/></e>
     <e lm="अर्थ"><i>अर्थ</i><par n="आज__n_nt_nn"/></e>
+    <e lm="प्रतिनिधि"><i>प्रतिनिधि</i><par n="मुख__n_nt_aa"/></e>
     <e lm="धारणा"><i>धारणा</i><par n="वन__n_nt_aa"/></e>
     <e lm="इतिहास"><i>इतिहास</i><par n="आज__n_nt_nn"/></e>
     <e lm="कथा"><i>कथा</i><par n="आज__n_nt_nn"/></e>
@@ -14605,42 +14953,54 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="शक्ति"><i>शक्ति</i><par n="आज__n_nt_nn"/></e>
     <e lm="संसार"><i>संसार</i><par n="वन__n_nt_aa"/></e>
     <e lm="स्थिति"><i>स्थिति</i><par n="आज__n_nt_nn"/></e>
+    <e lm="सेना"><i>सेना</i><par n="मुख__n_nt_aa"/></e>
     <e lm="मन्दिर"><i>मन्दिर</i><par n="मन्दिर__n_nt_nn"/></e>
     <e lm="विश्वास"><i>विश्वास</i><par n="आज__n_nt_nn"/></e>
-    <e lm="बाबु"><i>बाबु</i><par n="बाबु__n_m_aa"/></e>
+    <e lm="बाबु"><i>बाबु</i><par n="कवि__n_m_aa"/></e>
+    <e lm="कलाकार"><i>कलाकार</i><par n="साथी__n_mf_aa"/></e>
     <e lm="आवाज"><i>आवाज</i><par n="आज__n_nt_nn"/></e>
     <e lm="भावना"><i>भावना</i><par n="आज__n_nt_nn"/></e>
     <e lm="घटना"><i>घटना</i><par n="आज__n_nt_nn"/></e>
+    <e lm="नेकपा"><i>नेकपा</i><par n="नेकपा__np"/></e>
     <e lm="खर्च"><i>खर्च</i><par n="आज__n_nt_nn"/></e>
     <e lm="विचार"><i>विचार</i><par n="आज__n_nt_nn"/></e>
     <e lm="नीति"><i>नीति</i><par n="आज__n_nt_nn"/></e>
+    <e lm="उपभोक्ता"><i>उपभोक्ता</i><par n="मुख__n_nt_aa"/></e>
     <e lm="जग्गा"><i>जग्गा</i><par n="आज__n_nt_nn"/></e>
     <e lm="आज"><i>आज</i><par n="आज__n_nt_nn"/></e>
     <e lm="पटक"><i>पटक</i><par n="आज__n_nt_nn"/></e>
     <e lm="प्रेम"><i>प्रेम</i><par n="आज__n_nt_nn"/></e>
+    <e lm="भाइ"><i>भाइ</i><par n="कवि__n_m_aa"/></e>
     <e lm="थाहा"><i>थाहा</i><par n="आज__n_nt_nn"/></e>
+    <e lm="पर्यटक"><i>पर्यटक</i><par n="साथी__n_mf_aa"/></e>
     <e lm="समस्या"><i>समस्या</i><par n="आज__n_nt_nn"/></e>
     <e lm="प्रतिशत"><i>प्रतिशत</i><par n="आज__n_nt_nn"/></e>
     <e lm="मानिस"><i>मानिस</i><par n="साथी__n_mf_aa"/></e>
+    <e lm="व्यापार"><i>व्यापार</i><par n="व्यापार__n_mf_aa"/></e>
+    <e lm="म"><i>म</i><par n="म__prn"/></e>
     <e lm="क्रम"><i>क्रम</i><par n="आज__n_nt_nn"/></e>
     <e lm="घर"><i>घर</i><par n="घर__n_nt_nn"/></e>
     <e lm="सरकार"><i>सरकार</i><par n="वन__n_nt_aa"/></e>
     <e lm="स्थापना"><i>स्थापना</i><par n="आज__n_nt_nn"/></e>
+    <e lm="युवा"><i>युवा</i><par n="मुख__n_nt_aa"/></e>
     <e lm="कुरा"><i>कुरा</i><par n="काम__n_nt_nn"/></e>
     <e lm="विवाह"><i>विवाह</i><par n="आज__n_nt_nn"/></e>
     <e lm="सम्बन्ध"><i>सम्बन्ध</i><par n="आज__n_nt_nn"/></e>
     <e lm="व्यवस्था"><i>व्यवस्था</i><par n="आज__n_nt_nn"/></e>
-    <e lm="समाज"><i>समाज</i><par n="समाज__n_nt_an"/></e>
+    <e lm="समाज"><i>समाज</i><par n="डा__n_nt_an"/></e>
     <e lm="जिल्ला"><i>जिल्ला</i><par n="मन्दिर__n_nt_nn"/></e>
     <e lm="साथी"><i>साथी</i><par n="साथी__n_mf_aa"/></e>
     <e lm="सामान"><i>सामान</i><par n="आज__n_nt_nn"/></e>
     <e lm="स्थान"><i>स्थान</i><par n="आज__n_nt_nn"/></e>
     <e lm="पत्र"><i>पत्र</i><par n="आज__n_nt_nn"/></e>
+    <e lm="डा"><i>डा</i><par n="डा__n_nt_an"/></e>
     <e lm="केटी"><i>केटी</i><par n="आज__n_nt_nn"/></e>
     <e lm="ठाउँ"><i>ठाउँ</i><par n="नाम__n_nt_aa"/></e>
     <e lm="किसान"><i>किसान</i><par n="वन__n_nt_aa"/></e>
     <e lm="परिवर्तन"><i>परिवर्तन</i><par n="आज__n_nt_nn"/></e>
+    <e lm="कार्यकर्ता"><i>कार्यकर्ता</i><par n="साथी__n_mf_aa"/></e>
     <e lm="संस्था"><i>संस्था</i><par n="वन__n_nt_aa"/></e>
+    <e lm="टोली"><i>टोली</i><par n="डा__n_nt_an"/></e>
     <e lm="जीव"><i>जीव</i><par n="जीव__n_nt_aa"/></e>
     <e lm="प्रभाव"><i>प्रभाव</i><par n="आज__n_nt_nn"/></e>
     <e lm="अवस्था"><i>अवस्था</i><par n="आज__n_nt_nn"/></e>
@@ -14953,7 +15313,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="हाम्रो"><i>हाम्रो</i><par n="मेरो__prn"/></e>
     <e lm="आफू"><i>आफू</i><par n="आफू__prn"/></e>
     <!-- Proper Nouns-->
-    <e lm="राम"><i>राम</i><par n="सम__np_m_aa"/></e>
+     <e lm="राम"><i>राम</i><par n="सम__np_m_aa"/></e>
     <e lm="माया"><i>माया</i><par n="सती__np_f_aa"/></e>
     <e lm="मिश्र"><i>मिश्र</i><par n="शाह__np_mf_aa"/></e>
     <e lm="काठमाडौ"><i>काठमाडौ</i><par n="चीन__np_nt_an"/></e>
@@ -14978,6 +15338,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सुनकेशरी"><i>सुनकेशरी</i><par n="सती__np_f_aa"/></e>
     <e lm="त्रिभुवन"><i>त्रिभुवन</i><par n="सम__np_m_aa"/></e>
     <e lm="जर्मनी"><i>जर्मनी</i><par n="चीन__np_nt_an"/></e>
+    <e lm="काङ्ग्रेस"><i>काङ्ग्रेस</i><par n="नेकपा__np"/></e>
     <e lm="शाक्य"><i>शाक्य</i><par n="शाह__np_mf_aa"/></e>
     <e lm="धर्म"><i>धर्म</i><par n="सम__np_m_aa"/></e>
     <e lm="धनुषा"><i>धनुषा</i><par n="असन__np_nt_nn"/></e>
@@ -15068,6 +15429,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="कोईराला"><i>कोईराला</i><par n="शाह__np_mf_aa"/></e>
     <e lm="सगरमाथा"><i>सगरमाथा</i><par n="असन__np_nt_nn"/></e>
     <e lm="सिक्किम"><i>सिक्किम</i><par n="चीन__np_nt_an"/></e>
+    <e lm="श्री"><i>श्री</i><par n="श्री__np_f"/></e>
     <e lm="पाण्डे"><i>पाण्डे</i><par n="शाह__np_mf_aa"/></e>
     <e lm="यादव"><i>यादव</i><par n="शाह__np_mf_aa"/></e>
     <e lm="श्रीकृष्ण"><i>श्रीकृष्ण</i><par n="सम__np_m_aa"/></e>
@@ -15121,6 +15483,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="भोज"><i>भोज</i><par n="भोज__np_nt_nn"/></e>
     <e lm="विशाल"><i>विशाल</i><par n="सम__np_m_aa"/></e>
     <e lm="स्याङ्जा"><i>स्याङ्जा</i><par n="चीन__np_nt_an"/></e>
+    <e lm="नेकपा"><i>नेकपा</i><par n="नेकपा__np"/></e>
     <e lm="रोहित"><i>रोहित</i><par n="सम__np_m_aa"/></e>
     <e lm="पराजुली"><i>पराजुली</i><par n="शाह__np_mf_aa"/></e>
     <e lm="लामिछाने"><i>लामिछाने</i><par n="शाह__np_mf_aa"/></e>
@@ -15202,6 +15565,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सेती"><i>सेती</i><par n="चीन__np_nt_an"/></e>
     <e lm="सार्क"><i>सार्क</i><par n="सार्क__np_nt_aa"/></e>
     <e lm="कैलाश"><i>कैलाश</i><par n="चीन__np_nt_an"/></e>
+    <e lm="देउवा"><i>देउवा</i><par n="नेकपा__np"/></e>
     <e lm="पिताम्बर"><i>पिताम्बर</i><par n="सम__np_m_aa"/></e>
     <e lm="फ्रान्स"><i>फ्रान्स</i><par n="चीन__np_nt_an"/></e>
     <e lm="बनारस"><i>बनारस</i><par n="चीन__np_nt_an"/></e>
@@ -15263,7 +15627,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="काभ्रे"><i>काभ्रे</i><par n="चीन__np_nt_an"/></e>
     <e lm="बाग्लुङ"><i>बाग्लुङ</i><par n="असन__np_nt_nn"/></e>
     <!--Verbs-->
-        <e lm="जीउँ"><i>जीउँ</i><par n="बल्__vblex"/></e>
+     <e lm="जीउँ"><i>जीउँ</i><par n="बल्__vblex"/></e>
     <e lm="उम्क"><i>उम्क</i><par n="लड__vblex"/></e>
     <e lm="बजा"><i>बजा</i><par n="आओ__vblex"/></e>
     <e lm="लिन"><i>लिन</i><par n="लिन__vblex"/></e>
@@ -15787,14 +16151,16 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="पछ्याउ"><i>पछ्याउ</i><par n="लड__vblex"/></e>
     <e lm="दिनुप"><i>दिनुप</i><par n="दिनुप__vblex"/></e>
     <e lm="वीउ"><i>वीउ</i><par n="आओ__vblex"/></e>
+    <e lm="आएर"><i>आएर</i><par n="आएर__vblex"/></e>
     <e lm="हुनु"><i>हुनु</i><par n="हुनु__vblex"/></e>
     <e lm="लेखाउ"><i>लेखाउ</i><par n="लड__vblex"/></e>
     <e lm="ओछ्याउ"><i>ओछ्याउ</i><par n="लड__vblex"/></e>
+    <e lm="बोकेर"><i>बोकेर</i><par n="आएर__vblex"/></e>
     <e lm="डाक्"><i>डाक्</i><par n="लड__vblex"/></e>
     <e lm="पस्"><i>पस्</i><par n="पस्__vblex"/></e>
     <e lm="फुका"><i>फुका</i><par n="फुका__vblex"/></e>
     <e lm="जगाइ"><i>जगाइ</i><par n="जगाइ__vblex"/></e>
-    <e lm="हुन्"><i>हुन</i><par n="हुन/्__vblex"/></e>
+    <e lm="हुन्"><i>ह</i><par n="ह/ुन्__vblex"/></e>
     <e lm="भोग्"><i>भोग्</i><par n="भोग्__vblex"/></e>
     <e lm="खेल"><i>खेल</i><par n="वच__vblex"/></e>
     <e lm="काट"><i>काट</i><par n="काट__vblex"/></e>
@@ -15813,6 +16179,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="आश्चर्य"><i>आश्चर्य</i><par n="ओत__vblex"/></e>
     <e lm="भर"><i>भर</i><par n="भर__vblex"/></e>
     <e lm="लोभ"><i>लोभ</i><par n="वच__vblex"/></e>
+    <e lm="लिएर"><i>लिएर</i><par n="भएर__vblex"/></e>
     <e lm="रहेछ"><i>रहेछ</i><par n="रहेछ__vblex"/></e>
     <e lm="मनलाग्"><i>मनलाग्</i><par n="मनलाग्__vblex"/></e>
     <e lm="कहल"><i>कहल</i><par n="वच__vblex"/></e>
@@ -15862,6 +16229,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="जान्"><i>जान</i><par n="जान/्__vblex"/></e>
     <e lm="गाँस्"><i>गाँस्</i><par n="लड__vblex"/></e>
     <e lm="हुँइँ"><i>हुँइँ</i><par n="बल्__vblex"/></e>
+    <e lm="थिई"><i>थिई</i><par n="थिई__vblex"/></e>
     <e lm="पोतर्"><i>पोतर्</i><par n="लड__vblex"/></e>
     <e lm="पल्टाउ"><i>पल्टाउ</i><par n="लड__vblex"/></e>
     <e lm="आउँ"><i>आउँ</i><par n="आउँ__vblex"/></e>
@@ -15941,6 +16309,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="थाल्"><i>थाल</i><par n="थाल/्__vblex"/></e>
     <e lm="डुल्"><i>डुल</i><par n="बढ/्__opt"/></e>
     <e lm="डुल्"><i>डुल</i><par n="डुल/्__vblex"/></e>
+    <e lm="छौँ"><i>छौँ</i><par n="छौँ__vblex"/></e>
     <e lm="चढाउ"><i>चढाउ</i><par n="लड__vblex"/></e>
     <e lm="रहं"><i>रहं</i><par n="छं__vblex"/></e>
     <e lm="ल्याउ"><i>ल्याउ</i><par n="लड्__vblex"/></e>
@@ -16250,6 +16619,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="बजाउँ"><i>बजाउँ</i><par n="सहँ__vblex"/></e>
     <e lm="घबराउ"><i>घबराउ</i><par n="लड__vblex"/></e>
     <e lm="किन"><i>किन</i><par n="बोक__vblex"/></e>
+    <e lm="भएर"><i>भएर</i><par n="भएर__vblex"/></e>
     <e lm="पच्"><i>पच</i><par n="पच/्__vblex"/></e>
     <e lm="देउन"><i>देउन</i><par n="आओ__vblex"/></e>
     <e lm="जगाउ"><i>जगाउ</i><par n="लाउ__vblex"/></e>
@@ -16297,6 +16667,7 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="बेच्"><i>बेच्</i><par n="बेच्__vblex"/></e>
     <e lm="छपाउ"><i>छपाउ</i><par n="लड__vblex"/></e>
     <e lm="ब्यूँझ"><i>ब्यूँझ</i><par n="लड__vblex"/></e>
+    <e lm="लगाएर"><i>लगाएर</i><par n="आएर__vblex"/></e>
     <e lm="पर्स"><i>पर्स</i><par n="लड__vblex"/></e>
     <e lm="सम्"><i>सम्</i><par n="सम्__vblex"/></e>
     <e lm="चुहि"><i>चुहि</i><par n="लड__vblex"/></e>
@@ -16422,7 +16793,8 @@ Changes made to the orginal symbol in order to comply with Bengali Symbols and o
     <e lm="सुहाउं"><i>सुहाउं</i><par n="बल्__vblex"/></e>
     <e lm="नमिल्"><i>नमिल्</i><par n="पोल्__vblex"/></e>
     <e lm="सुहाउँ"><i>सुहाउँ</i><par n="जल्__vblex"/></e>
-  </section>
+
+</section>
 	<section id="final" type="inconditional">
 <e>       <par n="numerals"/></e>
 <e>       <par n="separa"/></e>

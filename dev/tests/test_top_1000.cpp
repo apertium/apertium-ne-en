@@ -43,7 +43,10 @@ int main()
   
   for(int i=0;i<=999;i++)
   {
-    v.push_back(limited_rand(330272));
+    //To take random
+    //v.push_back(limited_rand(330272));
+    //To take only top 1000
+    v.push_back(i);
   }
   //for(int i=0;i<=999;i++)
     //cout<<vs[v[i]];
