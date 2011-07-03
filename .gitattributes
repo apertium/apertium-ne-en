@@ -34,8 +34,6 @@ dev/determiner/determiner.ne.dix -text
 dev/determiner/determiner.ne.speling -text
 dev/determiner/newdix -text
 dev/determiner/paradigm-chopper.py -text
-dev/en-ne.autogen.bin -text
-dev/ne-en.automorf.bin -text
 dev/noun/newdix -text
 dev/noun/noun.ne.dix -text
 dev/noun/noun.ne.speling -text
