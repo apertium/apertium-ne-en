@@ -71,3 +71,8 @@ dev/verb/verb.ne.speling -text
 /en-ne.prob -text svneol=unset#unset
 /modes.xml -text
 /ne-en.prob -text svneol=unset#unset
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
