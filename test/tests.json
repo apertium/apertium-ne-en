@@ -1,0 +1,10 @@
+{
+    "en-ne": {
+        "input": "en-ne-input.txt",
+        "mode": "en-ne"
+    },
+    "ne-en": {
+        "input": "ne-en-input.txt",
+        "mode": "ne-en"
+    }
+}

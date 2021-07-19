@@ -1,0 +1,18 @@
+[02PZAo06M4PU#0] ^@9908,777<num>$
+[/02PZAo06M4PU]
+[97ojStG0UxKC#0] ^prpers<prn><subj><p1><mf><sg>$
+[/97ojStG0UxKC]
+[EpY9FXMhvO_R#0] ^prpers<prn><subj><p3><nt><sg>$
+[/EpY9FXMhvO_R]
+[QbgF6nrAFOI1#0] ^@;<sent>$
+[/QbgF6nrAFOI1]
+[VTdZXtYW9wJt#0] ^wolf<n><pl>$
+[/VTdZXtYW9wJt]
+[bkLu-iKzq2ql#0] ^nine<num><sp>$
+[/bkLu-iKzq2ql]
+[ckDuSVs8KyXz#0] ^@4.62<num>$
+[/ckDuSVs8KyXz]
+[u3IIvJtdfATx#0] ^@!<sent>$
+[/u3IIvJtdfATx]
+[xNVrpUTAlAI9#0] ^prpers<prn><subj><p3><mf><pl>$
+[/xNVrpUTAlAI9]
